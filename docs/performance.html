@@ -121,9 +121,9 @@
 
   <section class="headline-callout">
     <span class="big">Beats baseline on Home/Away distinction, but has no signal on match evenness.</span>
-    This model (Random Forest) reaches 46.4% accuracy against a 42.5%
+    This model (Random Forest) reaches 46.3% accuracy against a 42.5%
     "always predict Home Win" baseline — a real but thin lift. The more important finding is that it
-    catches only 7.8% of actual draws, and the precision@k diagnostic below confirms this
+    catches only 7.0% of actual draws, and the precision@k diagnostic below confirms this
     isn't a fixable threshold quirk: the model genuinely has no signal that separates an evenly-matched
     game from a lopsided one.
   </section>
@@ -131,10 +131,10 @@
   <section class="card">
     <h2>Topline numbers</h2>
     <div class="topline-grid">
-      <div class="topline"><div class="value">46.4%</div><div class="label">Model accuracy</div></div>
+      <div class="topline"><div class="value">46.3%</div><div class="label">Model accuracy</div></div>
       <div class="topline"><div class="value">42.5%</div><div class="label">Baseline (always Home Win)</div></div>
       <div class="topline"><div class="value">1.061</div><div class="label">Log-loss</div></div>
-      <div class="topline"><div class="value">7.8%</div><div class="label">Draw recall</div></div>
+      <div class="topline"><div class="value">7.0%</div><div class="label">Draw recall</div></div>
       <div class="topline"><div class="value">950 / 1140</div><div class="label">Matches scored (CV)</div></div>
     </div>
     <p class="matrix-caption">Scored via 5-fold expanding-window time-based cross-validation (not a single
@@ -150,7 +150,7 @@
         <tr><th rowspan="2"></th><th colspan="3">Predicted</th><th rowspan="2">Recall</th></tr>
         <tr><th>Home Win</th><th>Draw</th><th>Away Win</th></tr>
       </thead>
-      <tbody><tr><th>Home Win</th><td class="diag">256</td><td class="">40</td><td class="">108</td><td class="recall">63.4%</td></tr><tr><th>Draw</th><td class="">124</td><td class="diag">19</td><td class="">100</td><td class="recall">7.8%</td></tr><tr><th>Away Win</th><td class="">106</td><td class="">31</td><td class="diag">166</td><td class="recall">54.8%</td></tr></tbody>
+      <tbody><tr><th>Home Win</th><td class="diag">257</td><td class="">31</td><td class="">116</td><td class="recall">63.6%</td></tr><tr><th>Draw</th><td class="">115</td><td class="diag">17</td><td class="">111</td><td class="recall">7.0%</td></tr><tr><th>Away Win</th><td class="">108</td><td class="">29</td><td class="diag">166</td><td class="recall">54.8%</td></tr></tbody>
     </table>
     <p class="matrix-caption">Rows = actual result, columns = predicted result. Recall = how often that
     actual outcome was correctly identified.</p>
@@ -164,17 +164,17 @@
       likely to be a draw</strong> by raw P(Draw), regardless of what actually won the 3-way argmax, and
       check how many really were draws.</p>
       <div class="stat-grid">
-        <div class="stat"><div class="stat-label">Mean P(Draw), actual draws</div><div class="stat-value">0.246</div></div>
-        <div class="stat"><div class="stat-label">Mean P(Draw), actual non-draws</div><div class="stat-value">0.247</div></div>
-        <div class="stat"><div class="stat-label">Gap</div><div class="stat-value stat-bad">-0.001</div></div>
-        <div class="stat"><div class="stat-label">Precision@243</div><div class="stat-value">25.9%</div></div>
+        <div class="stat"><div class="stat-label">Mean P(Draw), actual draws</div><div class="stat-value">0.243</div></div>
+        <div class="stat"><div class="stat-label">Mean P(Draw), actual non-draws</div><div class="stat-value">0.248</div></div>
+        <div class="stat"><div class="stat-label">Gap</div><div class="stat-value stat-bad">-0.005</div></div>
+        <div class="stat"><div class="stat-label">Precision@243</div><div class="stat-value">25.1%</div></div>
         <div class="stat"><div class="stat-label">Base rate (random)</div><div class="stat-value">25.6%</div></div>
-        <div class="stat"><div class="stat-label">Lift over random</div><div class="stat-value stat-bad">+0.3%</div></div>
+        <div class="stat"><div class="stat-label">Lift over random</div><div class="stat-value stat-bad">-0.5%</div></div>
       </div>
       <p class="verdict"><strong>Verdict: Genuine signal gap.</strong>
-      P(Draw) for actual draws (0.246) is essentially identical to
-      P(Draw) for non-draws (0.247), and ranking fixtures by P(Draw) only
-      beats random guessing by +0.3%. If this had been a threshold problem, that ranking would show
+      P(Draw) for actual draws (0.243) is essentially identical to
+      P(Draw) for non-draws (0.248), and ranking fixtures by P(Draw) only
+      beats random guessing by -0.5%. If this had been a threshold problem, that ranking would show
       real separation even though argmax still picks Home/Away - it doesn't. The current feature set
       (goals/form/H2H, no shots data) genuinely doesn't distinguish an evenly-matched game from a lopsided
       one. See Future Work below for what would actually address this.</p>
@@ -187,7 +187,7 @@
     
     <table class="calibration">
       <thead><tr><th>Confidence bin</th><th>n</th><th>Mean confidence</th><th>Actual accuracy</th></tr></thead>
-      <tbody><tr><td>[0.00, 0.40)</td><td>186</td><td>37.7%</td><td class="">34.9%</td></tr><tr><td>[0.40, 0.50)</td><td>398</td><td>45.0%</td><td class="">42.2%</td></tr><tr><td>[0.50, 0.60)</td><td>234</td><td>54.1%</td><td class="">55.1%</td></tr><tr><td>[0.60, 1.01)</td><td>132</td><td>66.2%</td><td class="">59.8%</td></tr></tbody>
+      <tbody><tr><td>[0.00, 0.40)</td><td>163</td><td>37.6%</td><td class="">35.0%</td></tr><tr><td>[0.40, 0.50)</td><td>416</td><td>44.8%</td><td class="">43.0%</td></tr><tr><td>[0.50, 0.60)</td><td>246</td><td>54.3%</td><td class="">51.6%</td></tr><tr><td>[0.60, 1.01)</td><td>125</td><td>65.8%</td><td class="">61.6%</td></tr></tbody>
     </table>
     <p class="matrix-caption">Well-calibrated means each row's "actual accuracy" roughly matches its "mean
     confidence." The highest-confidence bin here is mildly overconfident - don't read a 60%+ predicted
@@ -207,7 +207,7 @@
   <section class="card">
     <h2>Known limitations</h2>
     <ul class="limitations"><li>Small sample: only 950 matches are ever scored under 5-fold expanding-window CV on a 1140-row dataset (free-tier API access caps historical data at 3 seasons) - a few points of accuracy either direction is within noise.</li>
-<li>Draws are hard to predict: 7.8% recall, and the root-cause analysis above found this is a genuine feature signal issue, not just 'draws are inherently unpredictable' - see the VERDICT above.</li>
+<li>Draws are hard to predict: 7.0% recall, and the root-cause analysis above found this is a genuine feature signal issue, not just 'draws are inherently unpredictable' - see the VERDICT above.</li>
 <li>No shots/SOT/corners/cards data: football-data.org's free tier doesn't expose these fields at all (confirmed from the raw API schema), so features are limited to goals/form/H2H.</li>
 <li>No player-availability/injury data: two teams with identical recent form can have very different real availability (injuries, suspensions) that this model has no way to see.</li>
 <li>Early-season and newly-promoted-team cold start: rolling features are NaN (median-imputed) for a team's first few matches in the dataset - see sanity_check.py's cold-start integrity check.</li></ul>
@@ -232,7 +232,7 @@
 // Embedded for inspectability, matching the sibling project's convention - not used for
 // rendering on this page (every statistic above is computed server-side in export_for_web.py
 // so it can never drift from what evaluate.py actually measured).
-const PERFORMANCE = {"n_total_rows": 1140, "n_scored_rows": 950, "baseline_accuracy": 0.42526315789473684, "model_accuracy": 0.46421052631578946, "model_log_loss": 1.0605806282297858, "confusion_matrix": [[256, 40, 108], [124, 19, 100], [106, 31, 166]], "label_names": ["Home Win", "Draw", "Away Win"], "draw_recall": 0.07818930041152264, "draw_root_cause": {"mean_p_draw_when_actual_draw": 0.24552796196905605, "mean_p_draw_when_not_draw": 0.24683750539318544, "predicted_draw_rate": 0.09473684210526316, "actual_draw_rate": 0.2557894736842105, "precision_at_k": 0.25925925925925924, "k": 243, "baseline_rate_for_precision_at_k": 0.2557894736842105}, "draw_root_cause_verdict": "signal_gap", "calibration": [{"bin": "[0.00, 0.40)", "n": 186, "mean_confidence": 0.3774608915033748, "actual_accuracy": 0.34946236559139787}, {"bin": "[0.40, 0.50)", "n": 398, "mean_confidence": 0.4502803726588906, "actual_accuracy": 0.4221105527638191}, {"bin": "[0.50, 0.60)", "n": 234, "mean_confidence": 0.541028319894306, "actual_accuracy": 0.5512820512820513}, {"bin": "[0.60, 1.01)", "n": 132, "mean_confidence": 0.6617269766328694, "actual_accuracy": 0.5984848484848485}], "limitations": ["Small sample: only 950 matches are ever scored under 5-fold expanding-window CV on a 1140-row dataset (free-tier API access caps historical data at 3 seasons) - a few points of accuracy either direction is within noise.", "Draws are hard to predict: 7.8% recall, and the root-cause analysis above found this is a genuine feature signal issue, not just 'draws are inherently unpredictable' - see the VERDICT above.", "No shots/SOT/corners/cards data: football-data.org's free tier doesn't expose these fields at all (confirmed from the raw API schema), so features are limited to goals/form/H2H.", "No player-availability/injury data: two teams with identical recent form can have very different real availability (injuries, suspensions) that this model has no way to see.", "Early-season and newly-promoted-team cold start: rolling features are NaN (median-imputed) for a team's first few matches in the dataset - see sanity_check.py's cold-start integrity check."]};
+const PERFORMANCE = {"n_total_rows": 1140, "n_scored_rows": 950, "baseline_accuracy": 0.42526315789473684, "model_accuracy": 0.4631578947368421, "model_log_loss": 1.0614353491069857, "confusion_matrix": [[257, 31, 116], [115, 17, 111], [108, 29, 166]], "label_names": ["Home Win", "Draw", "Away Win"], "draw_recall": 0.06995884773662552, "draw_root_cause": {"mean_p_draw_when_actual_draw": 0.2430816201580079, "mean_p_draw_when_not_draw": 0.24780735072487461, "predicted_draw_rate": 0.08105263157894736, "actual_draw_rate": 0.2557894736842105, "precision_at_k": 0.25102880658436216, "k": 243, "baseline_rate_for_precision_at_k": 0.2557894736842105}, "draw_root_cause_verdict": "signal_gap", "calibration": [{"bin": "[0.00, 0.40)", "n": 163, "mean_confidence": 0.3758938967327035, "actual_accuracy": 0.3496932515337423}, {"bin": "[0.40, 0.50)", "n": 416, "mean_confidence": 0.44772765354969635, "actual_accuracy": 0.43028846153846156}, {"bin": "[0.50, 0.60)", "n": 246, "mean_confidence": 0.5429750227632882, "actual_accuracy": 0.516260162601626}, {"bin": "[0.60, 1.01)", "n": 125, "mean_confidence": 0.6576653374128303, "actual_accuracy": 0.616}], "limitations": ["Small sample: only 950 matches are ever scored under 5-fold expanding-window CV on a 1140-row dataset (free-tier API access caps historical data at 3 seasons) - a few points of accuracy either direction is within noise.", "Draws are hard to predict: 7.0% recall, and the root-cause analysis above found this is a genuine feature signal issue, not just 'draws are inherently unpredictable' - see the VERDICT above.", "No shots/SOT/corners/cards data: football-data.org's free tier doesn't expose these fields at all (confirmed from the raw API schema), so features are limited to goals/form/H2H.", "No player-availability/injury data: two teams with identical recent form can have very different real availability (injuries, suspensions) that this model has no way to see.", "Early-season and newly-promoted-team cold start: rolling features are NaN (median-imputed) for a team's first few matches in the dataset - see sanity_check.py's cold-start integrity check."]};
 </script>
 
 </body>
