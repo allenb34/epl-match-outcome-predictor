@@ -1,0 +1,150 @@
+name: Weekly data refresh
+
+# Runs the full pipeline (fetch -> feature engineering -> retrain -> predict
+# -> export) on a schedule and pushes the refreshed data/, modeling/artifacts/,
+# and docs/ back to the repo. Mirrors the sibling pl-transfer-value-predictor
+# project's refresh_data.yml pattern. Also runnable on demand from the Actions
+# tab.
+#
+# Safety: every pipeline step below runs with GitHub Actions' default
+# behavior - if any step exits non-zero, the job stops immediately and NO
+# later step (including the commit/push step) runs. Combined with the row
+# count sanity check, this means a broken run can never overwrite the last
+# known good docs/ site; it can only fail loudly.
+#
+# Timing: Friday, ahead of the typical Saturday/Sunday EPL match round, so
+# upcoming-fixture predictions are fresh going into the weekend.
+
+on:
+  schedule:
+    - cron: "0 6 * * 5"  # every Friday at 06:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write  # needed to commit and push with the default GITHUB_TOKEN
+
+# A minimum sane row count for data/processed/matches_dataset.csv. The
+# historical dataset has run at 1,140 rows in practice (3 complete seasons x
+# 380 matches - see README for why football-data.org's free tier caps it
+# there) - this floor is meant to catch a catastrophic failure (e.g. an API
+# returning an empty/near-empty response without actually erroring), not to
+# flag normal fluctuation.
+env:
+  MIN_EXPECTED_ROWS: 1000
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Record row count before refresh
+        id: before
+        run: |
+          if [ -f data/processed/matches_dataset.csv ]; then
+            COUNT=$(($(wc -l < data/processed/matches_dataset.csv) - 1))
+          else
+            COUNT="N/A (no existing dataset)"
+          fi
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: Fetch historical results (football-data.org, fixed 3-season window)
+        working-directory: data_collection
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: python fetch_historical_results.py
+
+      - name: Fetch upcoming fixtures + current season's played matches (football-data.org)
+        working-directory: data_collection
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: python fetch_upcoming_fixtures.py
+
+      - name: Build engineered features
+        working-directory: data_collection
+        run: python build_features.py
+
+      - name: Sanity-check the dataset before trusting this run's output
+        run: |
+          cd data_collection && python sanity_check.py
+          cd ..
+          if [ ! -f data/processed/matches_dataset.csv ]; then
+            echo "::error::data/processed/matches_dataset.csv was not produced - aborting before touching anything committed."
+            exit 1
+          fi
+          COUNT=$(($(wc -l < data/processed/matches_dataset.csv) - 1))
+          echo "row_count=$COUNT" >> "$GITHUB_ENV"
+          if [ "$COUNT" -lt "$MIN_EXPECTED_ROWS" ]; then
+            echo "::error::matches_dataset.csv only has $COUNT rows (expected at least $MIN_EXPECTED_ROWS) - this run's data looks broken, aborting before committing anything."
+            exit 1
+          fi
+          echo "Row count looks sane: $COUNT rows."
+
+      - name: Retrain final model on all data
+        working-directory: modeling
+        run: python train_final_model.py
+
+      - name: Re-evaluate the retrained model (accuracy, confusion matrix, draw-recall diagnostics)
+        working-directory: modeling
+        run: python evaluate.py
+
+      - name: Score upcoming fixtures
+        working-directory: modeling
+        run: python predict.py
+
+      - name: Export model + data for the static site
+        working-directory: docs
+        run: python export_for_web.py
+
+      - name: Commit and push refreshed data (skips cleanly if nothing changed)
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ modeling/artifacts/ docs/
+          if git diff --cached --quiet; then
+            echo "No changes to commit - data is identical to last run."
+            echo "committed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Automated weekly data refresh"
+            git push
+            echo "committed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo "## Weekly data refresh summary"
+            echo ""
+            echo "| | |"
+            echo "|---|---|"
+            echo "| Historical rows before | ${{ steps.before.outputs.count }} |"
+            echo "| Historical rows after | ${{ env.row_count || 'N/A - pipeline failed before producing a dataset' }} |"
+            if [ "${{ job.status }}" = "success" ]; then
+              if [ "${{ steps.commit.outputs.committed }}" = "true" ]; then
+                echo "| Commit | Pushed - data changed since last run |"
+              else
+                echo "| Commit | Skipped - no changes since last run |"
+              fi
+              echo ""
+              echo "Pipeline completed successfully."
+            else
+              echo "| Commit | **Skipped - pipeline failed, nothing was pushed** |"
+              echo ""
+              echo "**One or more pipeline steps failed.** The last known good \`docs/\` site was left untouched."
+              echo "Scroll up to the first red step above for the actual error - common causes:"
+              echo "- \`FOOTBALL_DATA_API_KEY\` secret missing, expired, or rate-limited (football-data.org free tier: 10 requests/minute)"
+              echo "- football-data.org temporarily unreachable (this happened once during development - see README)"
+              echo "- the row-count sanity check tripping because a source returned unexpectedly little data"
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"

@@ -1,0 +1,73 @@
+{
+  "n_total_rows": 1140,
+  "n_scored_rows": 950,
+  "baseline_accuracy": 0.42526315789473684,
+  "model_accuracy": 0.46421052631578946,
+  "model_log_loss": 1.0605806282297858,
+  "confusion_matrix": [
+    [
+      256,
+      40,
+      108
+    ],
+    [
+      124,
+      19,
+      100
+    ],
+    [
+      106,
+      31,
+      166
+    ]
+  ],
+  "label_names": [
+    "Home Win",
+    "Draw",
+    "Away Win"
+  ],
+  "draw_recall": 0.07818930041152264,
+  "draw_root_cause": {
+    "mean_p_draw_when_actual_draw": 0.24552796196905605,
+    "mean_p_draw_when_not_draw": 0.24683750539318544,
+    "predicted_draw_rate": 0.09473684210526316,
+    "actual_draw_rate": 0.2557894736842105,
+    "precision_at_k": 0.25925925925925924,
+    "k": 243,
+    "baseline_rate_for_precision_at_k": 0.2557894736842105
+  },
+  "draw_root_cause_verdict": "signal_gap",
+  "calibration": [
+    {
+      "bin": "[0.00, 0.40)",
+      "n": 186,
+      "mean_confidence": 0.3774608915033748,
+      "actual_accuracy": 0.34946236559139787
+    },
+    {
+      "bin": "[0.40, 0.50)",
+      "n": 398,
+      "mean_confidence": 0.4502803726588906,
+      "actual_accuracy": 0.4221105527638191
+    },
+    {
+      "bin": "[0.50, 0.60)",
+      "n": 234,
+      "mean_confidence": 0.541028319894306,
+      "actual_accuracy": 0.5512820512820513
+    },
+    {
+      "bin": "[0.60, 1.01)",
+      "n": 132,
+      "mean_confidence": 0.6617269766328694,
+      "actual_accuracy": 0.5984848484848485
+    }
+  ],
+  "limitations": [
+    "Small sample: only 950 matches are ever scored under 5-fold expanding-window CV on a 1140-row dataset (free-tier API access caps historical data at 3 seasons) - a few points of accuracy either direction is within noise.",
+    "Draws are hard to predict: 7.8% recall, and the root-cause analysis above found this is a genuine feature signal issue, not just 'draws are inherently unpredictable' - see the VERDICT above.",
+    "No shots/SOT/corners/cards data: football-data.org's free tier doesn't expose these fields at all (confirmed from the raw API schema), so features are limited to goals/form/H2H.",
+    "No player-availability/injury data: two teams with identical recent form can have very different real availability (injuries, suspensions) that this model has no way to see.",
+    "Early-season and newly-promoted-team cold start: rolling features are NaN (median-imputed) for a team's first few matches in the dataset - see sanity_check.py's cold-start integrity check."
+  ]
+}
