@@ -79,6 +79,7 @@
     margin-bottom: 0.75rem;
   }
   table { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
+  table caption { text-align: left; font-size: 0.8rem; font-weight: 400; color: var(--muted); padding-bottom: 0.5rem; }
   th, td { text-align: left; padding: 0.5rem 0.6rem; border-bottom: 1px solid var(--border); }
   th { color: var(--muted); font-weight: 600; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.03em; }
   td.probs { color: var(--muted); font-size: 0.82rem; white-space: nowrap; }
@@ -125,6 +126,7 @@
     <input type="text" id="teamSearch" placeholder="Start typing a team name...">
     <div class="table-wrap">
       <table>
+        <caption>Upcoming EPL fixtures with model predictions</caption>
         <thead>
           <tr><th>Date</th><th>Home</th><th>Away</th><th>Prediction</th><th>Confidence</th><th>Probabilities</th></tr>
         </thead>

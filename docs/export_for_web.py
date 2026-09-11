@@ -96,7 +96,7 @@ def fixtures_table_html(predictions: pd.DataFrame) -> str:
 
 
 def confusion_matrix_html(cm: list, label_names: list) -> str:
-    header = "".join(f"<th>{name}</th>" for name in label_names)
+    header = "".join(f'<th scope="col">{name}</th>' for name in label_names)
     body_rows = []
     for i, row in enumerate(cm):
         row_total = sum(row)
@@ -104,7 +104,7 @@ def confusion_matrix_html(cm: list, label_names: list) -> str:
         cells = "".join(
             f'<td class="{"diag" if i == j else ""}">{v}</td>' for j, v in enumerate(row)
         )
-        body_rows.append(f'<tr><th>{label_names[i]}</th>{cells}<td class="recall">{recall:.1%}</td></tr>')
+        body_rows.append(f'<tr><th scope="row">{label_names[i]}</th>{cells}<td class="recall">{recall:.1%}</td></tr>')
     return f"""
     <table class="matrix">
       <thead>
