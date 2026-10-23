@@ -1,146 +1,16 @@
 [
   {
-    "match_id": 560603,
-    "utc_date": "2026-10-17 11:30:00+00:00",
-    "matchday": 7,
-    "home_team": "Everton",
-    "away_team": "Chelsea",
-    "home_win_prob": 0.3437822877904646,
-    "draw_prob": 0.3156607673251864,
-    "away_win_prob": 0.340556944884349,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.3437822877904646
-  },
-  {
-    "match_id": 560602,
-    "utc_date": "2026-10-17 14:00:00+00:00",
-    "matchday": 7,
-    "home_team": "Fulham",
-    "away_team": "Hull City",
-    "home_win_prob": 0.434126503502294,
-    "draw_prob": 0.2624480887765859,
-    "away_win_prob": 0.3034254077211205,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.434126503502294
-  },
-  {
-    "match_id": 560610,
-    "utc_date": "2026-10-17 14:00:00+00:00",
-    "matchday": 7,
-    "home_team": "Man City",
-    "away_team": "Ipswich Town",
-    "home_win_prob": 0.6676939071153849,
-    "draw_prob": 0.1956745223769452,
-    "away_win_prob": 0.1366315705076697,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.6676939071153849
-  },
-  {
-    "match_id": 560611,
-    "utc_date": "2026-10-17 14:00:00+00:00",
-    "matchday": 7,
-    "home_team": "Brentford",
-    "away_team": "Liverpool",
-    "home_win_prob": 0.3972943383187274,
-    "draw_prob": 0.3068420040025268,
-    "away_win_prob": 0.2958636576787458,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.3972943383187274
-  },
-  {
-    "match_id": 560607,
-    "utc_date": "2026-10-17 16:30:00+00:00",
-    "matchday": 7,
-    "home_team": "Newcastle",
-    "away_team": "Aston Villa",
-    "home_win_prob": 0.432125460347126,
-    "draw_prob": 0.2111573646960051,
-    "away_win_prob": 0.356717174956869,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.432125460347126
-  },
-  {
-    "match_id": 560604,
-    "utc_date": "2026-10-18 13:00:00+00:00",
-    "matchday": 7,
-    "home_team": "Bournemouth",
-    "away_team": "Sunderland",
-    "home_win_prob": 0.3594332994952119,
-    "draw_prob": 0.293107882824846,
-    "away_win_prob": 0.3474588176799421,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.3594332994952119
-  },
-  {
-    "match_id": 560605,
-    "utc_date": "2026-10-18 13:00:00+00:00",
-    "matchday": 7,
-    "home_team": "Leeds United",
-    "away_team": "Man United",
-    "home_win_prob": 0.4094084378850836,
-    "draw_prob": 0.2767502071166705,
-    "away_win_prob": 0.3138413549982464,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4094084378850836
-  },
-  {
-    "match_id": 560609,
-    "utc_date": "2026-10-18 13:00:00+00:00",
-    "matchday": 7,
-    "home_team": "Brighton Hove",
-    "away_team": "Crystal Palace",
-    "home_win_prob": 0.4165523284379304,
-    "draw_prob": 0.2897276224951915,
-    "away_win_prob": 0.293720049066878,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4165523284379304
-  },
-  {
-    "match_id": 560608,
-    "utc_date": "2026-10-18 15:30:00+00:00",
-    "matchday": 7,
-    "home_team": "Nottingham",
-    "away_team": "Arsenal",
-    "home_win_prob": 0.2357175755328248,
-    "draw_prob": 0.330497229568524,
-    "away_win_prob": 0.4337851948986514,
-    "predicted_result": "A",
-    "predicted_result_display": "Away Win",
-    "confidence": 0.4337851948986514
-  },
-  {
-    "match_id": 560606,
-    "utc_date": "2026-10-19 19:00:00+00:00",
-    "matchday": 7,
-    "home_team": "Tottenham",
-    "away_team": "Coventry City",
-    "home_win_prob": 0.3849471710825092,
-    "draw_prob": 0.3126542606262944,
-    "away_win_prob": 0.3023985682911969,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.3849471710825092
-  },
-  {
     "match_id": 560620,
     "utc_date": "2026-10-23 19:00:00+00:00",
     "matchday": 8,
     "home_team": "Ipswich Town",
     "away_team": "Nottingham",
-    "home_win_prob": 0.1815753274771869,
-    "draw_prob": 0.304393479235066,
-    "away_win_prob": 0.514031193287747,
-    "predicted_result": "A",
-    "predicted_result_display": "Away Win",
-    "confidence": 0.514031193287747
+    "home_win_prob": 0.20726963732638737,
+    "draw_prob": 0.40604877026408737,
+    "away_win_prob": 0.38668159240952543,
+    "predicted_result": "D",
+    "predicted_result_display": "Draw",
+    "confidence": 0.40604877026408737
   },
   {
     "match_id": 560614,
@@ -148,12 +18,12 @@
     "matchday": 8,
     "home_team": "Aston Villa",
     "away_team": "Man City",
-    "home_win_prob": 0.3503487726869173,
-    "draw_prob": 0.1930260818406312,
-    "away_win_prob": 0.4566251454724515,
-    "predicted_result": "A",
-    "predicted_result_display": "Away Win",
-    "confidence": 0.4566251454724515
+    "home_win_prob": 0.3921715931362687,
+    "draw_prob": 0.2624726933635455,
+    "away_win_prob": 0.34535571350018557,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.3921715931362687
   },
   {
     "match_id": 560616,
@@ -161,12 +31,12 @@
     "matchday": 8,
     "home_team": "Arsenal",
     "away_team": "Everton",
-    "home_win_prob": 0.6424029829935395,
-    "draw_prob": 0.1860771624370907,
-    "away_win_prob": 0.1715198545693697,
+    "home_win_prob": 0.6315473568853464,
+    "draw_prob": 0.19594788192955495,
+    "away_win_prob": 0.17250476118509886,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.6424029829935395
+    "confidence": 0.6315473568853464
   },
   {
     "match_id": 560618,
@@ -174,12 +44,12 @@
     "matchday": 8,
     "home_team": "Coventry City",
     "away_team": "Fulham",
-    "home_win_prob": 0.4590287882171736,
-    "draw_prob": 0.2928163598657193,
-    "away_win_prob": 0.2481548519171073,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4590287882171736
+    "home_win_prob": 0.34511704198257204,
+    "draw_prob": 0.2753650561666492,
+    "away_win_prob": 0.37951790185077877,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.37951790185077877
   },
   {
     "match_id": 560617,
@@ -187,12 +57,12 @@
     "matchday": 8,
     "home_team": "Chelsea",
     "away_team": "Tottenham",
-    "home_win_prob": 0.4620834455162363,
-    "draw_prob": 0.3278691851098216,
-    "away_win_prob": 0.2100473693739422,
+    "home_win_prob": 0.5020010804430324,
+    "draw_prob": 0.2682215369563762,
+    "away_win_prob": 0.22977738260059152,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4620834455162363
+    "confidence": 0.5020010804430324
   },
   {
     "match_id": 560615,
@@ -200,12 +70,12 @@
     "matchday": 8,
     "home_team": "Man United",
     "away_team": "Bournemouth",
-    "home_win_prob": 0.4069275806490736,
-    "draw_prob": 0.3307363301423198,
-    "away_win_prob": 0.2623360892086068,
+    "home_win_prob": 0.42689790334649486,
+    "draw_prob": 0.24814775648387727,
+    "away_win_prob": 0.3249543401696278,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4069275806490736
+    "confidence": 0.42689790334649486
   },
   {
     "match_id": 560619,
@@ -213,12 +83,12 @@
     "matchday": 8,
     "home_team": "Hull City",
     "away_team": "Brentford",
-    "home_win_prob": 0.3460019105435059,
-    "draw_prob": 0.2877392504164572,
-    "away_win_prob": 0.3662588390400371,
+    "home_win_prob": 0.3420283996101825,
+    "draw_prob": 0.2851176175889057,
+    "away_win_prob": 0.37285398280091203,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.3662588390400371
+    "confidence": 0.37285398280091203
   },
   {
     "match_id": 560612,
@@ -226,12 +96,12 @@
     "matchday": 8,
     "home_team": "Liverpool",
     "away_team": "Brighton Hove",
-    "home_win_prob": 0.5358201359856803,
-    "draw_prob": 0.175433589437806,
-    "away_win_prob": 0.2887462745765137,
+    "home_win_prob": 0.5263467101207098,
+    "draw_prob": 0.2128197996019114,
+    "away_win_prob": 0.26083349027737884,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.5358201359856803
+    "confidence": 0.5263467101207098
   },
   {
     "match_id": 560613,
@@ -239,12 +109,12 @@
     "matchday": 8,
     "home_team": "Crystal Palace",
     "away_team": "Newcastle",
-    "home_win_prob": 0.329843867435265,
-    "draw_prob": 0.3172649081438006,
-    "away_win_prob": 0.3528912244209343,
-    "predicted_result": "A",
-    "predicted_result_display": "Away Win",
-    "confidence": 0.3528912244209343
+    "home_win_prob": 0.3386263077879091,
+    "draw_prob": 0.32983374807373034,
+    "away_win_prob": 0.3315399441383604,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.3386263077879091
   },
   {
     "match_id": 560621,
@@ -252,12 +122,12 @@
     "matchday": 8,
     "home_team": "Sunderland",
     "away_team": "Leeds United",
-    "home_win_prob": 0.4715799864265328,
-    "draw_prob": 0.2367191863634991,
-    "away_win_prob": 0.2917008272099683,
+    "home_win_prob": 0.48387594406276724,
+    "draw_prob": 0.20991336194930202,
+    "away_win_prob": 0.30621069398793094,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4715799864265328
+    "confidence": 0.48387594406276724
   },
   {
     "match_id": 560626,
@@ -265,12 +135,12 @@
     "matchday": 9,
     "home_team": "Chelsea",
     "away_team": "Man United",
-    "home_win_prob": 0.4050161562529006,
-    "draw_prob": 0.2671010271599633,
-    "away_win_prob": 0.3278828165871359,
+    "home_win_prob": 0.42959913397110133,
+    "draw_prob": 0.26181410968212815,
+    "away_win_prob": 0.3085867563467705,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4050161562529006
+    "confidence": 0.42959913397110133
   },
   {
     "match_id": 560623,
@@ -278,12 +148,12 @@
     "matchday": 9,
     "home_team": "Man City",
     "away_team": "Brighton Hove",
-    "home_win_prob": 0.538866784049609,
-    "draw_prob": 0.2007130282694319,
-    "away_win_prob": 0.2604201876809593,
+    "home_win_prob": 0.5184285183387477,
+    "draw_prob": 0.2330052613165838,
+    "away_win_prob": 0.24856622034466874,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.538866784049609
+    "confidence": 0.5184285183387477
   },
   {
     "match_id": 560624,
@@ -291,12 +161,12 @@
     "matchday": 9,
     "home_team": "Bournemouth",
     "away_team": "Leeds United",
-    "home_win_prob": 0.3930852699384159,
-    "draw_prob": 0.284041662281189,
-    "away_win_prob": 0.3228730677803954,
+    "home_win_prob": 0.4116265480207835,
+    "draw_prob": 0.30722943098425665,
+    "away_win_prob": 0.28114402099496005,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3930852699384159
+    "confidence": 0.4116265480207835
   },
   {
     "match_id": 560625,
@@ -304,12 +174,12 @@
     "matchday": 9,
     "home_team": "Coventry City",
     "away_team": "Sunderland",
-    "home_win_prob": 0.3818716660474993,
-    "draw_prob": 0.2865983927346754,
-    "away_win_prob": 0.3315299412178255,
+    "home_win_prob": 0.525358974203082,
+    "draw_prob": 0.25995047037760566,
+    "away_win_prob": 0.21469055541931284,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3818716660474993
+    "confidence": 0.525358974203082
   },
   {
     "match_id": 560629,
@@ -317,12 +187,12 @@
     "matchday": 9,
     "home_team": "Hull City",
     "away_team": "Ipswich Town",
-    "home_win_prob": 0.4129043647020515,
-    "draw_prob": 0.2733776239433063,
-    "away_win_prob": 0.3137180113546424,
+    "home_win_prob": 0.4038382792151352,
+    "draw_prob": 0.2580791663675139,
+    "away_win_prob": 0.33808255441735113,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4129043647020515
+    "confidence": 0.4038382792151352
   },
   {
     "match_id": 560630,
@@ -330,12 +200,12 @@
     "matchday": 9,
     "home_team": "Brentford",
     "away_team": "Nottingham",
-    "home_win_prob": 0.3962405762498177,
-    "draw_prob": 0.298311217852317,
-    "away_win_prob": 0.3054482058978653,
+    "home_win_prob": 0.39168151098748843,
+    "draw_prob": 0.31930293398837206,
+    "away_win_prob": 0.2890155550241397,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3962405762498177
+    "confidence": 0.39168151098748843
   },
   {
     "match_id": 560627,
@@ -343,12 +213,12 @@
     "matchday": 9,
     "home_team": "Tottenham",
     "away_team": "Crystal Palace",
-    "home_win_prob": 0.3574993635075392,
-    "draw_prob": 0.3151304614114991,
-    "away_win_prob": 0.3273701750809618,
+    "home_win_prob": 0.37349182527738756,
+    "draw_prob": 0.3112383907144347,
+    "away_win_prob": 0.31526978400817784,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3574993635075392
+    "confidence": 0.37349182527738756
   },
   {
     "match_id": 560628,
@@ -356,12 +226,12 @@
     "matchday": 9,
     "home_team": "Aston Villa",
     "away_team": "Fulham",
-    "home_win_prob": 0.4877795259457258,
-    "draw_prob": 0.2532133886290619,
-    "away_win_prob": 0.2590070854252125,
+    "home_win_prob": 0.5339876526624134,
+    "draw_prob": 0.20641369538166376,
+    "away_win_prob": 0.2595986519559229,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4877795259457258
+    "confidence": 0.5339876526624134
   },
   {
     "match_id": 560631,
@@ -369,12 +239,12 @@
     "matchday": 9,
     "home_team": "Liverpool",
     "away_team": "Arsenal",
-    "home_win_prob": 0.4375551201410506,
-    "draw_prob": 0.266188261354074,
-    "away_win_prob": 0.2962566185048755,
+    "home_win_prob": 0.4384992258104191,
+    "draw_prob": 0.2923668820255194,
+    "away_win_prob": 0.2691338921640617,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4375551201410506
+    "confidence": 0.4384992258104191
   },
   {
     "match_id": 560622,
@@ -382,12 +252,12 @@
     "matchday": 9,
     "home_team": "Newcastle",
     "away_team": "Everton",
-    "home_win_prob": 0.4752419686229062,
-    "draw_prob": 0.1960869896131367,
-    "away_win_prob": 0.328671041763957,
+    "home_win_prob": 0.40920505900602977,
+    "draw_prob": 0.19203886037423945,
+    "away_win_prob": 0.3987560806197309,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4752419686229062
+    "confidence": 0.40920505900602977
   },
   {
     "match_id": 560634,
@@ -395,12 +265,12 @@
     "matchday": 10,
     "home_team": "Everton",
     "away_team": "Coventry City",
-    "home_win_prob": 0.3841119347583179,
-    "draw_prob": 0.3612939650697008,
-    "away_win_prob": 0.2545941001719817,
+    "home_win_prob": 0.40658918630259405,
+    "draw_prob": 0.33020714854625266,
+    "away_win_prob": 0.26320366515115373,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3841119347583179
+    "confidence": 0.40658918630259405
   },
   {
     "match_id": 560632,
@@ -408,12 +278,12 @@
     "matchday": 10,
     "home_team": "Leeds United",
     "away_team": "Tottenham",
-    "home_win_prob": 0.4573579128553906,
-    "draw_prob": 0.2651645897982786,
-    "away_win_prob": 0.2774774973463307,
+    "home_win_prob": 0.40286255602384413,
+    "draw_prob": 0.24796083822755585,
+    "away_win_prob": 0.3491766057486001,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4573579128553906
+    "confidence": 0.40286255602384413
   },
   {
     "match_id": 560640,
@@ -421,12 +291,12 @@
     "matchday": 10,
     "home_team": "Arsenal",
     "away_team": "Hull City",
-    "home_win_prob": 0.6048052180500914,
-    "draw_prob": 0.2063244645936393,
-    "away_win_prob": 0.1888703173562694,
+    "home_win_prob": 0.6398728134525401,
+    "draw_prob": 0.21608749657889947,
+    "away_win_prob": 0.14403968996856034,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.6048052180500914
+    "confidence": 0.6398728134525401
   },
   {
     "match_id": 560633,
@@ -434,12 +304,12 @@
     "matchday": 10,
     "home_team": "Fulham",
     "away_team": "Newcastle",
-    "home_win_prob": 0.4302606686388187,
-    "draw_prob": 0.2514074036776654,
-    "away_win_prob": 0.3183319276835159,
+    "home_win_prob": 0.4303357551050296,
+    "draw_prob": 0.25799933806778963,
+    "away_win_prob": 0.31166490682718095,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4302606686388187
+    "confidence": 0.4303357551050296
   },
   {
     "match_id": 560641,
@@ -447,25 +317,12 @@
     "matchday": 10,
     "home_team": "Nottingham",
     "away_team": "Man City",
-    "home_win_prob": 0.2515168012622723,
-    "draw_prob": 0.3146320474844145,
-    "away_win_prob": 0.4338511512533135,
+    "home_win_prob": 0.24203654404439973,
+    "draw_prob": 0.33982707584571176,
+    "away_win_prob": 0.4181363801098889,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.4338511512533135
-  },
-  {
-    "match_id": 560638,
-    "utc_date": "2026-11-08 14:00:00+00:00",
-    "matchday": 10,
-    "home_team": "Brighton Hove",
-    "away_team": "Brentford",
-    "home_win_prob": 0.4786916388135495,
-    "draw_prob": 0.2513799558142074,
-    "away_win_prob": 0.2699284053722431,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4786916388135495
+    "confidence": 0.4181363801098889
   },
   {
     "match_id": 560637,
@@ -473,25 +330,25 @@
     "matchday": 10,
     "home_team": "Ipswich Town",
     "away_team": "Bournemouth",
-    "home_win_prob": 0.3062844192224962,
-    "draw_prob": 0.3043873160365392,
-    "away_win_prob": 0.389328264740965,
+    "home_win_prob": 0.21237566403343158,
+    "draw_prob": 0.3098228577849242,
+    "away_win_prob": 0.47780147818164415,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.389328264740965
+    "confidence": 0.47780147818164415
   },
   {
-    "match_id": 560636,
+    "match_id": 560638,
     "utc_date": "2026-11-08 14:00:00+00:00",
     "matchday": 10,
-    "home_team": "Sunderland",
-    "away_team": "Chelsea",
-    "home_win_prob": 0.399960592987619,
-    "draw_prob": 0.2258575090576491,
-    "away_win_prob": 0.3741818979547322,
+    "home_team": "Brighton Hove",
+    "away_team": "Brentford",
+    "home_win_prob": 0.45662974983535215,
+    "draw_prob": 0.2568086788886001,
+    "away_win_prob": 0.28656157127604776,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.399960592987619
+    "confidence": 0.45662974983535215
   },
   {
     "match_id": 560635,
@@ -499,12 +356,25 @@
     "matchday": 10,
     "home_team": "Crystal Palace",
     "away_team": "Liverpool",
-    "home_win_prob": 0.3314265446835424,
-    "draw_prob": 0.2801466314362897,
-    "away_win_prob": 0.3884268238801682,
+    "home_win_prob": 0.33196666280548015,
+    "draw_prob": 0.27226190112949217,
+    "away_win_prob": 0.39577143606502796,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.3884268238801682
+    "confidence": 0.39577143606502796
+  },
+  {
+    "match_id": 560636,
+    "utc_date": "2026-11-08 14:00:00+00:00",
+    "matchday": 10,
+    "home_team": "Sunderland",
+    "away_team": "Chelsea",
+    "home_win_prob": 0.3668112802100143,
+    "draw_prob": 0.19752939102692404,
+    "away_win_prob": 0.4356593287630621,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.4356593287630621
   },
   {
     "match_id": 560639,
@@ -512,12 +382,12 @@
     "matchday": 10,
     "home_team": "Man United",
     "away_team": "Aston Villa",
-    "home_win_prob": 0.4641057567797693,
-    "draw_prob": 0.2045001019838952,
-    "away_win_prob": 0.3313941412363355,
+    "home_win_prob": 0.5087564520966662,
+    "draw_prob": 0.18398624616374906,
+    "away_win_prob": 0.30725730173958476,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4641057567797693
+    "confidence": 0.5087564520966662
   },
   {
     "match_id": 560643,
@@ -525,12 +395,12 @@
     "matchday": 11,
     "home_team": "Man City",
     "away_team": "Fulham",
-    "home_win_prob": 0.604622492837571,
-    "draw_prob": 0.2717145743769312,
-    "away_win_prob": 0.1236629327854976,
+    "home_win_prob": 0.6011577568284937,
+    "draw_prob": 0.23424560294096694,
+    "away_win_prob": 0.16459664023053938,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.604622492837571
+    "confidence": 0.6011577568284937
   },
   {
     "match_id": 560642,
@@ -538,12 +408,12 @@
     "matchday": 11,
     "home_team": "Chelsea",
     "away_team": "Leeds United",
-    "home_win_prob": 0.502529759666419,
-    "draw_prob": 0.250880013041984,
-    "away_win_prob": 0.2465902272915968,
+    "home_win_prob": 0.5084123625973328,
+    "draw_prob": 0.23618384472693177,
+    "away_win_prob": 0.25540379267573543,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.502529759666419
+    "confidence": 0.5084123625973328
   },
   {
     "match_id": 560644,
@@ -551,12 +421,12 @@
     "matchday": 11,
     "home_team": "Aston Villa",
     "away_team": "Sunderland",
-    "home_win_prob": 0.5273710366432427,
-    "draw_prob": 0.2680813196090479,
-    "away_win_prob": 0.2045476437477097,
+    "home_win_prob": 0.56997793424098,
+    "draw_prob": 0.28090115015032163,
+    "away_win_prob": 0.14912091560869853,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.5273710366432427
+    "confidence": 0.56997793424098
   },
   {
     "match_id": 560647,
@@ -564,12 +434,12 @@
     "matchday": 11,
     "home_team": "Bournemouth",
     "away_team": "Nottingham",
-    "home_win_prob": 0.3842924228662038,
-    "draw_prob": 0.2984279443102464,
-    "away_win_prob": 0.3172796328235501,
+    "home_win_prob": 0.4148083561143953,
+    "draw_prob": 0.30714677889027847,
+    "away_win_prob": 0.2780448649953267,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3842924228662038
+    "confidence": 0.4148083561143953
   },
   {
     "match_id": 560648,
@@ -577,12 +447,12 @@
     "matchday": 11,
     "home_team": "Tottenham",
     "away_team": "Ipswich Town",
-    "home_win_prob": 0.4360970318058904,
-    "draw_prob": 0.3120208222348815,
-    "away_win_prob": 0.2518821459592282,
+    "home_win_prob": 0.4437420297936176,
+    "draw_prob": 0.30366566869158,
+    "away_win_prob": 0.25259230151480255,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4360970318058904
+    "confidence": 0.4437420297936176
   },
   {
     "match_id": 560650,
@@ -590,12 +460,12 @@
     "matchday": 11,
     "home_team": "Coventry City",
     "away_team": "Crystal Palace",
-    "home_win_prob": 0.3433925630572603,
-    "draw_prob": 0.2905333011012087,
-    "away_win_prob": 0.366074135841531,
+    "home_win_prob": 0.355502634141565,
+    "draw_prob": 0.27288969741429286,
+    "away_win_prob": 0.3716076684441423,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.366074135841531
+    "confidence": 0.3716076684441423
   },
   {
     "match_id": 560651,
@@ -603,12 +473,12 @@
     "matchday": 11,
     "home_team": "Newcastle",
     "away_team": "Arsenal",
-    "home_win_prob": 0.3558970434844612,
-    "draw_prob": 0.2026370097443108,
-    "away_win_prob": 0.4414659467712279,
+    "home_win_prob": 0.32472646893295115,
+    "draw_prob": 0.19382073940605601,
+    "away_win_prob": 0.4814527916609929,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.4414659467712279
+    "confidence": 0.4814527916609929
   },
   {
     "match_id": 560646,
@@ -616,12 +486,12 @@
     "matchday": 11,
     "home_team": "Hull City",
     "away_team": "Brighton Hove",
-    "home_win_prob": 0.3278157153192008,
-    "draw_prob": 0.2905522067043559,
-    "away_win_prob": 0.3816320779764435,
+    "home_win_prob": 0.2997420904521151,
+    "draw_prob": 0.28437514421575705,
+    "away_win_prob": 0.415882765332128,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.3816320779764435
+    "confidence": 0.415882765332128
   },
   {
     "match_id": 560645,
@@ -629,12 +499,12 @@
     "matchday": 11,
     "home_team": "Liverpool",
     "away_team": "Man United",
-    "home_win_prob": 0.513716694584737,
-    "draw_prob": 0.1906229318855149,
-    "away_win_prob": 0.2956603735297485,
+    "home_win_prob": 0.5109200635421023,
+    "draw_prob": 0.21918443295546866,
+    "away_win_prob": 0.2698955035024295,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.513716694584737
+    "confidence": 0.5109200635421023
   },
   {
     "match_id": 560649,
@@ -642,12 +512,12 @@
     "matchday": 11,
     "home_team": "Brentford",
     "away_team": "Everton",
-    "home_win_prob": 0.3962450142085205,
-    "draw_prob": 0.2848484409738951,
-    "away_win_prob": 0.3189065448175845,
+    "home_win_prob": 0.37173635509724046,
+    "draw_prob": 0.2994328090630777,
+    "away_win_prob": 0.3288308358396819,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3962450142085205
+    "confidence": 0.37173635509724046
   },
   {
     "match_id": 560658,
@@ -655,12 +525,12 @@
     "matchday": 12,
     "home_team": "Nottingham",
     "away_team": "Chelsea",
-    "home_win_prob": 0.3284462536440325,
-    "draw_prob": 0.3399281410754056,
-    "away_win_prob": 0.3316256052805619,
-    "predicted_result": "D",
-    "predicted_result_display": "Draw",
-    "confidence": 0.3399281410754056
+    "home_win_prob": 0.3467668561070966,
+    "draw_prob": 0.3225541410568092,
+    "away_win_prob": 0.33067900283609425,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.3467668561070966
   },
   {
     "match_id": 560652,
@@ -668,12 +538,12 @@
     "matchday": 12,
     "home_team": "Leeds United",
     "away_team": "Coventry City",
-    "home_win_prob": 0.4367096298263754,
-    "draw_prob": 0.2807441989620062,
-    "away_win_prob": 0.2825461712116189,
+    "home_win_prob": 0.4546362091388813,
+    "draw_prob": 0.2767844113404384,
+    "away_win_prob": 0.2685793795206809,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4367096298263754
+    "confidence": 0.4546362091388813
   },
   {
     "match_id": 560655,
@@ -681,12 +551,12 @@
     "matchday": 12,
     "home_team": "Man United",
     "away_team": "Brentford",
-    "home_win_prob": 0.4761090138616877,
-    "draw_prob": 0.1848834614881843,
-    "away_win_prob": 0.3390075246501279,
+    "home_win_prob": 0.44981381787008123,
+    "draw_prob": 0.21663952589207774,
+    "away_win_prob": 0.333546656237841,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4761090138616877
+    "confidence": 0.44981381787008123
   },
   {
     "match_id": 560653,
@@ -694,12 +564,12 @@
     "matchday": 12,
     "home_team": "Ipswich Town",
     "away_team": "Aston Villa",
-    "home_win_prob": 0.207736105502635,
-    "draw_prob": 0.2730139892998649,
-    "away_win_prob": 0.5192499051974999,
+    "home_win_prob": 0.20985370294222602,
+    "draw_prob": 0.2952292115467701,
+    "away_win_prob": 0.494917085511004,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.5192499051974999
+    "confidence": 0.494917085511004
   },
   {
     "match_id": 560656,
@@ -707,12 +577,12 @@
     "matchday": 12,
     "home_team": "Everton",
     "away_team": "Liverpool",
-    "home_win_prob": 0.3491402895686302,
-    "draw_prob": 0.3334240449662218,
-    "away_win_prob": 0.3174356654651481,
+    "home_win_prob": 0.3436265073419358,
+    "draw_prob": 0.31930564570491,
+    "away_win_prob": 0.3370678469531546,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3491402895686302
+    "confidence": 0.3436265073419358
   },
   {
     "match_id": 560661,
@@ -720,12 +590,12 @@
     "matchday": 12,
     "home_team": "Crystal Palace",
     "away_team": "Hull City",
-    "home_win_prob": 0.3928475336730338,
-    "draw_prob": 0.2998885623417227,
-    "away_win_prob": 0.3072639039852436,
+    "home_win_prob": 0.447972928709726,
+    "draw_prob": 0.30632975797210116,
+    "away_win_prob": 0.24569731331817277,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3928475336730338
+    "confidence": 0.447972928709726
   },
   {
     "match_id": 560660,
@@ -733,12 +603,12 @@
     "matchday": 12,
     "home_team": "Sunderland",
     "away_team": "Tottenham",
-    "home_win_prob": 0.4660691329141402,
-    "draw_prob": 0.238943750907948,
-    "away_win_prob": 0.294987116177912,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4660691329141402
+    "home_win_prob": 0.37876486000012916,
+    "draw_prob": 0.2186241475138937,
+    "away_win_prob": 0.40261099248597765,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.40261099248597765
   },
   {
     "match_id": 560657,
@@ -746,12 +616,12 @@
     "matchday": 12,
     "home_team": "Fulham",
     "away_team": "Bournemouth",
-    "home_win_prob": 0.3865247109475729,
-    "draw_prob": 0.3329108723136391,
-    "away_win_prob": 0.2805644167387884,
+    "home_win_prob": 0.4073899335472694,
+    "draw_prob": 0.28345381361544847,
+    "away_win_prob": 0.3091562528372823,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3865247109475729
+    "confidence": 0.4073899335472694
   },
   {
     "match_id": 560659,
@@ -759,12 +629,12 @@
     "matchday": 12,
     "home_team": "Brighton Hove",
     "away_team": "Newcastle",
-    "home_win_prob": 0.4472126533430531,
-    "draw_prob": 0.2701982238507766,
-    "away_win_prob": 0.2825891228061704,
+    "home_win_prob": 0.4488701084597097,
+    "draw_prob": 0.2635973594640826,
+    "away_win_prob": 0.28753253207620766,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4472126533430531
+    "confidence": 0.4488701084597097
   },
   {
     "match_id": 560654,
@@ -772,233 +642,155 @@
     "matchday": 12,
     "home_team": "Arsenal",
     "away_team": "Man City",
-    "home_win_prob": 0.4920662554675366,
-    "draw_prob": 0.2827885523410458,
-    "away_win_prob": 0.2251451921914178,
+    "home_win_prob": 0.4972530686543498,
+    "draw_prob": 0.2854094314619249,
+    "away_win_prob": 0.21733749988372553,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4920662554675366
-  },
-  {
-    "match_id": 560662,
-    "utc_date": "2026-12-02 20:00:00+00:00",
-    "matchday": 13,
-    "home_team": "Tottenham",
-    "away_team": "Fulham",
-    "home_win_prob": 0.3549555787634154,
-    "draw_prob": 0.3878100780549999,
-    "away_win_prob": 0.2572343431815847,
-    "predicted_result": "D",
-    "predicted_result_display": "Draw",
-    "confidence": 0.3878100780549999
-  },
-  {
-    "match_id": 560663,
-    "utc_date": "2026-12-02 20:00:00+00:00",
-    "matchday": 13,
-    "home_team": "Liverpool",
-    "away_team": "Sunderland",
-    "home_win_prob": 0.5526575666068159,
-    "draw_prob": 0.2585699061105052,
-    "away_win_prob": 0.1887725272826795,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.5526575666068159
-  },
-  {
-    "match_id": 560664,
-    "utc_date": "2026-12-02 20:00:00+00:00",
-    "matchday": 13,
-    "home_team": "Hull City",
-    "away_team": "Nottingham",
-    "home_win_prob": 0.3546688908828854,
-    "draw_prob": 0.3125830829837412,
-    "away_win_prob": 0.3327480261333735,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.3546688908828854
-  },
-  {
-    "match_id": 560665,
-    "utc_date": "2026-12-02 20:00:00+00:00",
-    "matchday": 13,
-    "home_team": "Chelsea",
-    "away_team": "Crystal Palace",
-    "home_win_prob": 0.494552991461495,
-    "draw_prob": 0.2711612752813668,
-    "away_win_prob": 0.234285733257138,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.494552991461495
-  },
-  {
-    "match_id": 560666,
-    "utc_date": "2026-12-02 20:00:00+00:00",
-    "matchday": 13,
-    "home_team": "Aston Villa",
-    "away_team": "Everton",
-    "home_win_prob": 0.5369579605685162,
-    "draw_prob": 0.1763867904534591,
-    "away_win_prob": 0.2866552489780246,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.5369579605685162
-  },
-  {
-    "match_id": 560667,
-    "utc_date": "2026-12-02 20:00:00+00:00",
-    "matchday": 13,
-    "home_team": "Brentford",
-    "away_team": "Arsenal",
-    "home_win_prob": 0.2847091632075837,
-    "draw_prob": 0.3215446544061454,
-    "away_win_prob": 0.3937461823862708,
-    "predicted_result": "A",
-    "predicted_result_display": "Away Win",
-    "confidence": 0.3937461823862708
+    "confidence": 0.4972530686543498
   },
   {
     "match_id": 560668,
-    "utc_date": "2026-12-02 20:00:00+00:00",
+    "utc_date": "2026-12-01 20:00:00+00:00",
     "matchday": 13,
     "home_team": "Coventry City",
     "away_team": "Ipswich Town",
-    "home_win_prob": 0.4051762988351845,
-    "draw_prob": 0.2589868594370867,
-    "away_win_prob": 0.335836841727729,
+    "home_win_prob": 0.39881385489894705,
+    "draw_prob": 0.24170205468675404,
+    "away_win_prob": 0.35948409041429896,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4051762988351845
+    "confidence": 0.39881385489894705
   },
   {
     "match_id": 560669,
-    "utc_date": "2026-12-02 20:00:00+00:00",
+    "utc_date": "2026-12-02 19:30:00+00:00",
     "matchday": 13,
     "home_team": "Man City",
     "away_team": "Leeds United",
-    "home_win_prob": 0.6102706685095424,
-    "draw_prob": 0.2202359209774413,
-    "away_win_prob": 0.1694934105130164,
+    "home_win_prob": 0.6004686622249386,
+    "draw_prob": 0.22730059044127782,
+    "away_win_prob": 0.17223074733378382,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.6102706685095424
+    "confidence": 0.6004686622249386
   },
   {
-    "match_id": 560670,
-    "utc_date": "2026-12-02 20:00:00+00:00",
+    "match_id": 560663,
+    "utc_date": "2026-12-02 19:30:00+00:00",
     "matchday": 13,
-    "home_team": "Newcastle",
-    "away_team": "Man United",
-    "home_win_prob": 0.4202076850924016,
-    "draw_prob": 0.2319702505570664,
-    "away_win_prob": 0.347822064350532,
+    "home_team": "Liverpool",
+    "away_team": "Sunderland",
+    "home_win_prob": 0.5979785832298954,
+    "draw_prob": 0.2498449900507208,
+    "away_win_prob": 0.15217642671938442,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4202076850924016
+    "confidence": 0.5979785832298954
+  },
+  {
+    "match_id": 560664,
+    "utc_date": "2026-12-02 19:30:00+00:00",
+    "matchday": 13,
+    "home_team": "Hull City",
+    "away_team": "Nottingham",
+    "home_win_prob": 0.34701738129446175,
+    "draw_prob": 0.32108844070777454,
+    "away_win_prob": 0.3318941779977639,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.34701738129446175
+  },
+  {
+    "match_id": 560665,
+    "utc_date": "2026-12-02 19:30:00+00:00",
+    "matchday": 13,
+    "home_team": "Chelsea",
+    "away_team": "Crystal Palace",
+    "home_win_prob": 0.480168515191911,
+    "draw_prob": 0.2864453296426411,
+    "away_win_prob": 0.23338615516544814,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.480168515191911
   },
   {
     "match_id": 560671,
-    "utc_date": "2026-12-02 20:00:00+00:00",
+    "utc_date": "2026-12-02 20:15:00+00:00",
     "matchday": 13,
     "home_team": "Bournemouth",
     "away_team": "Brighton Hove",
-    "home_win_prob": 0.3274199204355389,
-    "draw_prob": 0.2614931961620203,
-    "away_win_prob": 0.4110868834024406,
+    "home_win_prob": 0.3228450824516861,
+    "draw_prob": 0.29891885892889974,
+    "away_win_prob": 0.3782360586194139,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.4110868834024406
+    "confidence": 0.3782360586194139
   },
   {
-    "match_id": 560679,
-    "utc_date": "2026-12-05 15:00:00+00:00",
-    "matchday": 14,
+    "match_id": 560670,
+    "utc_date": "2026-12-02 20:15:00+00:00",
+    "matchday": 13,
+    "home_team": "Newcastle",
+    "away_team": "Man United",
+    "home_win_prob": 0.4177260685780452,
+    "draw_prob": 0.2011912155376357,
+    "away_win_prob": 0.3810827158843189,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.4177260685780452
+  },
+  {
+    "match_id": 560666,
+    "utc_date": "2026-12-02 20:15:00+00:00",
+    "matchday": 13,
     "home_team": "Aston Villa",
-    "away_team": "Crystal Palace",
-    "home_win_prob": 0.4690180709890355,
-    "draw_prob": 0.2118572683664715,
-    "away_win_prob": 0.3191246606444931,
+    "away_team": "Everton",
+    "home_win_prob": 0.5515024798289281,
+    "draw_prob": 0.18284534972127822,
+    "away_win_prob": 0.26565217044979383,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4690180709890355
+    "confidence": 0.5515024798289281
   },
   {
-    "match_id": 560681,
-    "utc_date": "2026-12-05 15:00:00+00:00",
-    "matchday": 14,
-    "home_team": "Everton",
+    "match_id": 560667,
+    "utc_date": "2026-12-02 20:15:00+00:00",
+    "matchday": 13,
+    "home_team": "Brentford",
+    "away_team": "Arsenal",
+    "home_win_prob": 0.2792622577321701,
+    "draw_prob": 0.31851310513975634,
+    "away_win_prob": 0.40222463712807366,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.40222463712807366
+  },
+  {
+    "match_id": 560662,
+    "utc_date": "2026-12-03 20:00:00+00:00",
+    "matchday": 13,
+    "home_team": "Tottenham",
     "away_team": "Fulham",
-    "home_win_prob": 0.3988423291724965,
-    "draw_prob": 0.3164016565654188,
-    "away_win_prob": 0.2847560142620851,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.3988423291724965
-  },
-  {
-    "match_id": 560680,
-    "utc_date": "2026-12-05 15:00:00+00:00",
-    "matchday": 14,
-    "home_team": "Nottingham",
-    "away_team": "Brighton Hove",
-    "home_win_prob": 0.3311037817964645,
-    "draw_prob": 0.3642822079288495,
-    "away_win_prob": 0.3046140102746857,
+    "home_win_prob": 0.3469610164597756,
+    "draw_prob": 0.3601306811311541,
+    "away_win_prob": 0.2929083024090703,
     "predicted_result": "D",
     "predicted_result_display": "Draw",
-    "confidence": 0.3642822079288495
+    "confidence": 0.3601306811311541
   },
   {
-    "match_id": 560677,
-    "utc_date": "2026-12-05 15:00:00+00:00",
+    "match_id": 560676,
+    "utc_date": "2026-12-05 12:30:00+00:00",
     "matchday": 14,
-    "home_team": "Brentford",
-    "away_team": "Man City",
-    "home_win_prob": 0.2935603262025859,
-    "draw_prob": 0.303951112376852,
-    "away_win_prob": 0.4024885614205623,
-    "predicted_result": "A",
-    "predicted_result_display": "Away Win",
-    "confidence": 0.4024885614205623
-  },
-  {
-    "match_id": 560678,
-    "utc_date": "2026-12-05 15:00:00+00:00",
-    "matchday": 14,
-    "home_team": "Bournemouth",
-    "away_team": "Hull City",
-    "home_win_prob": 0.3783439423469048,
-    "draw_prob": 0.2773720311867561,
-    "away_win_prob": 0.3442840264663395,
+    "home_team": "Chelsea",
+    "away_team": "Liverpool",
+    "home_win_prob": 0.44914297350537746,
+    "draw_prob": 0.24640820126492582,
+    "away_win_prob": 0.30444882522969685,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3783439423469048
-  },
-  {
-    "match_id": 560675,
-    "utc_date": "2026-12-05 15:00:00+00:00",
-    "matchday": 14,
-    "home_team": "Newcastle",
-    "away_team": "Sunderland",
-    "home_win_prob": 0.4449310976555056,
-    "draw_prob": 0.2861859435820525,
-    "away_win_prob": 0.2688829587624421,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4449310976555056
-  },
-  {
-    "match_id": 560672,
-    "utc_date": "2026-12-05 15:00:00+00:00",
-    "matchday": 14,
-    "home_team": "Tottenham",
-    "away_team": "Arsenal",
-    "home_win_prob": 0.2407918762088509,
-    "draw_prob": 0.3545456205450671,
-    "away_win_prob": 0.404662503246082,
-    "predicted_result": "A",
-    "predicted_result_display": "Away Win",
-    "confidence": 0.404662503246082
+    "confidence": 0.44914297350537746
   },
   {
     "match_id": 560673,
@@ -1006,25 +798,12 @@
     "matchday": 14,
     "home_team": "Man United",
     "away_team": "Coventry City",
-    "home_win_prob": 0.4869508815798615,
-    "draw_prob": 0.2735609794557648,
-    "away_win_prob": 0.2394881389643743,
+    "home_win_prob": 0.5242063994906523,
+    "draw_prob": 0.24057441850248928,
+    "away_win_prob": 0.23521918200685885,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4869508815798615
-  },
-  {
-    "match_id": 560676,
-    "utc_date": "2026-12-05 15:00:00+00:00",
-    "matchday": 14,
-    "home_team": "Chelsea",
-    "away_team": "Liverpool",
-    "home_win_prob": 0.4453406975319426,
-    "draw_prob": 0.2501177825969829,
-    "away_win_prob": 0.3045415198710744,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4453406975319426
+    "confidence": 0.5242063994906523
   },
   {
     "match_id": 560674,
@@ -1032,64 +811,103 @@
     "matchday": 14,
     "home_team": "Leeds United",
     "away_team": "Ipswich Town",
-    "home_win_prob": 0.4671715769682136,
-    "draw_prob": 0.2884515780134609,
-    "away_win_prob": 0.2443768450183258,
+    "home_win_prob": 0.452013320997132,
+    "draw_prob": 0.29293536927418556,
+    "away_win_prob": 0.25505130972868273,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4671715769682136
+    "confidence": 0.452013320997132
   },
   {
-    "match_id": 560682,
-    "utc_date": "2026-12-12 15:00:00+00:00",
-    "matchday": 15,
-    "home_team": "Sunderland",
-    "away_team": "Nottingham",
-    "home_win_prob": 0.3676660594787469,
-    "draw_prob": 0.2326450319141071,
-    "away_win_prob": 0.3996889086071463,
+    "match_id": 560678,
+    "utc_date": "2026-12-05 15:00:00+00:00",
+    "matchday": 14,
+    "home_team": "Bournemouth",
+    "away_team": "Hull City",
+    "home_win_prob": 0.47002702613937564,
+    "draw_prob": 0.2646394689172082,
+    "away_win_prob": 0.2653335049434163,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.47002702613937564
+  },
+  {
+    "match_id": 560679,
+    "utc_date": "2026-12-05 15:00:00+00:00",
+    "matchday": 14,
+    "home_team": "Aston Villa",
+    "away_team": "Crystal Palace",
+    "home_win_prob": 0.4987238390830973,
+    "draw_prob": 0.22211555454644766,
+    "away_win_prob": 0.2791606063704551,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.4987238390830973
+  },
+  {
+    "match_id": 560680,
+    "utc_date": "2026-12-05 17:30:00+00:00",
+    "matchday": 14,
+    "home_team": "Nottingham",
+    "away_team": "Brighton Hove",
+    "home_win_prob": 0.3135032871363985,
+    "draw_prob": 0.3695728272337569,
+    "away_win_prob": 0.31692388562984436,
+    "predicted_result": "D",
+    "predicted_result_display": "Draw",
+    "confidence": 0.3695728272337569
+  },
+  {
+    "match_id": 560677,
+    "utc_date": "2026-12-05 20:00:00+00:00",
+    "matchday": 14,
+    "home_team": "Brentford",
+    "away_team": "Man City",
+    "home_win_prob": 0.2845988265017198,
+    "draw_prob": 0.3107906269521539,
+    "away_win_prob": 0.4046105465461266,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.3996889086071463
+    "confidence": 0.4046105465461266
   },
   {
-    "match_id": 560683,
-    "utc_date": "2026-12-12 15:00:00+00:00",
-    "matchday": 15,
-    "home_team": "Crystal Palace",
-    "away_team": "Man United",
-    "home_win_prob": 0.3482270832250156,
-    "draw_prob": 0.3162065634995638,
-    "away_win_prob": 0.3355663532754204,
+    "match_id": 560675,
+    "utc_date": "2026-12-06 14:00:00+00:00",
+    "matchday": 14,
+    "home_team": "Newcastle",
+    "away_team": "Sunderland",
+    "home_win_prob": 0.46883682037466,
+    "draw_prob": 0.2758848114680132,
+    "away_win_prob": 0.25527836815732713,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3482270832250156
+    "confidence": 0.46883682037466
   },
   {
-    "match_id": 560684,
-    "utc_date": "2026-12-12 15:00:00+00:00",
-    "matchday": 15,
-    "home_team": "Hull City",
-    "away_team": "Tottenham",
-    "home_win_prob": 0.4290536551858826,
-    "draw_prob": 0.3215833142835785,
-    "away_win_prob": 0.2493630305305389,
+    "match_id": 560681,
+    "utc_date": "2026-12-06 14:00:00+00:00",
+    "matchday": 14,
+    "home_team": "Everton",
+    "away_team": "Fulham",
+    "home_win_prob": 0.3868234010042456,
+    "draw_prob": 0.3191183960993229,
+    "away_win_prob": 0.29405820289643175,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4290536551858826
+    "confidence": 0.3868234010042456
   },
   {
-    "match_id": 560685,
-    "utc_date": "2026-12-12 15:00:00+00:00",
-    "matchday": 15,
-    "home_team": "Brighton Hove",
-    "away_team": "Everton",
-    "home_win_prob": 0.4337908733520441,
-    "draw_prob": 0.2742207823799992,
-    "away_win_prob": 0.2919883442679567,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4337908733520441
+    "match_id": 560672,
+    "utc_date": "2026-12-06 16:30:00+00:00",
+    "matchday": 14,
+    "home_team": "Tottenham",
+    "away_team": "Arsenal",
+    "home_win_prob": 0.25836895597096654,
+    "draw_prob": 0.35609046646303383,
+    "away_win_prob": 0.3855405775659997,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.3855405775659997
   },
   {
     "match_id": 560686,
@@ -1097,51 +915,12 @@
     "matchday": 15,
     "home_team": "Ipswich Town",
     "away_team": "Newcastle",
-    "home_win_prob": 0.2022435424062446,
-    "draw_prob": 0.2864006785446686,
-    "away_win_prob": 0.5113557790490867,
+    "home_win_prob": 0.23444768353647163,
+    "draw_prob": 0.31568023295793,
+    "away_win_prob": 0.4498720835055984,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.5113557790490867
-  },
-  {
-    "match_id": 560687,
-    "utc_date": "2026-12-12 15:00:00+00:00",
-    "matchday": 15,
-    "home_team": "Coventry City",
-    "away_team": "Aston Villa",
-    "home_win_prob": 0.345348515021704,
-    "draw_prob": 0.2937982283665612,
-    "away_win_prob": 0.360853256611735,
-    "predicted_result": "A",
-    "predicted_result_display": "Away Win",
-    "confidence": 0.360853256611735
-  },
-  {
-    "match_id": 560688,
-    "utc_date": "2026-12-12 15:00:00+00:00",
-    "matchday": 15,
-    "home_team": "Arsenal",
-    "away_team": "Bournemouth",
-    "home_win_prob": 0.5334810456197582,
-    "draw_prob": 0.2523631009717792,
-    "away_win_prob": 0.2141558534084628,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.5334810456197582
-  },
-  {
-    "match_id": 560689,
-    "utc_date": "2026-12-12 15:00:00+00:00",
-    "matchday": 15,
-    "home_team": "Man City",
-    "away_team": "Chelsea",
-    "home_win_prob": 0.6235280488637075,
-    "draw_prob": 0.2051016044946715,
-    "away_win_prob": 0.171370346641621,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.6235280488637075
+    "confidence": 0.4498720835055984
   },
   {
     "match_id": 560690,
@@ -1149,12 +928,12 @@
     "matchday": 15,
     "home_team": "Liverpool",
     "away_team": "Leeds United",
-    "home_win_prob": 0.5229802350609513,
-    "draw_prob": 0.2456952789774464,
-    "away_win_prob": 0.2313244859616028,
+    "home_win_prob": 0.5299252836917527,
+    "draw_prob": 0.24455660181187394,
+    "away_win_prob": 0.2255181144963739,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.5229802350609513
+    "confidence": 0.5299252836917527
   },
   {
     "match_id": 560691,
@@ -1162,129 +941,116 @@
     "matchday": 15,
     "home_team": "Fulham",
     "away_team": "Brentford",
-    "home_win_prob": 0.4501916585889965,
-    "draw_prob": 0.2384607696612944,
-    "away_win_prob": 0.3113475717497091,
+    "home_win_prob": 0.4399914457633652,
+    "draw_prob": 0.23683375784548416,
+    "away_win_prob": 0.3231747963911509,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4501916585889965
+    "confidence": 0.4399914457633652
   },
   {
-    "match_id": 560698,
-    "utc_date": "2026-12-19 15:00:00+00:00",
-    "matchday": 16,
-    "home_team": "Bournemouth",
-    "away_team": "Coventry City",
-    "home_win_prob": 0.4022791412122813,
-    "draw_prob": 0.2739045882912818,
-    "away_win_prob": 0.3238162704964371,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4022791412122813
-  },
-  {
-    "match_id": 560701,
-    "utc_date": "2026-12-19 15:00:00+00:00",
-    "matchday": 16,
-    "home_team": "Chelsea",
-    "away_team": "Aston Villa",
-    "home_win_prob": 0.421832999578177,
-    "draw_prob": 0.2668207733342818,
-    "away_win_prob": 0.3113462270875411,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.421832999578177
-  },
-  {
-    "match_id": 560700,
-    "utc_date": "2026-12-19 15:00:00+00:00",
-    "matchday": 16,
-    "home_team": "Liverpool",
-    "away_team": "Tottenham",
-    "home_win_prob": 0.548410172446452,
-    "draw_prob": 0.235717393567636,
-    "away_win_prob": 0.2158724339859123,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.548410172446452
-  },
-  {
-    "match_id": 560699,
-    "utc_date": "2026-12-19 15:00:00+00:00",
-    "matchday": 16,
-    "home_team": "Arsenal",
-    "away_team": "Man United",
-    "home_win_prob": 0.593484397614632,
-    "draw_prob": 0.1809741442581523,
-    "away_win_prob": 0.2255414581272156,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.593484397614632
-  },
-  {
-    "match_id": 560697,
-    "utc_date": "2026-12-19 15:00:00+00:00",
-    "matchday": 16,
-    "home_team": "Sunderland",
-    "away_team": "Crystal Palace",
-    "home_win_prob": 0.3953836215701388,
-    "draw_prob": 0.23141919935152,
-    "away_win_prob": 0.3731971790783416,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.3953836215701388
-  },
-  {
-    "match_id": 560696,
-    "utc_date": "2026-12-19 15:00:00+00:00",
-    "matchday": 16,
+    "match_id": 560689,
+    "utc_date": "2026-12-12 17:30:00+00:00",
+    "matchday": 15,
     "home_team": "Man City",
-    "away_team": "Hull City",
-    "home_win_prob": 0.667105448497602,
-    "draw_prob": 0.1903035276760563,
-    "away_win_prob": 0.1425910238263416,
+    "away_team": "Chelsea",
+    "home_win_prob": 0.6301797953411462,
+    "draw_prob": 0.19945284957989123,
+    "away_win_prob": 0.17036735507896253,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.667105448497602
+    "confidence": 0.6301797953411462
+  },
+  {
+    "match_id": 560685,
+    "utc_date": "2026-12-13 14:00:00+00:00",
+    "matchday": 15,
+    "home_team": "Brighton Hove",
+    "away_team": "Everton",
+    "home_win_prob": 0.4084459659559866,
+    "draw_prob": 0.302408218091994,
+    "away_win_prob": 0.2891458159520194,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.4084459659559866
+  },
+  {
+    "match_id": 560682,
+    "utc_date": "2026-12-13 14:00:00+00:00",
+    "matchday": 15,
+    "home_team": "Sunderland",
+    "away_team": "Nottingham",
+    "home_win_prob": 0.33404612482426344,
+    "draw_prob": 0.2601740742090345,
+    "away_win_prob": 0.40577980096670246,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.40577980096670246
+  },
+  {
+    "match_id": 560688,
+    "utc_date": "2026-12-13 14:00:00+00:00",
+    "matchday": 15,
+    "home_team": "Arsenal",
+    "away_team": "Bournemouth",
+    "home_win_prob": 0.5225705380531752,
+    "draw_prob": 0.20801524294815196,
+    "away_win_prob": 0.2694142189986731,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.5225705380531752
+  },
+  {
+    "match_id": 560687,
+    "utc_date": "2026-12-13 16:30:00+00:00",
+    "matchday": 15,
+    "home_team": "Coventry City",
+    "away_team": "Aston Villa",
+    "home_win_prob": 0.3504315098930722,
+    "draw_prob": 0.2613981768741761,
+    "away_win_prob": 0.38817031323275186,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.38817031323275186
+  },
+  {
+    "match_id": 560683,
+    "utc_date": "2026-12-13 19:00:00+00:00",
+    "matchday": 15,
+    "home_team": "Crystal Palace",
+    "away_team": "Man United",
+    "home_win_prob": 0.33775007397805645,
+    "draw_prob": 0.32618829252908216,
+    "away_win_prob": 0.3360616334928617,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.33775007397805645
+  },
+  {
+    "match_id": 560684,
+    "utc_date": "2026-12-14 20:00:00+00:00",
+    "matchday": 15,
+    "home_team": "Hull City",
+    "away_team": "Tottenham",
+    "home_win_prob": 0.3465020726481471,
+    "draw_prob": 0.27990109004979813,
+    "away_win_prob": 0.37359683730205506,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.37359683730205506
   },
   {
     "match_id": 560695,
-    "utc_date": "2026-12-19 15:00:00+00:00",
+    "utc_date": "2026-12-19 12:30:00+00:00",
     "matchday": 16,
     "home_team": "Brentford",
     "away_team": "Newcastle",
-    "home_win_prob": 0.3833088705470099,
-    "draw_prob": 0.293680392534984,
-    "away_win_prob": 0.3230107369180062,
+    "home_win_prob": 0.3800716077840864,
+    "draw_prob": 0.3292183744070308,
+    "away_win_prob": 0.2907100178088827,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3833088705470099
-  },
-  {
-    "match_id": 560694,
-    "utc_date": "2026-12-19 15:00:00+00:00",
-    "matchday": 16,
-    "home_team": "Nottingham",
-    "away_team": "Everton",
-    "home_win_prob": 0.3466977680419853,
-    "draw_prob": 0.3660842219585715,
-    "away_win_prob": 0.2872180099994432,
-    "predicted_result": "D",
-    "predicted_result_display": "Draw",
-    "confidence": 0.3660842219585715
-  },
-  {
-    "match_id": 560693,
-    "utc_date": "2026-12-19 15:00:00+00:00",
-    "matchday": 16,
-    "home_team": "Brighton Hove",
-    "away_team": "Ipswich Town",
-    "home_win_prob": 0.4763077148968401,
-    "draw_prob": 0.2880839887573924,
-    "away_win_prob": 0.2356082963457672,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4763077148968401
+    "confidence": 0.3800716077840864
   },
   {
     "match_id": 560692,
@@ -1292,12 +1058,116 @@
     "matchday": 16,
     "home_team": "Leeds United",
     "away_team": "Fulham",
-    "home_win_prob": 0.4744392627735929,
-    "draw_prob": 0.2618077883117933,
-    "away_win_prob": 0.2637529489146137,
+    "home_win_prob": 0.40902515404437506,
+    "draw_prob": 0.25757736960531863,
+    "away_win_prob": 0.3333974763503064,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4744392627735929
+    "confidence": 0.40902515404437506
+  },
+  {
+    "match_id": 560694,
+    "utc_date": "2026-12-19 15:00:00+00:00",
+    "matchday": 16,
+    "home_team": "Nottingham",
+    "away_team": "Everton",
+    "home_win_prob": 0.33000371631270187,
+    "draw_prob": 0.4046739814389354,
+    "away_win_prob": 0.26532230224836273,
+    "predicted_result": "D",
+    "predicted_result_display": "Draw",
+    "confidence": 0.4046739814389354
+  },
+  {
+    "match_id": 560696,
+    "utc_date": "2026-12-19 15:00:00+00:00",
+    "matchday": 16,
+    "home_team": "Man City",
+    "away_team": "Hull City",
+    "home_win_prob": 0.6847331849798334,
+    "draw_prob": 0.20174050780170713,
+    "away_win_prob": 0.11352630721845902,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.6847331849798334
+  },
+  {
+    "match_id": 560698,
+    "utc_date": "2026-12-19 15:00:00+00:00",
+    "matchday": 16,
+    "home_team": "Bournemouth",
+    "away_team": "Coventry City",
+    "home_win_prob": 0.430327116432766,
+    "draw_prob": 0.3002121112723933,
+    "away_win_prob": 0.26946077229484106,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.430327116432766
+  },
+  {
+    "match_id": 560700,
+    "utc_date": "2026-12-19 17:30:00+00:00",
+    "matchday": 16,
+    "home_team": "Liverpool",
+    "away_team": "Tottenham",
+    "home_win_prob": 0.5748285262638386,
+    "draw_prob": 0.1903937614877288,
+    "away_win_prob": 0.23477771224843277,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.5748285262638386
+  },
+  {
+    "match_id": 560697,
+    "utc_date": "2026-12-20 14:00:00+00:00",
+    "matchday": 16,
+    "home_team": "Sunderland",
+    "away_team": "Crystal Palace",
+    "home_win_prob": 0.39391876843863627,
+    "draw_prob": 0.2160544379421572,
+    "away_win_prob": 0.390026793619207,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.39391876843863627
+  },
+  {
+    "match_id": 560693,
+    "utc_date": "2026-12-20 14:00:00+00:00",
+    "matchday": 16,
+    "home_team": "Brighton Hove",
+    "away_team": "Ipswich Town",
+    "home_win_prob": 0.4559594862908273,
+    "draw_prob": 0.303574016678352,
+    "away_win_prob": 0.24046649703082046,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.4559594862908273
+  },
+  {
+    "match_id": 560699,
+    "utc_date": "2026-12-20 16:30:00+00:00",
+    "matchday": 16,
+    "home_team": "Arsenal",
+    "away_team": "Man United",
+    "home_win_prob": 0.5672408925187713,
+    "draw_prob": 0.22291140674705673,
+    "away_win_prob": 0.20984770073417203,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.5672408925187713
+  },
+  {
+    "match_id": 560701,
+    "utc_date": "2026-12-21 20:00:00+00:00",
+    "matchday": 16,
+    "home_team": "Chelsea",
+    "away_team": "Aston Villa",
+    "home_win_prob": 0.4408159245066949,
+    "draw_prob": 0.24162224926822515,
+    "away_win_prob": 0.31756182622507995,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.4408159245066949
   },
   {
     "match_id": 560702,
@@ -1305,12 +1175,12 @@
     "matchday": 17,
     "home_team": "Aston Villa",
     "away_team": "Leeds United",
-    "home_win_prob": 0.5370034840100286,
-    "draw_prob": 0.2411705071499933,
-    "away_win_prob": 0.2218260088399782,
+    "home_win_prob": 0.5063399338519873,
+    "draw_prob": 0.2682109461465923,
+    "away_win_prob": 0.22544912000142062,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.5370034840100286
+    "confidence": 0.5063399338519873
   },
   {
     "match_id": 560705,
@@ -1318,12 +1188,12 @@
     "matchday": 17,
     "home_team": "Everton",
     "away_team": "Sunderland",
-    "home_win_prob": 0.372844945276792,
-    "draw_prob": 0.3392343181894213,
-    "away_win_prob": 0.2879207365337869,
+    "home_win_prob": 0.4772528660380555,
+    "draw_prob": 0.30012884464297285,
+    "away_win_prob": 0.22261828931897168,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.372844945276792
+    "confidence": 0.4772528660380555
   },
   {
     "match_id": 560708,
@@ -1331,12 +1201,12 @@
     "matchday": 17,
     "home_team": "Fulham",
     "away_team": "Brighton Hove",
-    "home_win_prob": 0.4135715521897848,
-    "draw_prob": 0.2474956743977804,
-    "away_win_prob": 0.338932773412435,
+    "home_win_prob": 0.3817466824273828,
+    "draw_prob": 0.24778269126283653,
+    "away_win_prob": 0.3704706263097809,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4135715521897848
+    "confidence": 0.3817466824273828
   },
   {
     "match_id": 560709,
@@ -1344,12 +1214,12 @@
     "matchday": 17,
     "home_team": "Tottenham",
     "away_team": "Bournemouth",
-    "home_win_prob": 0.3637856761634835,
-    "draw_prob": 0.3406408690627864,
-    "away_win_prob": 0.2955734547737302,
+    "home_win_prob": 0.3713224244959911,
+    "draw_prob": 0.3196127354309673,
+    "away_win_prob": 0.3090648400730418,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3637856761634835
+    "confidence": 0.3713224244959911
   },
   {
     "match_id": 560711,
@@ -1357,12 +1227,12 @@
     "matchday": 17,
     "home_team": "Ipswich Town",
     "away_team": "Brentford",
-    "home_win_prob": 0.1832107772529831,
-    "draw_prob": 0.2768135132089633,
-    "away_win_prob": 0.5399757095380535,
+    "home_win_prob": 0.18421856676929646,
+    "draw_prob": 0.30008080896597916,
+    "away_win_prob": 0.5157006242647246,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.5399757095380535
+    "confidence": 0.5157006242647246
   },
   {
     "match_id": 560710,
@@ -1370,12 +1240,12 @@
     "matchday": 17,
     "home_team": "Hull City",
     "away_team": "Liverpool",
-    "home_win_prob": 0.3241331391426987,
-    "draw_prob": 0.2774783865679073,
-    "away_win_prob": 0.3983884742893944,
+    "home_win_prob": 0.3007759638562062,
+    "draw_prob": 0.27653544885541015,
+    "away_win_prob": 0.42268858728838377,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.3983884742893944
+    "confidence": 0.42268858728838377
   },
   {
     "match_id": 560707,
@@ -1383,12 +1253,12 @@
     "matchday": 17,
     "home_team": "Newcastle",
     "away_team": "Man City",
-    "home_win_prob": 0.3341299765422583,
-    "draw_prob": 0.2423201984821746,
-    "away_win_prob": 0.423549824975567,
+    "home_win_prob": 0.28759369737084656,
+    "draw_prob": 0.20977565413483334,
+    "away_win_prob": 0.5026306484943202,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.423549824975567
+    "confidence": 0.5026306484943202
   },
   {
     "match_id": 560706,
@@ -1396,12 +1266,12 @@
     "matchday": 17,
     "home_team": "Coventry City",
     "away_team": "Chelsea",
-    "home_win_prob": 0.3446774513610764,
-    "draw_prob": 0.3020772644745726,
-    "away_win_prob": 0.3532452841643511,
+    "home_win_prob": 0.34291441716823834,
+    "draw_prob": 0.27203463807632355,
+    "away_win_prob": 0.3850509447554382,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.3532452841643511
+    "confidence": 0.3850509447554382
   },
   {
     "match_id": 560703,
@@ -1409,12 +1279,12 @@
     "matchday": 17,
     "home_team": "Man United",
     "away_team": "Nottingham",
-    "home_win_prob": 0.4528601826024878,
-    "draw_prob": 0.2169930408843988,
-    "away_win_prob": 0.3301467765131134,
+    "home_win_prob": 0.45537710208190896,
+    "draw_prob": 0.2415747040085479,
+    "away_win_prob": 0.3030481939095433,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4528601826024878
+    "confidence": 0.45537710208190896
   },
   {
     "match_id": 560704,
@@ -1422,12 +1292,12 @@
     "matchday": 17,
     "home_team": "Crystal Palace",
     "away_team": "Arsenal",
-    "home_win_prob": 0.2439016941730793,
-    "draw_prob": 0.289744072055521,
-    "away_win_prob": 0.4663542337713998,
+    "home_win_prob": 0.23533722529932558,
+    "draw_prob": 0.28341144612226377,
+    "away_win_prob": 0.4812513285784108,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.4663542337713998
+    "confidence": 0.4812513285784108
   },
   {
     "match_id": 560716,
@@ -1435,12 +1305,12 @@
     "matchday": 18,
     "home_team": "Hull City",
     "away_team": "Leeds United",
-    "home_win_prob": 0.3930398548236442,
-    "draw_prob": 0.2662751043865022,
-    "away_win_prob": 0.3406850407898539,
+    "home_win_prob": 0.3888094821311113,
+    "draw_prob": 0.24760436091916424,
+    "away_win_prob": 0.363586156949725,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3930398548236442
+    "confidence": 0.3888094821311113
   },
   {
     "match_id": 560719,
@@ -1448,12 +1318,12 @@
     "matchday": 18,
     "home_team": "Tottenham",
     "away_team": "Brighton Hove",
-    "home_win_prob": 0.3452784433694535,
-    "draw_prob": 0.3010561611257557,
-    "away_win_prob": 0.3536653955047907,
+    "home_win_prob": 0.3308169843853387,
+    "draw_prob": 0.2985823408094765,
+    "away_win_prob": 0.3706006748051847,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.3536653955047907
+    "confidence": 0.3706006748051847
   },
   {
     "match_id": 560720,
@@ -1461,25 +1331,12 @@
     "matchday": 18,
     "home_team": "Everton",
     "away_team": "Man City",
-    "home_win_prob": 0.2151421846506528,
-    "draw_prob": 0.3176304460874572,
-    "away_win_prob": 0.4672273692618903,
+    "home_win_prob": 0.21784631311984906,
+    "draw_prob": 0.3155550925355325,
+    "away_win_prob": 0.4665985943446189,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.4672273692618903
-  },
-  {
-    "match_id": 560717,
-    "utc_date": "2026-12-30 19:30:00+00:00",
-    "matchday": 18,
-    "home_team": "Man United",
-    "away_team": "Sunderland",
-    "home_win_prob": 0.5097443842667241,
-    "draw_prob": 0.2524482279817541,
-    "away_win_prob": 0.2378073877515221,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.5097443842667241
+    "confidence": 0.4665985943446189
   },
   {
     "match_id": 560721,
@@ -1487,12 +1344,25 @@
     "matchday": 18,
     "home_team": "Crystal Palace",
     "away_team": "Bournemouth",
-    "home_win_prob": 0.3067296602514326,
-    "draw_prob": 0.3639871176757828,
-    "away_win_prob": 0.3292832220727844,
-    "predicted_result": "D",
-    "predicted_result_display": "Draw",
-    "confidence": 0.3639871176757828
+    "home_win_prob": 0.2982912233720962,
+    "draw_prob": 0.34415461513296747,
+    "away_win_prob": 0.35755416149493624,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.35755416149493624
+  },
+  {
+    "match_id": 560717,
+    "utc_date": "2026-12-30 19:30:00+00:00",
+    "matchday": 18,
+    "home_team": "Man United",
+    "away_team": "Sunderland",
+    "home_win_prob": 0.5667587395492418,
+    "draw_prob": 0.24219366843506035,
+    "away_win_prob": 0.19104759201569824,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.5667587395492418
   },
   {
     "match_id": 560713,
@@ -1500,12 +1370,12 @@
     "matchday": 18,
     "home_team": "Coventry City",
     "away_team": "Brentford",
-    "home_win_prob": 0.3381520649264016,
-    "draw_prob": 0.2795469247157707,
-    "away_win_prob": 0.3823010103578278,
+    "home_win_prob": 0.33561028324454895,
+    "draw_prob": 0.27598955788082496,
+    "away_win_prob": 0.38840015887462614,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.3823010103578278
+    "confidence": 0.38840015887462614
   },
   {
     "match_id": 560712,
@@ -1513,12 +1383,12 @@
     "matchday": 18,
     "home_team": "Fulham",
     "away_team": "Arsenal",
-    "home_win_prob": 0.2814908197655128,
-    "draw_prob": 0.2499371803995421,
-    "away_win_prob": 0.4685719998349453,
+    "home_win_prob": 0.28269086518441666,
+    "draw_prob": 0.21978856279938022,
+    "away_win_prob": 0.49752057201620353,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.4685719998349453
+    "confidence": 0.49752057201620353
   },
   {
     "match_id": 560715,
@@ -1526,12 +1396,12 @@
     "matchday": 18,
     "home_team": "Newcastle",
     "away_team": "Nottingham",
-    "home_win_prob": 0.4496050443165514,
-    "draw_prob": 0.2194496545664112,
-    "away_win_prob": 0.3309453011170373,
+    "home_win_prob": 0.43308313481026867,
+    "draw_prob": 0.23011172452743203,
+    "away_win_prob": 0.3368051406622993,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4496050443165514
+    "confidence": 0.43308313481026867
   },
   {
     "match_id": 560714,
@@ -1539,12 +1409,12 @@
     "matchday": 18,
     "home_team": "Aston Villa",
     "away_team": "Liverpool",
-    "home_win_prob": 0.4955641136357623,
-    "draw_prob": 0.186945937260714,
-    "away_win_prob": 0.3174899491035238,
+    "home_win_prob": 0.5143344278510241,
+    "draw_prob": 0.2173527865785054,
+    "away_win_prob": 0.2683127855704706,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4955641136357623
+    "confidence": 0.5143344278510241
   },
   {
     "match_id": 560718,
@@ -1552,12 +1422,12 @@
     "matchday": 18,
     "home_team": "Ipswich Town",
     "away_team": "Chelsea",
-    "home_win_prob": 0.2153925697900974,
-    "draw_prob": 0.2874339188762714,
-    "away_win_prob": 0.4971735113336311,
+    "home_win_prob": 0.22564288973095806,
+    "draw_prob": 0.3015146317192164,
+    "away_win_prob": 0.4728424785498256,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.4971735113336311
+    "confidence": 0.4728424785498256
   },
   {
     "match_id": 560724,
@@ -1565,12 +1435,12 @@
     "matchday": 19,
     "home_team": "Leeds United",
     "away_team": "Everton",
-    "home_win_prob": 0.4287371251039344,
-    "draw_prob": 0.2669205946108524,
-    "away_win_prob": 0.3043422802852135,
+    "home_win_prob": 0.4116264924355854,
+    "draw_prob": 0.2873761279644363,
+    "away_win_prob": 0.3009973795999788,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4287371251039344
+    "confidence": 0.4116264924355854
   },
   {
     "match_id": 560730,
@@ -1578,25 +1448,12 @@
     "matchday": 19,
     "home_team": "Brighton Hove",
     "away_team": "Man United",
-    "home_win_prob": 0.4294888966852965,
-    "draw_prob": 0.2664954305919162,
-    "away_win_prob": 0.3040156727227873,
+    "home_win_prob": 0.4085658494828656,
+    "draw_prob": 0.29342035288511376,
+    "away_win_prob": 0.2980137976320206,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4294888966852965
-  },
-  {
-    "match_id": 560729,
-    "utc_date": "2027-01-02 15:00:00+00:00",
-    "matchday": 19,
-    "home_team": "Nottingham",
-    "away_team": "Fulham",
-    "home_win_prob": 0.3326621062181523,
-    "draw_prob": 0.3935028905443667,
-    "away_win_prob": 0.273835003237481,
-    "predicted_result": "D",
-    "predicted_result_display": "Draw",
-    "confidence": 0.3935028905443667
+    "confidence": 0.4085658494828656
   },
   {
     "match_id": 560727,
@@ -1604,12 +1461,12 @@
     "matchday": 19,
     "home_team": "Liverpool",
     "away_team": "Coventry City",
-    "home_win_prob": 0.5407408958624225,
-    "draw_prob": 0.2542244933124999,
-    "away_win_prob": 0.2050346108250781,
+    "home_win_prob": 0.5703929729129478,
+    "draw_prob": 0.2529995821092864,
+    "away_win_prob": 0.17660744497776612,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.5407408958624225
+    "confidence": 0.5703929729129478
   },
   {
     "match_id": 560726,
@@ -1617,25 +1474,25 @@
     "matchday": 19,
     "home_team": "Sunderland",
     "away_team": "Hull City",
-    "home_win_prob": 0.4243955197517217,
-    "draw_prob": 0.214927438338129,
-    "away_win_prob": 0.3606770419101497,
+    "home_win_prob": 0.5200925949288924,
+    "draw_prob": 0.18595644493957672,
+    "away_win_prob": 0.2939509601315309,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4243955197517217
+    "confidence": 0.5200925949288924
   },
   {
-    "match_id": 560725,
+    "match_id": 560729,
     "utc_date": "2027-01-02 15:00:00+00:00",
     "matchday": 19,
-    "home_team": "Arsenal",
-    "away_team": "Ipswich Town",
-    "home_win_prob": 0.6262557627334171,
-    "draw_prob": 0.2225584528078222,
-    "away_win_prob": 0.151185784458761,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.6262557627334171
+    "home_team": "Nottingham",
+    "away_team": "Fulham",
+    "home_win_prob": 0.32738641429475906,
+    "draw_prob": 0.4057022550013308,
+    "away_win_prob": 0.26691133070391027,
+    "predicted_result": "D",
+    "predicted_result_display": "Draw",
+    "confidence": 0.4057022550013308
   },
   {
     "match_id": 560723,
@@ -1643,12 +1500,25 @@
     "matchday": 19,
     "home_team": "Brentford",
     "away_team": "Crystal Palace",
-    "home_win_prob": 0.3739459788549745,
-    "draw_prob": 0.3073124223842274,
-    "away_win_prob": 0.318741598760798,
+    "home_win_prob": 0.36469665558524544,
+    "draw_prob": 0.32129006865220494,
+    "away_win_prob": 0.3140132757625496,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3739459788549745
+    "confidence": 0.36469665558524544
+  },
+  {
+    "match_id": 560725,
+    "utc_date": "2027-01-02 15:00:00+00:00",
+    "matchday": 19,
+    "home_team": "Arsenal",
+    "away_team": "Ipswich Town",
+    "home_win_prob": 0.6099284290922907,
+    "draw_prob": 0.22872626107352467,
+    "away_win_prob": 0.16134530983418507,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.6099284290922907
   },
   {
     "match_id": 560722,
@@ -1656,12 +1526,12 @@
     "matchday": 19,
     "home_team": "Bournemouth",
     "away_team": "Aston Villa",
-    "home_win_prob": 0.3273275879927075,
-    "draw_prob": 0.3010573853127834,
-    "away_win_prob": 0.3716150266945092,
-    "predicted_result": "A",
-    "predicted_result_display": "Away Win",
-    "confidence": 0.3716150266945092
+    "home_win_prob": 0.3778856395885874,
+    "draw_prob": 0.28098981217524843,
+    "away_win_prob": 0.34112454823616445,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.3778856395885874
   },
   {
     "match_id": 560728,
@@ -1669,12 +1539,12 @@
     "matchday": 19,
     "home_team": "Chelsea",
     "away_team": "Newcastle",
-    "home_win_prob": 0.4053005623234443,
-    "draw_prob": 0.2511979162625708,
-    "away_win_prob": 0.3435015214139846,
+    "home_win_prob": 0.40914420445097427,
+    "draw_prob": 0.28480279666849295,
+    "away_win_prob": 0.3060529988805327,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4053005623234443
+    "confidence": 0.40914420445097427
   },
   {
     "match_id": 560731,
@@ -1682,12 +1552,12 @@
     "matchday": 19,
     "home_team": "Man City",
     "away_team": "Tottenham",
-    "home_win_prob": 0.4560120721424436,
-    "draw_prob": 0.3003047136438189,
-    "away_win_prob": 0.2436832142137376,
+    "home_win_prob": 0.4849152484529581,
+    "draw_prob": 0.23855070786546745,
+    "away_win_prob": 0.2765340436815748,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4560120721424436
+    "confidence": 0.4849152484529581
   },
   {
     "match_id": 560732,
@@ -1695,12 +1565,12 @@
     "matchday": 20,
     "home_team": "Arsenal",
     "away_team": "Brentford",
-    "home_win_prob": 0.664547081768654,
-    "draw_prob": 0.1733876737697968,
-    "away_win_prob": 0.162065244461549,
+    "home_win_prob": 0.6659622148047666,
+    "draw_prob": 0.17506110557061982,
+    "away_win_prob": 0.15897667962461354,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.664547081768654
+    "confidence": 0.6659622148047666
   },
   {
     "match_id": 560735,
@@ -1708,12 +1578,12 @@
     "matchday": 20,
     "home_team": "Brighton Hove",
     "away_team": "Bournemouth",
-    "home_win_prob": 0.4157540729923801,
-    "draw_prob": 0.3188445330472261,
-    "away_win_prob": 0.2654013939603937,
+    "home_win_prob": 0.40903393769192953,
+    "draw_prob": 0.28029647700110555,
+    "away_win_prob": 0.31066958530696487,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4157540729923801
+    "confidence": 0.40903393769192953
   },
   {
     "match_id": 560736,
@@ -1721,12 +1591,12 @@
     "matchday": 20,
     "home_team": "Nottingham",
     "away_team": "Hull City",
-    "home_win_prob": 0.3752568982991964,
-    "draw_prob": 0.3081668691556839,
-    "away_win_prob": 0.3165762325451202,
+    "home_win_prob": 0.4563405385305251,
+    "draw_prob": 0.2745963289404625,
+    "away_win_prob": 0.2690631325290126,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3752568982991964
+    "confidence": 0.4563405385305251
   },
   {
     "match_id": 560738,
@@ -1734,12 +1604,12 @@
     "matchday": 20,
     "home_team": "Everton",
     "away_team": "Aston Villa",
-    "home_win_prob": 0.3625361678870004,
-    "draw_prob": 0.3186887781382418,
-    "away_win_prob": 0.318775053974758,
+    "home_win_prob": 0.3536257909330655,
+    "draw_prob": 0.2999830029578416,
+    "away_win_prob": 0.3463912061090932,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3625361678870004
+    "confidence": 0.3536257909330655
   },
   {
     "match_id": 560739,
@@ -1747,25 +1617,12 @@
     "matchday": 20,
     "home_team": "Sunderland",
     "away_team": "Liverpool",
-    "home_win_prob": 0.3377028984561961,
-    "draw_prob": 0.2369394238408822,
-    "away_win_prob": 0.4253576777029221,
+    "home_win_prob": 0.30278787468437146,
+    "draw_prob": 0.23329531308477042,
+    "away_win_prob": 0.46391681223085834,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.4253576777029221
-  },
-  {
-    "match_id": 560737,
-    "utc_date": "2027-01-06 19:30:00+00:00",
-    "matchday": 20,
-    "home_team": "Fulham",
-    "away_team": "Tottenham",
-    "home_win_prob": 0.4401355034432739,
-    "draw_prob": 0.2696122048688221,
-    "away_win_prob": 0.2902522916879042,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4401355034432739
+    "confidence": 0.46391681223085834
   },
   {
     "match_id": 560740,
@@ -1773,12 +1630,12 @@
     "matchday": 20,
     "home_team": "Crystal Palace",
     "away_team": "Chelsea",
-    "home_win_prob": 0.3136448536071889,
-    "draw_prob": 0.3285302786459793,
-    "away_win_prob": 0.3578248677468318,
-    "predicted_result": "A",
-    "predicted_result_display": "Away Win",
-    "confidence": 0.3578248677468318
+    "home_win_prob": 0.33973896357905936,
+    "draw_prob": 0.329852063379641,
+    "away_win_prob": 0.3304089730412996,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.33973896357905936
   },
   {
     "match_id": 560741,
@@ -1786,12 +1643,25 @@
     "matchday": 20,
     "home_team": "Ipswich Town",
     "away_team": "Coventry City",
-    "home_win_prob": 0.3395463851447537,
-    "draw_prob": 0.2150296724699306,
-    "away_win_prob": 0.4454239423853153,
+    "home_win_prob": 0.35439197418901697,
+    "draw_prob": 0.2342936531788566,
+    "away_win_prob": 0.41131437263212656,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.4454239423853153
+    "confidence": 0.41131437263212656
+  },
+  {
+    "match_id": 560737,
+    "utc_date": "2027-01-06 19:30:00+00:00",
+    "matchday": 20,
+    "home_team": "Fulham",
+    "away_team": "Tottenham",
+    "home_win_prob": 0.45881945389203127,
+    "draw_prob": 0.21814643199861705,
+    "away_win_prob": 0.3230341141093519,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.45881945389203127
   },
   {
     "match_id": 560733,
@@ -1799,12 +1669,12 @@
     "matchday": 20,
     "home_team": "Leeds United",
     "away_team": "Man City",
-    "home_win_prob": 0.2182773318326947,
-    "draw_prob": 0.2123597094624494,
-    "away_win_prob": 0.569362958704856,
+    "home_win_prob": 0.22158173892785718,
+    "draw_prob": 0.23138938959019867,
+    "away_win_prob": 0.5470288714819441,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.569362958704856
+    "confidence": 0.5470288714819441
   },
   {
     "match_id": 560734,
@@ -1812,12 +1682,12 @@
     "matchday": 20,
     "home_team": "Man United",
     "away_team": "Newcastle",
-    "home_win_prob": 0.4348358009908869,
-    "draw_prob": 0.2494940537579603,
-    "away_win_prob": 0.3156701452511529,
+    "home_win_prob": 0.4471516553071189,
+    "draw_prob": 0.26035555376678104,
+    "away_win_prob": 0.29249279092610025,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4348358009908869
+    "confidence": 0.4471516553071189
   },
   {
     "match_id": 560751,
@@ -1825,12 +1695,12 @@
     "matchday": 21,
     "home_team": "Newcastle",
     "away_team": "Fulham",
-    "home_win_prob": 0.4191573305873927,
-    "draw_prob": 0.2783539400946013,
-    "away_win_prob": 0.3024887293180064,
+    "home_win_prob": 0.4222366546206765,
+    "draw_prob": 0.1966837378229379,
+    "away_win_prob": 0.38107960755638554,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4191573305873927
+    "confidence": 0.4222366546206765
   },
   {
     "match_id": 560750,
@@ -1838,12 +1708,12 @@
     "matchday": 21,
     "home_team": "Hull City",
     "away_team": "Arsenal",
-    "home_win_prob": 0.2264450870588567,
-    "draw_prob": 0.245069910985808,
-    "away_win_prob": 0.5284850019553354,
+    "home_win_prob": 0.22443741113393423,
+    "draw_prob": 0.2368259979221757,
+    "away_win_prob": 0.5387365909438903,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.5284850019553354
+    "confidence": 0.5387365909438903
   },
   {
     "match_id": 560749,
@@ -1851,12 +1721,12 @@
     "matchday": 21,
     "home_team": "Liverpool",
     "away_team": "Crystal Palace",
-    "home_win_prob": 0.514776338085425,
-    "draw_prob": 0.1929505743523469,
-    "away_win_prob": 0.2922730875622283,
+    "home_win_prob": 0.5365884629703893,
+    "draw_prob": 0.1912623544821228,
+    "away_win_prob": 0.27214918254748804,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.514776338085425
+    "confidence": 0.5365884629703893
   },
   {
     "match_id": 560748,
@@ -1864,12 +1734,12 @@
     "matchday": 21,
     "home_team": "Coventry City",
     "away_team": "Everton",
-    "home_win_prob": 0.3474943169885043,
-    "draw_prob": 0.2782112228968976,
-    "away_win_prob": 0.3742944601145981,
+    "home_win_prob": 0.34115703792345003,
+    "draw_prob": 0.27040779130700354,
+    "away_win_prob": 0.38843517076954653,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.3742944601145981
+    "confidence": 0.38843517076954653
   },
   {
     "match_id": 560747,
@@ -1877,12 +1747,12 @@
     "matchday": 21,
     "home_team": "Tottenham",
     "away_team": "Leeds United",
-    "home_win_prob": 0.4093658219301834,
-    "draw_prob": 0.3161358986758141,
-    "away_win_prob": 0.2744982793940027,
+    "home_win_prob": 0.4328820124687996,
+    "draw_prob": 0.320419454006249,
+    "away_win_prob": 0.24669853352495166,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4093658219301834
+    "confidence": 0.4328820124687996
   },
   {
     "match_id": 560746,
@@ -1890,25 +1760,12 @@
     "matchday": 21,
     "home_team": "Aston Villa",
     "away_team": "Man United",
-    "home_win_prob": 0.4499874122640874,
-    "draw_prob": 0.2421090737593995,
-    "away_win_prob": 0.3079035139765133,
+    "home_win_prob": 0.46829310144638947,
+    "draw_prob": 0.24382948317413064,
+    "away_win_prob": 0.28787741537948014,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4499874122640874
-  },
-  {
-    "match_id": 560745,
-    "utc_date": "2027-01-16 15:00:00+00:00",
-    "matchday": 21,
-    "home_team": "Brentford",
-    "away_team": "Brighton Hove",
-    "home_win_prob": 0.382928586662808,
-    "draw_prob": 0.2708657818883558,
-    "away_win_prob": 0.3462056314488362,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.382928586662808
+    "confidence": 0.46829310144638947
   },
   {
     "match_id": 560744,
@@ -1916,12 +1773,12 @@
     "matchday": 21,
     "home_team": "Chelsea",
     "away_team": "Sunderland",
-    "home_win_prob": 0.4434523402925728,
-    "draw_prob": 0.2812684105337392,
-    "away_win_prob": 0.275279249173688,
+    "home_win_prob": 0.4781020675051264,
+    "draw_prob": 0.2996818507984614,
+    "away_win_prob": 0.22221608169641255,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4434523402925728
+    "confidence": 0.4781020675051264
   },
   {
     "match_id": 560743,
@@ -1929,12 +1786,12 @@
     "matchday": 21,
     "home_team": "Man City",
     "away_team": "Nottingham",
-    "home_win_prob": 0.5045363555173344,
-    "draw_prob": 0.2500105816656207,
-    "away_win_prob": 0.245453062817045,
+    "home_win_prob": 0.47361700661227274,
+    "draw_prob": 0.3109460720944996,
+    "away_win_prob": 0.2154369212932278,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.5045363555173344
+    "confidence": 0.47361700661227274
   },
   {
     "match_id": 560742,
@@ -1942,64 +1799,25 @@
     "matchday": 21,
     "home_team": "Bournemouth",
     "away_team": "Ipswich Town",
-    "home_win_prob": 0.4218044904833029,
-    "draw_prob": 0.2689219199851416,
-    "away_win_prob": 0.3092735895315554,
+    "home_win_prob": 0.41918845563241264,
+    "draw_prob": 0.3072155400273402,
+    "away_win_prob": 0.27359600434024733,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4218044904833029
+    "confidence": 0.41918845563241264
   },
   {
-    "match_id": 560760,
-    "utc_date": "2027-01-23 15:00:00+00:00",
-    "matchday": 22,
-    "home_team": "Brighton Hove",
-    "away_team": "Man City",
-    "home_win_prob": 0.3411740004665058,
-    "draw_prob": 0.3181414990389367,
-    "away_win_prob": 0.3406845004945578,
+    "match_id": 560745,
+    "utc_date": "2027-01-16 15:00:00+00:00",
+    "matchday": 21,
+    "home_team": "Brentford",
+    "away_team": "Brighton Hove",
+    "home_win_prob": 0.36867243514545256,
+    "draw_prob": 0.27838334039896634,
+    "away_win_prob": 0.3529442244555812,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3411740004665058
-  },
-  {
-    "match_id": 560759,
-    "utc_date": "2027-01-23 15:00:00+00:00",
-    "matchday": 22,
-    "home_team": "Man United",
-    "away_team": "Liverpool",
-    "home_win_prob": 0.4743590606603654,
-    "draw_prob": 0.2009145492435941,
-    "away_win_prob": 0.3247263900960404,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4743590606603654
-  },
-  {
-    "match_id": 560758,
-    "utc_date": "2027-01-23 15:00:00+00:00",
-    "matchday": 22,
-    "home_team": "Fulham",
-    "away_team": "Aston Villa",
-    "home_win_prob": 0.4124286108318051,
-    "draw_prob": 0.2863253012409201,
-    "away_win_prob": 0.3012460879272751,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4124286108318051
-  },
-  {
-    "match_id": 560757,
-    "utc_date": "2027-01-23 15:00:00+00:00",
-    "matchday": 22,
-    "home_team": "Leeds United",
-    "away_team": "Chelsea",
-    "home_win_prob": 0.4165596246168866,
-    "draw_prob": 0.2774857649921199,
-    "away_win_prob": 0.3059546103909937,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4165596246168866
+    "confidence": 0.36867243514545256
   },
   {
     "match_id": 560761,
@@ -2007,12 +1825,64 @@
     "matchday": 22,
     "home_team": "Crystal Palace",
     "away_team": "Tottenham",
-    "home_win_prob": 0.3084338232926634,
-    "draw_prob": 0.3581312384027517,
-    "away_win_prob": 0.3334349383045851,
+    "home_win_prob": 0.3421949514915062,
+    "draw_prob": 0.3197672122734457,
+    "away_win_prob": 0.33803783623504835,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.3421949514915062
+  },
+  {
+    "match_id": 560760,
+    "utc_date": "2027-01-23 15:00:00+00:00",
+    "matchday": 22,
+    "home_team": "Brighton Hove",
+    "away_team": "Man City",
+    "home_win_prob": 0.3212127083260804,
+    "draw_prob": 0.36319571680430124,
+    "away_win_prob": 0.31559157486961864,
     "predicted_result": "D",
     "predicted_result_display": "Draw",
-    "confidence": 0.3581312384027517
+    "confidence": 0.36319571680430124
+  },
+  {
+    "match_id": 560759,
+    "utc_date": "2027-01-23 15:00:00+00:00",
+    "matchday": 22,
+    "home_team": "Man United",
+    "away_team": "Liverpool",
+    "home_win_prob": 0.4572112679164293,
+    "draw_prob": 0.21403046091553096,
+    "away_win_prob": 0.32875827116804013,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.4572112679164293
+  },
+  {
+    "match_id": 560758,
+    "utc_date": "2027-01-23 15:00:00+00:00",
+    "matchday": 22,
+    "home_team": "Fulham",
+    "away_team": "Aston Villa",
+    "home_win_prob": 0.4412749084247529,
+    "draw_prob": 0.2460266904698215,
+    "away_win_prob": 0.31269840110542574,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.4412749084247529
+  },
+  {
+    "match_id": 560757,
+    "utc_date": "2027-01-23 15:00:00+00:00",
+    "matchday": 22,
+    "home_team": "Leeds United",
+    "away_team": "Chelsea",
+    "home_win_prob": 0.41710285178923884,
+    "draw_prob": 0.27229408915815645,
+    "away_win_prob": 0.31060305905260516,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.41710285178923884
   },
   {
     "match_id": 560755,
@@ -2020,12 +1890,12 @@
     "matchday": 22,
     "home_team": "Nottingham",
     "away_team": "Bournemouth",
-    "home_win_prob": 0.32740623922281,
-    "draw_prob": 0.3813294263351969,
-    "away_win_prob": 0.2912643344419932,
+    "home_win_prob": 0.32368725654747565,
+    "draw_prob": 0.37398412433803074,
+    "away_win_prob": 0.3023286191144933,
     "predicted_result": "D",
     "predicted_result_display": "Draw",
-    "confidence": 0.3813294263351969
+    "confidence": 0.37398412433803074
   },
   {
     "match_id": 560754,
@@ -2033,12 +1903,12 @@
     "matchday": 22,
     "home_team": "Sunderland",
     "away_team": "Coventry City",
-    "home_win_prob": 0.4503415936362929,
-    "draw_prob": 0.2179665419490168,
-    "away_win_prob": 0.3316918644146907,
+    "home_win_prob": 0.4680393808631221,
+    "draw_prob": 0.18454922763038561,
+    "away_win_prob": 0.34741139150649275,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4503415936362929
+    "confidence": 0.4680393808631221
   },
   {
     "match_id": 560753,
@@ -2046,12 +1916,12 @@
     "matchday": 22,
     "home_team": "Everton",
     "away_team": "Brentford",
-    "home_win_prob": 0.3896358307971461,
-    "draw_prob": 0.2982925152123668,
-    "away_win_prob": 0.3120716539904872,
+    "home_win_prob": 0.3518401937136527,
+    "draw_prob": 0.3206550277693255,
+    "away_win_prob": 0.327504778517022,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3896358307971461
+    "confidence": 0.3518401937136527
   },
   {
     "match_id": 560752,
@@ -2059,12 +1929,12 @@
     "matchday": 22,
     "home_team": "Ipswich Town",
     "away_team": "Hull City",
-    "home_win_prob": 0.3165581069773054,
-    "draw_prob": 0.2098253499544366,
-    "away_win_prob": 0.4736165430682575,
-    "predicted_result": "A",
-    "predicted_result_display": "Away Win",
-    "confidence": 0.4736165430682575
+    "home_win_prob": 0.43547917982660905,
+    "draw_prob": 0.22520872399321,
+    "away_win_prob": 0.3393120961801812,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.43547917982660905
   },
   {
     "match_id": 560756,
@@ -2072,51 +1942,12 @@
     "matchday": 22,
     "home_team": "Arsenal",
     "away_team": "Newcastle",
-    "home_win_prob": 0.5460405909931663,
-    "draw_prob": 0.2056059076166713,
-    "away_win_prob": 0.2483535013901623,
+    "home_win_prob": 0.5168983652149456,
+    "draw_prob": 0.2569234397112036,
+    "away_win_prob": 0.226178195073851,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.5460405909931663
-  },
-  {
-    "match_id": 560771,
-    "utc_date": "2027-01-30 15:00:00+00:00",
-    "matchday": 23,
-    "home_team": "Aston Villa",
-    "away_team": "Ipswich Town",
-    "home_win_prob": 0.546458237516278,
-    "draw_prob": 0.2450131729287157,
-    "away_win_prob": 0.2085285895550065,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.546458237516278
-  },
-  {
-    "match_id": 560770,
-    "utc_date": "2027-01-30 15:00:00+00:00",
-    "matchday": 23,
-    "home_team": "Man City",
-    "away_team": "Arsenal",
-    "home_win_prob": 0.4026798799511142,
-    "draw_prob": 0.4152390362110176,
-    "away_win_prob": 0.1820810838378684,
-    "predicted_result": "D",
-    "predicted_result_display": "Draw",
-    "confidence": 0.4152390362110176
-  },
-  {
-    "match_id": 560769,
-    "utc_date": "2027-01-30 15:00:00+00:00",
-    "matchday": 23,
-    "home_team": "Liverpool",
-    "away_team": "Everton",
-    "home_win_prob": 0.5789265721540547,
-    "draw_prob": 0.1839479917975555,
-    "away_win_prob": 0.2371254360483898,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.5789265721540547
+    "confidence": 0.5168983652149456
   },
   {
     "match_id": 560768,
@@ -2124,12 +1955,51 @@
     "matchday": 23,
     "home_team": "Chelsea",
     "away_team": "Nottingham",
-    "home_win_prob": 0.4251988123181454,
-    "draw_prob": 0.2593282169709254,
-    "away_win_prob": 0.3154729707109291,
+    "home_win_prob": 0.4266008452884702,
+    "draw_prob": 0.2746333188439376,
+    "away_win_prob": 0.29876583586759226,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4251988123181454
+    "confidence": 0.4266008452884702
+  },
+  {
+    "match_id": 560771,
+    "utc_date": "2027-01-30 15:00:00+00:00",
+    "matchday": 23,
+    "home_team": "Aston Villa",
+    "away_team": "Ipswich Town",
+    "home_win_prob": 0.4854047351734807,
+    "draw_prob": 0.28357669403093694,
+    "away_win_prob": 0.23101857079558274,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.4854047351734807
+  },
+  {
+    "match_id": 560770,
+    "utc_date": "2027-01-30 15:00:00+00:00",
+    "matchday": 23,
+    "home_team": "Man City",
+    "away_team": "Arsenal",
+    "home_win_prob": 0.40000130852254273,
+    "draw_prob": 0.4120135897824461,
+    "away_win_prob": 0.18798510169501131,
+    "predicted_result": "D",
+    "predicted_result_display": "Draw",
+    "confidence": 0.4120135897824461
+  },
+  {
+    "match_id": 560769,
+    "utc_date": "2027-01-30 15:00:00+00:00",
+    "matchday": 23,
+    "home_team": "Liverpool",
+    "away_team": "Everton",
+    "home_win_prob": 0.5723155917493864,
+    "draw_prob": 0.19255856828850415,
+    "away_win_prob": 0.23512583996210965,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.5723155917493864
   },
   {
     "match_id": 560767,
@@ -2137,12 +2007,12 @@
     "matchday": 23,
     "home_team": "Bournemouth",
     "away_team": "Fulham",
-    "home_win_prob": 0.407167249505645,
-    "draw_prob": 0.3030788071193789,
-    "away_win_prob": 0.2897539433749764,
+    "home_win_prob": 0.407224738003419,
+    "draw_prob": 0.290409948889848,
+    "away_win_prob": 0.30236531310673315,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.407167249505645
+    "confidence": 0.407224738003419
   },
   {
     "match_id": 560766,
@@ -2150,12 +2020,12 @@
     "matchday": 23,
     "home_team": "Coventry City",
     "away_team": "Leeds United",
-    "home_win_prob": 0.3879947562694603,
-    "draw_prob": 0.2513660248156197,
-    "away_win_prob": 0.3606392189149203,
+    "home_win_prob": 0.38671294760650626,
+    "draw_prob": 0.23765227536520964,
+    "away_win_prob": 0.37563477702828424,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3879947562694603
+    "confidence": 0.38671294760650626
   },
   {
     "match_id": 560765,
@@ -2163,12 +2033,12 @@
     "matchday": 23,
     "home_team": "Hull City",
     "away_team": "Crystal Palace",
-    "home_win_prob": 0.3599840990265157,
-    "draw_prob": 0.3039706316112737,
-    "away_win_prob": 0.3360452693622108,
+    "home_win_prob": 0.3703595200314268,
+    "draw_prob": 0.2829890615232789,
+    "away_win_prob": 0.34665141844529435,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3599840990265157
+    "confidence": 0.3703595200314268
   },
   {
     "match_id": 560764,
@@ -2176,12 +2046,12 @@
     "matchday": 23,
     "home_team": "Newcastle",
     "away_team": "Brighton Hove",
-    "home_win_prob": 0.4440520417996303,
-    "draw_prob": 0.1904417541819308,
-    "away_win_prob": 0.3655062040184391,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4440520417996303
+    "home_win_prob": 0.37239833306750936,
+    "draw_prob": 0.19592762885341286,
+    "away_win_prob": 0.43167403807907767,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.43167403807907767
   },
   {
     "match_id": 560763,
@@ -2189,12 +2059,12 @@
     "matchday": 23,
     "home_team": "Brentford",
     "away_team": "Man United",
-    "home_win_prob": 0.3825719016707353,
-    "draw_prob": 0.2883645543949066,
-    "away_win_prob": 0.329063543934358,
+    "home_win_prob": 0.39316217829501876,
+    "draw_prob": 0.3054680013049237,
+    "away_win_prob": 0.3013698204000578,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3825719016707353
+    "confidence": 0.39316217829501876
   },
   {
     "match_id": 560762,
@@ -2202,12 +2072,12 @@
     "matchday": 23,
     "home_team": "Tottenham",
     "away_team": "Sunderland",
-    "home_win_prob": 0.3661620716363509,
-    "draw_prob": 0.336277184467492,
-    "away_win_prob": 0.297560743896157,
+    "home_win_prob": 0.49672493981823274,
+    "draw_prob": 0.2983316230093308,
+    "away_win_prob": 0.20494343717243702,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3661620716363509
+    "confidence": 0.49672493981823274
   },
   {
     "match_id": 560781,
@@ -2215,12 +2085,12 @@
     "matchday": 24,
     "home_team": "Nottingham",
     "away_team": "Brentford",
-    "home_win_prob": 0.3773962491320822,
-    "draw_prob": 0.2981033774994751,
-    "away_win_prob": 0.3245003733684428,
+    "home_win_prob": 0.3653953286435865,
+    "draw_prob": 0.32558736509400804,
+    "away_win_prob": 0.30901730626240576,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3773962491320822
+    "confidence": 0.3653953286435865
   },
   {
     "match_id": 560780,
@@ -2228,12 +2098,12 @@
     "matchday": 24,
     "home_team": "Man United",
     "away_team": "Chelsea",
-    "home_win_prob": 0.4407371343095573,
-    "draw_prob": 0.2187701499978068,
-    "away_win_prob": 0.3404927156926357,
+    "home_win_prob": 0.4376497987249156,
+    "draw_prob": 0.1975767376012981,
+    "away_win_prob": 0.36477346367378644,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4407371343095573
+    "confidence": 0.4376497987249156
   },
   {
     "match_id": 560779,
@@ -2241,12 +2111,12 @@
     "matchday": 24,
     "home_team": "Leeds United",
     "away_team": "Bournemouth",
-    "home_win_prob": 0.4906038175563884,
-    "draw_prob": 0.2832992791727232,
-    "away_win_prob": 0.2260969032708885,
+    "home_win_prob": 0.4020860178095221,
+    "draw_prob": 0.2962685880746216,
+    "away_win_prob": 0.3016453941158568,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4906038175563884
+    "confidence": 0.4020860178095221
   },
   {
     "match_id": 560778,
@@ -2254,12 +2124,12 @@
     "matchday": 24,
     "home_team": "Fulham",
     "away_team": "Man City",
-    "home_win_prob": 0.270380974317533,
-    "draw_prob": 0.2830335598254976,
-    "away_win_prob": 0.4465854658569697,
+    "home_win_prob": 0.2788679739033673,
+    "draw_prob": 0.2537610654254258,
+    "away_win_prob": 0.46737096067120737,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.4465854658569697
+    "confidence": 0.46737096067120737
   },
   {
     "match_id": 560777,
@@ -2267,25 +2137,12 @@
     "matchday": 24,
     "home_team": "Everton",
     "away_team": "Newcastle",
-    "home_win_prob": 0.3821907294159111,
-    "draw_prob": 0.3259881650779163,
-    "away_win_prob": 0.2918211055061728,
+    "home_win_prob": 0.37189567342236857,
+    "draw_prob": 0.3362787231311038,
+    "away_win_prob": 0.2918256034465279,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3821907294159111
-  },
-  {
-    "match_id": 560776,
-    "utc_date": "2027-02-06 15:00:00+00:00",
-    "matchday": 24,
-    "home_team": "Ipswich Town",
-    "away_team": "Tottenham",
-    "home_win_prob": 0.2930346912528967,
-    "draw_prob": 0.3644096622641717,
-    "away_win_prob": 0.3425556464829318,
-    "predicted_result": "D",
-    "predicted_result_display": "Draw",
-    "confidence": 0.3644096622641717
+    "confidence": 0.37189567342236857
   },
   {
     "match_id": 560775,
@@ -2293,12 +2150,12 @@
     "matchday": 24,
     "home_team": "Crystal Palace",
     "away_team": "Coventry City",
-    "home_win_prob": 0.4043500627845721,
-    "draw_prob": 0.3027292672086588,
-    "away_win_prob": 0.2929206700067691,
+    "home_win_prob": 0.4130980751552211,
+    "draw_prob": 0.3136699657695177,
+    "away_win_prob": 0.2732319590752615,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4043500627845721
+    "confidence": 0.4130980751552211
   },
   {
     "match_id": 560774,
@@ -2306,12 +2163,12 @@
     "matchday": 24,
     "home_team": "Sunderland",
     "away_team": "Aston Villa",
-    "home_win_prob": 0.375451243418717,
-    "draw_prob": 0.2207800623997562,
-    "away_win_prob": 0.403768694181527,
+    "home_win_prob": 0.3452509674548901,
+    "draw_prob": 0.22368360607021182,
+    "away_win_prob": 0.4310654264748986,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.403768694181527
+    "confidence": 0.4310654264748986
   },
   {
     "match_id": 560773,
@@ -2319,12 +2176,12 @@
     "matchday": 24,
     "home_team": "Brighton Hove",
     "away_team": "Hull City",
-    "home_win_prob": 0.507959560305465,
-    "draw_prob": 0.2721867593229909,
-    "away_win_prob": 0.219853680371544,
+    "home_win_prob": 0.5009869318814278,
+    "draw_prob": 0.2835125815291335,
+    "away_win_prob": 0.21550048658943852,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.507959560305465
+    "confidence": 0.5009869318814278
   },
   {
     "match_id": 560772,
@@ -2332,51 +2189,25 @@
     "matchday": 24,
     "home_team": "Arsenal",
     "away_team": "Liverpool",
-    "home_win_prob": 0.5523441337133217,
-    "draw_prob": 0.2404699512474853,
-    "away_win_prob": 0.2071859150391931,
+    "home_win_prob": 0.5559178561713737,
+    "draw_prob": 0.2492566016236188,
+    "away_win_prob": 0.1948255422050077,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.5523441337133217
+    "confidence": 0.5559178561713737
   },
   {
-    "match_id": 560791,
-    "utc_date": "2027-02-10 20:00:00+00:00",
-    "matchday": 25,
+    "match_id": 560776,
+    "utc_date": "2027-02-06 15:00:00+00:00",
+    "matchday": 24,
     "home_team": "Ipswich Town",
-    "away_team": "Arsenal",
-    "home_win_prob": 0.1124208810167734,
-    "draw_prob": 0.208885731878053,
-    "away_win_prob": 0.6786933871051736,
+    "away_team": "Tottenham",
+    "home_win_prob": 0.19356040797904156,
+    "draw_prob": 0.29656281186975475,
+    "away_win_prob": 0.5098767801512037,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.6786933871051736
-  },
-  {
-    "match_id": 560790,
-    "utc_date": "2027-02-10 20:00:00+00:00",
-    "matchday": 25,
-    "home_team": "Man United",
-    "away_team": "Brighton Hove",
-    "home_win_prob": 0.4569539439326675,
-    "draw_prob": 0.1906655804127685,
-    "away_win_prob": 0.3523804756545642,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4569539439326675
-  },
-  {
-    "match_id": 560789,
-    "utc_date": "2027-02-10 20:00:00+00:00",
-    "matchday": 25,
-    "home_team": "Tottenham",
-    "away_team": "Man City",
-    "home_win_prob": 0.2303849975027343,
-    "draw_prob": 0.2618912470093852,
-    "away_win_prob": 0.5077237554878805,
-    "predicted_result": "A",
-    "predicted_result_display": "Away Win",
-    "confidence": 0.5077237554878805
+    "confidence": 0.5098767801512037
   },
   {
     "match_id": 560788,
@@ -2384,12 +2215,51 @@
     "matchday": 25,
     "home_team": "Fulham",
     "away_team": "Nottingham",
-    "home_win_prob": 0.4603366709578733,
-    "draw_prob": 0.2409107782049972,
-    "away_win_prob": 0.2987525508371296,
+    "home_win_prob": 0.44953547087896495,
+    "draw_prob": 0.24844772836806533,
+    "away_win_prob": 0.30201680075296994,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4603366709578733
+    "confidence": 0.44953547087896495
+  },
+  {
+    "match_id": 560791,
+    "utc_date": "2027-02-10 20:00:00+00:00",
+    "matchday": 25,
+    "home_team": "Ipswich Town",
+    "away_team": "Arsenal",
+    "home_win_prob": 0.12030595725912878,
+    "draw_prob": 0.23019145643699512,
+    "away_win_prob": 0.6495025863038765,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.6495025863038765
+  },
+  {
+    "match_id": 560790,
+    "utc_date": "2027-02-10 20:00:00+00:00",
+    "matchday": 25,
+    "home_team": "Man United",
+    "away_team": "Brighton Hove",
+    "home_win_prob": 0.4158338359857933,
+    "draw_prob": 0.20709218005368643,
+    "away_win_prob": 0.3770739839605203,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.4158338359857933
+  },
+  {
+    "match_id": 560789,
+    "utc_date": "2027-02-10 20:00:00+00:00",
+    "matchday": 25,
+    "home_team": "Tottenham",
+    "away_team": "Man City",
+    "home_win_prob": 0.25126048190693245,
+    "draw_prob": 0.2564008582744142,
+    "away_win_prob": 0.49233865981865355,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.49233865981865355
   },
   {
     "match_id": 560787,
@@ -2397,64 +2267,12 @@
     "matchday": 25,
     "home_team": "Newcastle",
     "away_team": "Chelsea",
-    "home_win_prob": 0.4161923783905938,
-    "draw_prob": 0.2343291958977201,
-    "away_win_prob": 0.3494784257116858,
+    "home_win_prob": 0.41251773997769214,
+    "draw_prob": 0.1866798705155622,
+    "away_win_prob": 0.40080238950674596,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4161923783905938
-  },
-  {
-    "match_id": 560785,
-    "utc_date": "2027-02-10 20:00:00+00:00",
-    "matchday": 25,
-    "home_team": "Aston Villa",
-    "away_team": "Bournemouth",
-    "home_win_prob": 0.4773544340469059,
-    "draw_prob": 0.3102703546659033,
-    "away_win_prob": 0.212375211287191,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4773544340469059
-  },
-  {
-    "match_id": 560784,
-    "utc_date": "2027-02-10 20:00:00+00:00",
-    "matchday": 25,
-    "home_team": "Hull City",
-    "away_team": "Sunderland",
-    "home_win_prob": 0.3949896466532706,
-    "draw_prob": 0.2977637123885979,
-    "away_win_prob": 0.3072466409581317,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.3949896466532706
-  },
-  {
-    "match_id": 560783,
-    "utc_date": "2027-02-10 20:00:00+00:00",
-    "matchday": 25,
-    "home_team": "Coventry City",
-    "away_team": "Liverpool",
-    "home_win_prob": 0.3139321302237024,
-    "draw_prob": 0.2746462057203075,
-    "away_win_prob": 0.4114216640559902,
-    "predicted_result": "A",
-    "predicted_result_display": "Away Win",
-    "confidence": 0.4114216640559902
-  },
-  {
-    "match_id": 560782,
-    "utc_date": "2027-02-10 20:00:00+00:00",
-    "matchday": 25,
-    "home_team": "Everton",
-    "away_team": "Leeds United",
-    "home_win_prob": 0.4243917307379093,
-    "draw_prob": 0.3184583495499623,
-    "away_win_prob": 0.2571499197121285,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4243917307379093
+    "confidence": 0.41251773997769214
   },
   {
     "match_id": 560786,
@@ -2462,25 +2280,64 @@
     "matchday": 25,
     "home_team": "Crystal Palace",
     "away_team": "Brentford",
-    "home_win_prob": 0.3750820632615778,
-    "draw_prob": 0.3014650226638788,
-    "away_win_prob": 0.3234529140745432,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.3750820632615778
+    "home_win_prob": 0.33136111267860935,
+    "draw_prob": 0.3283136888705404,
+    "away_win_prob": 0.3403251984508502,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.3403251984508502
   },
   {
-    "match_id": 560798,
-    "utc_date": "2027-02-20 15:00:00+00:00",
-    "matchday": 26,
-    "home_team": "Nottingham",
-    "away_team": "Man United",
-    "home_win_prob": 0.3458424294038026,
-    "draw_prob": 0.3227300348564668,
-    "away_win_prob": 0.3314275357397307,
+    "match_id": 560785,
+    "utc_date": "2027-02-10 20:00:00+00:00",
+    "matchday": 25,
+    "home_team": "Aston Villa",
+    "away_team": "Bournemouth",
+    "home_win_prob": 0.531009629634999,
+    "draw_prob": 0.2529456408499121,
+    "away_win_prob": 0.21604472951508896,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3458424294038026
+    "confidence": 0.531009629634999
+  },
+  {
+    "match_id": 560784,
+    "utc_date": "2027-02-10 20:00:00+00:00",
+    "matchday": 25,
+    "home_team": "Hull City",
+    "away_team": "Sunderland",
+    "home_win_prob": 0.530699892752098,
+    "draw_prob": 0.2602431357452281,
+    "away_win_prob": 0.20905697150267438,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.530699892752098
+  },
+  {
+    "match_id": 560783,
+    "utc_date": "2027-02-10 20:00:00+00:00",
+    "matchday": 25,
+    "home_team": "Coventry City",
+    "away_team": "Liverpool",
+    "home_win_prob": 0.29884604883011057,
+    "draw_prob": 0.25603943984554134,
+    "away_win_prob": 0.445114511324348,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.445114511324348
+  },
+  {
+    "match_id": 560782,
+    "utc_date": "2027-02-10 20:00:00+00:00",
+    "matchday": 25,
+    "home_team": "Everton",
+    "away_team": "Leeds United",
+    "home_win_prob": 0.4268045123102145,
+    "draw_prob": 0.30689050233278287,
+    "away_win_prob": 0.2663049853570028,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.4268045123102145
   },
   {
     "match_id": 560801,
@@ -2488,12 +2345,12 @@
     "matchday": 26,
     "home_team": "Leeds United",
     "away_team": "Aston Villa",
-    "home_win_prob": 0.406381689046619,
-    "draw_prob": 0.2432103603591833,
-    "away_win_prob": 0.3504079505941977,
+    "home_win_prob": 0.4103895490588959,
+    "draw_prob": 0.24683880152254278,
+    "away_win_prob": 0.34277164941856164,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.406381689046619
+    "confidence": 0.4103895490588959
   },
   {
     "match_id": 560800,
@@ -2501,12 +2358,12 @@
     "matchday": 26,
     "home_team": "Sunderland",
     "away_team": "Everton",
-    "home_win_prob": 0.4105593925152735,
-    "draw_prob": 0.2362561835536182,
-    "away_win_prob": 0.3531844239311088,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4105593925152735
+    "home_win_prob": 0.3798771718185786,
+    "draw_prob": 0.21810481615423394,
+    "away_win_prob": 0.4020180120271879,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.4020180120271879
   },
   {
     "match_id": 560799,
@@ -2514,12 +2371,25 @@
     "matchday": 26,
     "home_team": "Brighton Hove",
     "away_team": "Tottenham",
-    "home_win_prob": 0.4492485818436216,
-    "draw_prob": 0.3016698021183519,
-    "away_win_prob": 0.2490816160380264,
+    "home_win_prob": 0.4527844575779051,
+    "draw_prob": 0.261349566143559,
+    "away_win_prob": 0.28586597627853594,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4492485818436216
+    "confidence": 0.4527844575779051
+  },
+  {
+    "match_id": 560798,
+    "utc_date": "2027-02-20 15:00:00+00:00",
+    "matchday": 26,
+    "home_team": "Nottingham",
+    "away_team": "Man United",
+    "home_win_prob": 0.36665148098091793,
+    "draw_prob": 0.34545579932510484,
+    "away_win_prob": 0.28789271969397745,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.36665148098091793
   },
   {
     "match_id": 560797,
@@ -2527,12 +2397,12 @@
     "matchday": 26,
     "home_team": "Arsenal",
     "away_team": "Fulham",
-    "home_win_prob": 0.5525634625668246,
-    "draw_prob": 0.2519149581250902,
-    "away_win_prob": 0.1955215793080852,
+    "home_win_prob": 0.5936285375332617,
+    "draw_prob": 0.19221084818873077,
+    "away_win_prob": 0.21416061427800762,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.5525634625668246
+    "confidence": 0.5936285375332617
   },
   {
     "match_id": 560796,
@@ -2540,12 +2410,12 @@
     "matchday": 26,
     "home_team": "Liverpool",
     "away_team": "Hull City",
-    "home_win_prob": 0.5311654986891344,
-    "draw_prob": 0.2430017783357123,
-    "away_win_prob": 0.2258327229751538,
+    "home_win_prob": 0.594056698585309,
+    "draw_prob": 0.2404776915783547,
+    "away_win_prob": 0.1654656098363362,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.5311654986891344
+    "confidence": 0.594056698585309
   },
   {
     "match_id": 560795,
@@ -2553,12 +2423,12 @@
     "matchday": 26,
     "home_team": "Chelsea",
     "away_team": "Ipswich Town",
-    "home_win_prob": 0.4994866067116687,
-    "draw_prob": 0.2499353511820686,
-    "away_win_prob": 0.2505780421062626,
+    "home_win_prob": 0.4968221094079792,
+    "draw_prob": 0.24932862676100734,
+    "away_win_prob": 0.25384926383101336,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4994866067116687
+    "confidence": 0.4968221094079792
   },
   {
     "match_id": 560794,
@@ -2566,12 +2436,12 @@
     "matchday": 26,
     "home_team": "Brentford",
     "away_team": "Coventry City",
-    "home_win_prob": 0.4274564814951315,
-    "draw_prob": 0.3402151128378869,
-    "away_win_prob": 0.232328405666982,
+    "home_win_prob": 0.4459748087158242,
+    "draw_prob": 0.3251490325321381,
+    "away_win_prob": 0.22887615875203818,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4274564814951315
+    "confidence": 0.4459748087158242
   },
   {
     "match_id": 560793,
@@ -2579,12 +2449,12 @@
     "matchday": 26,
     "home_team": "Bournemouth",
     "away_team": "Crystal Palace",
-    "home_win_prob": 0.3701149724099252,
-    "draw_prob": 0.3207042411058289,
-    "away_win_prob": 0.3091807864842461,
+    "home_win_prob": 0.4075297037315451,
+    "draw_prob": 0.32440508362563164,
+    "away_win_prob": 0.2680652126428237,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3701149724099252
+    "confidence": 0.4075297037315451
   },
   {
     "match_id": 560792,
@@ -2592,12 +2462,12 @@
     "matchday": 26,
     "home_team": "Man City",
     "away_team": "Newcastle",
-    "home_win_prob": 0.5261175793403339,
-    "draw_prob": 0.2137454816780536,
-    "away_win_prob": 0.2601369389816125,
+    "home_win_prob": 0.4977068895795494,
+    "draw_prob": 0.26886228947792185,
+    "away_win_prob": 0.23343082094252882,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.5261175793403339
+    "confidence": 0.4977068895795494
   },
   {
     "match_id": 560811,
@@ -2605,12 +2475,12 @@
     "matchday": 27,
     "home_team": "Hull City",
     "away_team": "Man City",
-    "home_win_prob": 0.2120281942835743,
-    "draw_prob": 0.2322430994324459,
-    "away_win_prob": 0.5557287062839797,
+    "home_win_prob": 0.2191381082040165,
+    "draw_prob": 0.2193308617072493,
+    "away_win_prob": 0.5615310300887343,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.5557287062839797
+    "confidence": 0.5615310300887343
   },
   {
     "match_id": 560810,
@@ -2618,12 +2488,12 @@
     "matchday": 27,
     "home_team": "Newcastle",
     "away_team": "Brentford",
-    "home_win_prob": 0.4508796519997868,
-    "draw_prob": 0.2063604853534641,
-    "away_win_prob": 0.3427598626467491,
+    "home_win_prob": 0.41777539390227886,
+    "draw_prob": 0.189026742202484,
+    "away_win_prob": 0.39319786389523737,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4508796519997868
+    "confidence": 0.41777539390227886
   },
   {
     "match_id": 560809,
@@ -2631,12 +2501,12 @@
     "matchday": 27,
     "home_team": "Tottenham",
     "away_team": "Liverpool",
-    "home_win_prob": 0.3459102062408173,
-    "draw_prob": 0.3338676365348275,
-    "away_win_prob": 0.3202221572243552,
+    "home_win_prob": 0.3759129085041837,
+    "draw_prob": 0.3204828869421834,
+    "away_win_prob": 0.30360420455363313,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3459102062408173
+    "confidence": 0.3759129085041837
   },
   {
     "match_id": 560808,
@@ -2644,12 +2514,12 @@
     "matchday": 27,
     "home_team": "Aston Villa",
     "away_team": "Chelsea",
-    "home_win_prob": 0.439620725830541,
-    "draw_prob": 0.2219957834954191,
-    "away_win_prob": 0.3383834906740395,
+    "home_win_prob": 0.5054353031466805,
+    "draw_prob": 0.1834339185763865,
+    "away_win_prob": 0.31113077827693303,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.439620725830541
+    "confidence": 0.5054353031466805
   },
   {
     "match_id": 560807,
@@ -2657,64 +2527,12 @@
     "matchday": 27,
     "home_team": "Fulham",
     "away_team": "Leeds United",
-    "home_win_prob": 0.4594519058881255,
-    "draw_prob": 0.2722387767908651,
-    "away_win_prob": 0.2683093173210094,
+    "home_win_prob": 0.4807584849579874,
+    "draw_prob": 0.2575789217792085,
+    "away_win_prob": 0.2616625932628045,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4594519058881255
-  },
-  {
-    "match_id": 560805,
-    "utc_date": "2027-02-27 15:00:00+00:00",
-    "matchday": 27,
-    "home_team": "Coventry City",
-    "away_team": "Bournemouth",
-    "home_win_prob": 0.4585628325816712,
-    "draw_prob": 0.2862560650722106,
-    "away_win_prob": 0.2551811023461186,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4585628325816712
-  },
-  {
-    "match_id": 560804,
-    "utc_date": "2027-02-27 15:00:00+00:00",
-    "matchday": 27,
-    "home_team": "Ipswich Town",
-    "away_team": "Brighton Hove",
-    "home_win_prob": 0.1847053068261354,
-    "draw_prob": 0.2528306545089593,
-    "away_win_prob": 0.5624640386649052,
-    "predicted_result": "A",
-    "predicted_result_display": "Away Win",
-    "confidence": 0.5624640386649052
-  },
-  {
-    "match_id": 560803,
-    "utc_date": "2027-02-27 15:00:00+00:00",
-    "matchday": 27,
-    "home_team": "Man United",
-    "away_team": "Arsenal",
-    "home_win_prob": 0.348036265120034,
-    "draw_prob": 0.2448873822245519,
-    "away_win_prob": 0.4070763526554142,
-    "predicted_result": "A",
-    "predicted_result_display": "Away Win",
-    "confidence": 0.4070763526554142
-  },
-  {
-    "match_id": 560802,
-    "utc_date": "2027-02-27 15:00:00+00:00",
-    "matchday": 27,
-    "home_team": "Crystal Palace",
-    "away_team": "Sunderland",
-    "home_win_prob": 0.3581854250863083,
-    "draw_prob": 0.2998117135376262,
-    "away_win_prob": 0.3420028613760655,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.3581854250863083
+    "confidence": 0.4807584849579874
   },
   {
     "match_id": 560806,
@@ -2722,25 +2540,64 @@
     "matchday": 27,
     "home_team": "Everton",
     "away_team": "Nottingham",
-    "home_win_prob": 0.3837475494594782,
-    "draw_prob": 0.3283522727074163,
-    "away_win_prob": 0.2879001778331057,
+    "home_win_prob": 0.3638564186539751,
+    "draw_prob": 0.3336222522442989,
+    "away_win_prob": 0.3025213291017264,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3837475494594782
+    "confidence": 0.3638564186539751
   },
   {
-    "match_id": 560818,
-    "utc_date": "2027-03-03 20:00:00+00:00",
-    "matchday": 28,
-    "home_team": "Liverpool",
-    "away_team": "Aston Villa",
-    "home_win_prob": 0.552516945572832,
-    "draw_prob": 0.1961583433936117,
-    "away_win_prob": 0.2513247110335565,
+    "match_id": 560805,
+    "utc_date": "2027-02-27 15:00:00+00:00",
+    "matchday": 27,
+    "home_team": "Coventry City",
+    "away_team": "Bournemouth",
+    "home_win_prob": 0.3547570463259451,
+    "draw_prob": 0.277740674801539,
+    "away_win_prob": 0.36750227887251596,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.36750227887251596
+  },
+  {
+    "match_id": 560804,
+    "utc_date": "2027-02-27 15:00:00+00:00",
+    "matchday": 27,
+    "home_team": "Ipswich Town",
+    "away_team": "Brighton Hove",
+    "home_win_prob": 0.18530828741927827,
+    "draw_prob": 0.27344665596342876,
+    "away_win_prob": 0.541245056617293,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.541245056617293
+  },
+  {
+    "match_id": 560803,
+    "utc_date": "2027-02-27 15:00:00+00:00",
+    "matchday": 27,
+    "home_team": "Man United",
+    "away_team": "Arsenal",
+    "home_win_prob": 0.31841545391298576,
+    "draw_prob": 0.2529178247377851,
+    "away_win_prob": 0.42866672134922945,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.42866672134922945
+  },
+  {
+    "match_id": 560802,
+    "utc_date": "2027-02-27 15:00:00+00:00",
+    "matchday": 27,
+    "home_team": "Crystal Palace",
+    "away_team": "Sunderland",
+    "home_win_prob": 0.43104804932770313,
+    "draw_prob": 0.31838280758744686,
+    "away_win_prob": 0.25056914308485034,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.552516945572832
+    "confidence": 0.43104804932770313
   },
   {
     "match_id": 560821,
@@ -2748,12 +2605,12 @@
     "matchday": 28,
     "home_team": "Chelsea",
     "away_team": "Coventry City",
-    "home_win_prob": 0.5602235059182304,
-    "draw_prob": 0.265044493863847,
-    "away_win_prob": 0.1747320002179224,
+    "home_win_prob": 0.5727350607678773,
+    "draw_prob": 0.2505505683415212,
+    "away_win_prob": 0.1767143708906017,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.5602235059182304
+    "confidence": 0.5727350607678773
   },
   {
     "match_id": 560820,
@@ -2761,12 +2618,12 @@
     "matchday": 28,
     "home_team": "Brentford",
     "away_team": "Ipswich Town",
-    "home_win_prob": 0.4598108017878587,
-    "draw_prob": 0.3218007484372331,
-    "away_win_prob": 0.2183884497749084,
+    "home_win_prob": 0.4585850161702709,
+    "draw_prob": 0.3152109457128174,
+    "away_win_prob": 0.22620403811691195,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4598108017878587
+    "confidence": 0.4585850161702709
   },
   {
     "match_id": 560819,
@@ -2774,12 +2631,25 @@
     "matchday": 28,
     "home_team": "Brighton Hove",
     "away_team": "Fulham",
-    "home_win_prob": 0.3815681197735737,
-    "draw_prob": 0.3645027577420217,
-    "away_win_prob": 0.2539291224844044,
+    "home_win_prob": 0.3890552786478787,
+    "draw_prob": 0.3187385908501358,
+    "away_win_prob": 0.29220613050198546,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3815681197735737
+    "confidence": 0.3890552786478787
+  },
+  {
+    "match_id": 560818,
+    "utc_date": "2027-03-03 20:00:00+00:00",
+    "matchday": 28,
+    "home_team": "Liverpool",
+    "away_team": "Aston Villa",
+    "home_win_prob": 0.5799067037996134,
+    "draw_prob": 0.18760831138083003,
+    "away_win_prob": 0.23248498481955693,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.5799067037996134
   },
   {
     "match_id": 560817,
@@ -2787,12 +2657,12 @@
     "matchday": 28,
     "home_team": "Sunderland",
     "away_team": "Man United",
-    "home_win_prob": 0.3452469261737589,
-    "draw_prob": 0.22692246816553,
-    "away_win_prob": 0.4278306056607112,
+    "home_win_prob": 0.3233685931068033,
+    "draw_prob": 0.2200572137619875,
+    "away_win_prob": 0.4565741931312094,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.4278306056607112
+    "confidence": 0.4565741931312094
   },
   {
     "match_id": 560816,
@@ -2800,12 +2670,12 @@
     "matchday": 28,
     "home_team": "Leeds United",
     "away_team": "Hull City",
-    "home_win_prob": 0.4225364284537158,
-    "draw_prob": 0.267927102859499,
-    "away_win_prob": 0.3095364686867857,
+    "home_win_prob": 0.4944569532864109,
+    "draw_prob": 0.26504551326533354,
+    "away_win_prob": 0.24049753344825578,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4225364284537158
+    "confidence": 0.4944569532864109
   },
   {
     "match_id": 560815,
@@ -2813,12 +2683,12 @@
     "matchday": 28,
     "home_team": "Arsenal",
     "away_team": "Crystal Palace",
-    "home_win_prob": 0.6503706161620043,
-    "draw_prob": 0.1894142950216546,
-    "away_win_prob": 0.160215088816341,
+    "home_win_prob": 0.6598434724166595,
+    "draw_prob": 0.19050671668250022,
+    "away_win_prob": 0.14964981090084015,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.6503706161620043
+    "confidence": 0.6598434724166595
   },
   {
     "match_id": 560814,
@@ -2826,12 +2696,12 @@
     "matchday": 28,
     "home_team": "Man City",
     "away_team": "Everton",
-    "home_win_prob": 0.6292429183298299,
-    "draw_prob": 0.2067421614226465,
-    "away_win_prob": 0.1640149202475235,
+    "home_win_prob": 0.6115187500432391,
+    "draw_prob": 0.2264134300685015,
+    "away_win_prob": 0.16206781988825936,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.6292429183298299
+    "confidence": 0.6115187500432391
   },
   {
     "match_id": 560813,
@@ -2839,12 +2709,12 @@
     "matchday": 28,
     "home_team": "Bournemouth",
     "away_team": "Tottenham",
-    "home_win_prob": 0.3269417454402139,
-    "draw_prob": 0.3449584134085742,
-    "away_win_prob": 0.3280998411512121,
-    "predicted_result": "D",
-    "predicted_result_display": "Draw",
-    "confidence": 0.3449584134085742
+    "home_win_prob": 0.38601911218911433,
+    "draw_prob": 0.2773765970651512,
+    "away_win_prob": 0.33660429074573456,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.38601911218911433
   },
   {
     "match_id": 560812,
@@ -2852,12 +2722,12 @@
     "matchday": 28,
     "home_team": "Nottingham",
     "away_team": "Newcastle",
-    "home_win_prob": 0.3197398345259654,
-    "draw_prob": 0.3922761381118992,
-    "away_win_prob": 0.2879840273621353,
+    "home_win_prob": 0.3277096834527925,
+    "draw_prob": 0.4152932458767086,
+    "away_win_prob": 0.25699707067049893,
     "predicted_result": "D",
     "predicted_result_display": "Draw",
-    "confidence": 0.3922761381118992
+    "confidence": 0.4152932458767086
   },
   {
     "match_id": 560831,
@@ -2865,12 +2735,12 @@
     "matchday": 29,
     "home_team": "Sunderland",
     "away_team": "Brentford",
-    "home_win_prob": 0.3487354149605995,
-    "draw_prob": 0.2168641354230504,
-    "away_win_prob": 0.4344004496163503,
+    "home_win_prob": 0.28981188572860817,
+    "draw_prob": 0.21843089560296408,
+    "away_win_prob": 0.49175721866842764,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.4344004496163503
+    "confidence": 0.49175721866842764
   },
   {
     "match_id": 560830,
@@ -2878,12 +2748,12 @@
     "matchday": 29,
     "home_team": "Man United",
     "away_team": "Everton",
-    "home_win_prob": 0.4995634962373504,
-    "draw_prob": 0.1874096562447488,
-    "away_win_prob": 0.3130268475179008,
+    "home_win_prob": 0.5004454215768099,
+    "draw_prob": 0.19314953178735134,
+    "away_win_prob": 0.30640504663583873,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4995634962373504
+    "confidence": 0.5004454215768099
   },
   {
     "match_id": 560829,
@@ -2891,12 +2761,12 @@
     "matchday": 29,
     "home_team": "Aston Villa",
     "away_team": "Hull City",
-    "home_win_prob": 0.484231049806044,
-    "draw_prob": 0.2429070548790233,
-    "away_win_prob": 0.2728618953149331,
+    "home_win_prob": 0.5289269361593992,
+    "draw_prob": 0.26119960523162816,
+    "away_win_prob": 0.20987345860897277,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.484231049806044
+    "confidence": 0.5289269361593992
   },
   {
     "match_id": 560828,
@@ -2904,25 +2774,12 @@
     "matchday": 29,
     "home_team": "Chelsea",
     "away_team": "Arsenal",
-    "home_win_prob": 0.36512742382662,
-    "draw_prob": 0.2726090075149995,
-    "away_win_prob": 0.3622635686583807,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.36512742382662
-  },
-  {
-    "match_id": 560827,
-    "utc_date": "2027-03-13 15:00:00+00:00",
-    "matchday": 29,
-    "home_team": "Bournemouth",
-    "away_team": "Newcastle",
-    "home_win_prob": 0.3673888759829119,
-    "draw_prob": 0.3411502020608427,
-    "away_win_prob": 0.2914609219562456,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.3673888759829119
+    "home_win_prob": 0.3488060882284028,
+    "draw_prob": 0.2978681689303474,
+    "away_win_prob": 0.3533257428412502,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.3533257428412502
   },
   {
     "match_id": 560826,
@@ -2930,25 +2787,12 @@
     "matchday": 29,
     "home_team": "Coventry City",
     "away_team": "Man City",
-    "home_win_prob": 0.1909679326150549,
-    "draw_prob": 0.2349245596777369,
-    "away_win_prob": 0.5741075077072081,
+    "home_win_prob": 0.16661658111005537,
+    "draw_prob": 0.20551714971420507,
+    "away_win_prob": 0.6278662691757397,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.5741075077072081
-  },
-  {
-    "match_id": 560825,
-    "utc_date": "2027-03-13 15:00:00+00:00",
-    "matchday": 29,
-    "home_team": "Liverpool",
-    "away_team": "Ipswich Town",
-    "home_win_prob": 0.5646781022851066,
-    "draw_prob": 0.275792751291299,
-    "away_win_prob": 0.1595291464235946,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.5646781022851066
+    "confidence": 0.6278662691757397
   },
   {
     "match_id": 560824,
@@ -2956,12 +2800,25 @@
     "matchday": 29,
     "home_team": "Crystal Palace",
     "away_team": "Fulham",
-    "home_win_prob": 0.3667900604206721,
-    "draw_prob": 0.3388162886178953,
-    "away_win_prob": 0.2943936509614328,
+    "home_win_prob": 0.3513434177385061,
+    "draw_prob": 0.3206219453968269,
+    "away_win_prob": 0.3280346368646673,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3667900604206721
+    "confidence": 0.3513434177385061
+  },
+  {
+    "match_id": 560825,
+    "utc_date": "2027-03-13 15:00:00+00:00",
+    "matchday": 29,
+    "home_team": "Liverpool",
+    "away_team": "Ipswich Town",
+    "home_win_prob": 0.5613259917866751,
+    "draw_prob": 0.2729488369973948,
+    "away_win_prob": 0.16572517121593044,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.5613259917866751
   },
   {
     "match_id": 560823,
@@ -2969,12 +2826,12 @@
     "matchday": 29,
     "home_team": "Tottenham",
     "away_team": "Nottingham",
-    "home_win_prob": 0.3321869147517857,
-    "draw_prob": 0.3724706980673001,
-    "away_win_prob": 0.2953423871809141,
+    "home_win_prob": 0.3569442032735573,
+    "draw_prob": 0.37483176323350853,
+    "away_win_prob": 0.26822403349293444,
     "predicted_result": "D",
     "predicted_result_display": "Draw",
-    "confidence": 0.3724706980673001
+    "confidence": 0.37483176323350853
   },
   {
     "match_id": 560822,
@@ -2982,25 +2839,25 @@
     "matchday": 29,
     "home_team": "Leeds United",
     "away_team": "Brighton Hove",
-    "home_win_prob": 0.3887700141430129,
-    "draw_prob": 0.230162355981422,
-    "away_win_prob": 0.3810676298755649,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.3887700141430129
+    "home_win_prob": 0.353493816394069,
+    "draw_prob": 0.2515548812487487,
+    "away_win_prob": 0.39495130235718223,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.39495130235718223
   },
   {
-    "match_id": 560840,
-    "utc_date": "2027-03-20 15:00:00+00:00",
-    "matchday": 30,
-    "home_team": "Everton",
-    "away_team": "Tottenham",
-    "home_win_prob": 0.3184750185676234,
-    "draw_prob": 0.3951108180212751,
-    "away_win_prob": 0.2864141634111015,
-    "predicted_result": "D",
-    "predicted_result_display": "Draw",
-    "confidence": 0.3951108180212751
+    "match_id": 560827,
+    "utc_date": "2027-03-13 15:00:00+00:00",
+    "matchday": 29,
+    "home_team": "Bournemouth",
+    "away_team": "Newcastle",
+    "home_win_prob": 0.41319242082031593,
+    "draw_prob": 0.33740104407557114,
+    "away_win_prob": 0.24940653510411345,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.41319242082031593
   },
   {
     "match_id": 560841,
@@ -3008,90 +2865,12 @@
     "matchday": 30,
     "home_team": "Newcastle",
     "away_team": "Leeds United",
-    "home_win_prob": 0.4792721853532233,
-    "draw_prob": 0.230111739398643,
-    "away_win_prob": 0.2906160752481337,
+    "home_win_prob": 0.4647122352479712,
+    "draw_prob": 0.20880162958486065,
+    "away_win_prob": 0.32648613516716835,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4792721853532233
-  },
-  {
-    "match_id": 560838,
-    "utc_date": "2027-03-20 15:00:00+00:00",
-    "matchday": 30,
-    "home_team": "Hull City",
-    "away_team": "Chelsea",
-    "home_win_prob": 0.3517223637647331,
-    "draw_prob": 0.3194510642665539,
-    "away_win_prob": 0.3288265719687131,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.3517223637647331
-  },
-  {
-    "match_id": 560837,
-    "utc_date": "2027-03-20 15:00:00+00:00",
-    "matchday": 30,
-    "home_team": "Fulham",
-    "away_team": "Liverpool",
-    "home_win_prob": 0.4130183353166815,
-    "draw_prob": 0.2553081936648005,
-    "away_win_prob": 0.3316734710185182,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4130183353166815
-  },
-  {
-    "match_id": 560839,
-    "utc_date": "2027-03-20 15:00:00+00:00",
-    "matchday": 30,
-    "home_team": "Nottingham",
-    "away_team": "Aston Villa",
-    "home_win_prob": 0.3369010210331546,
-    "draw_prob": 0.3361671629037399,
-    "away_win_prob": 0.3269318160631057,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.3369010210331546
-  },
-  {
-    "match_id": 560835,
-    "utc_date": "2027-03-20 15:00:00+00:00",
-    "matchday": 30,
-    "home_team": "Ipswich Town",
-    "away_team": "Crystal Palace",
-    "home_win_prob": 0.1954714256967637,
-    "draw_prob": 0.2789112010256958,
-    "away_win_prob": 0.5256173732775404,
-    "predicted_result": "A",
-    "predicted_result_display": "Away Win",
-    "confidence": 0.5256173732775404
-  },
-  {
-    "match_id": 560834,
-    "utc_date": "2027-03-20 15:00:00+00:00",
-    "matchday": 30,
-    "home_team": "Man City",
-    "away_team": "Man United",
-    "home_win_prob": 0.4743166120414135,
-    "draw_prob": 0.2388968218480596,
-    "away_win_prob": 0.2867865661105268,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4743166120414135
-  },
-  {
-    "match_id": 560833,
-    "utc_date": "2027-03-20 15:00:00+00:00",
-    "matchday": 30,
-    "home_team": "Brighton Hove",
-    "away_team": "Coventry City",
-    "home_win_prob": 0.5030436858388054,
-    "draw_prob": 0.2692136052126961,
-    "away_win_prob": 0.2277427089484985,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.5030436858388054
+    "confidence": 0.4647122352479712
   },
   {
     "match_id": 560832,
@@ -3099,12 +2878,51 @@
     "matchday": 30,
     "home_team": "Brentford",
     "away_team": "Bournemouth",
-    "home_win_prob": 0.431907543854319,
-    "draw_prob": 0.3433452512933369,
-    "away_win_prob": 0.2247472048523441,
+    "home_win_prob": 0.41647365826670707,
+    "draw_prob": 0.34263518646549607,
+    "away_win_prob": 0.24089115526779725,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.431907543854319
+    "confidence": 0.41647365826670707
+  },
+  {
+    "match_id": 560833,
+    "utc_date": "2027-03-20 15:00:00+00:00",
+    "matchday": 30,
+    "home_team": "Brighton Hove",
+    "away_team": "Coventry City",
+    "home_win_prob": 0.4971111947022613,
+    "draw_prob": 0.2622821288982456,
+    "away_win_prob": 0.2406066763994933,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.4971111947022613
+  },
+  {
+    "match_id": 560834,
+    "utc_date": "2027-03-20 15:00:00+00:00",
+    "matchday": 30,
+    "home_team": "Man City",
+    "away_team": "Man United",
+    "home_win_prob": 0.4634033767683689,
+    "draw_prob": 0.2800168355995201,
+    "away_win_prob": 0.25657978763211103,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.4634033767683689
+  },
+  {
+    "match_id": 560835,
+    "utc_date": "2027-03-20 15:00:00+00:00",
+    "matchday": 30,
+    "home_team": "Ipswich Town",
+    "away_team": "Crystal Palace",
+    "home_win_prob": 0.21407582711794035,
+    "draw_prob": 0.321802828202976,
+    "away_win_prob": 0.4641213446790838,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.4641213446790838
   },
   {
     "match_id": 560836,
@@ -3112,38 +2930,64 @@
     "matchday": 30,
     "home_team": "Arsenal",
     "away_team": "Sunderland",
-    "home_win_prob": 0.6191598296759926,
-    "draw_prob": 0.220570766369639,
-    "away_win_prob": 0.1602694039543687,
+    "home_win_prob": 0.6467472605400983,
+    "draw_prob": 0.2352887866681529,
+    "away_win_prob": 0.11796395279174918,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.6191598296759926
+    "confidence": 0.6467472605400983
   },
   {
-    "match_id": 560851,
-    "utc_date": "2027-04-10 14:00:00+00:00",
-    "matchday": 31,
-    "home_team": "Aston Villa",
-    "away_team": "Brighton Hove",
-    "home_win_prob": 0.5103832747132315,
-    "draw_prob": 0.1776917421162599,
-    "away_win_prob": 0.3119249831705085,
+    "match_id": 560837,
+    "utc_date": "2027-03-20 15:00:00+00:00",
+    "matchday": 30,
+    "home_team": "Fulham",
+    "away_team": "Liverpool",
+    "home_win_prob": 0.41893724265438165,
+    "draw_prob": 0.2314737814096405,
+    "away_win_prob": 0.3495889759359781,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.5103832747132315
+    "confidence": 0.41893724265438165
   },
   {
-    "match_id": 560850,
-    "utc_date": "2027-04-10 14:00:00+00:00",
-    "matchday": 31,
-    "home_team": "Tottenham",
-    "away_team": "Brentford",
-    "home_win_prob": 0.3988673688973986,
-    "draw_prob": 0.2951629563513231,
-    "away_win_prob": 0.3059696747512784,
+    "match_id": 560838,
+    "utc_date": "2027-03-20 15:00:00+00:00",
+    "matchday": 30,
+    "home_team": "Hull City",
+    "away_team": "Chelsea",
+    "home_win_prob": 0.335815438566376,
+    "draw_prob": 0.28690391664405046,
+    "away_win_prob": 0.37728064478957357,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.37728064478957357
+  },
+  {
+    "match_id": 560839,
+    "utc_date": "2027-03-20 15:00:00+00:00",
+    "matchday": 30,
+    "home_team": "Nottingham",
+    "away_team": "Aston Villa",
+    "home_win_prob": 0.368562610388447,
+    "draw_prob": 0.313780055673457,
+    "away_win_prob": 0.3176573339380963,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3988673688973986
+    "confidence": 0.368562610388447
+  },
+  {
+    "match_id": 560840,
+    "utc_date": "2027-03-20 15:00:00+00:00",
+    "matchday": 30,
+    "home_team": "Everton",
+    "away_team": "Tottenham",
+    "home_win_prob": 0.33044760960253383,
+    "draw_prob": 0.36022775291325,
+    "away_win_prob": 0.3093246374842162,
+    "predicted_result": "D",
+    "predicted_result_display": "Draw",
+    "confidence": 0.36022775291325
   },
   {
     "match_id": 560849,
@@ -3151,12 +2995,12 @@
     "matchday": 31,
     "home_team": "Crystal Palace",
     "away_team": "Everton",
-    "home_win_prob": 0.3312427072432741,
-    "draw_prob": 0.356432361780638,
-    "away_win_prob": 0.312324930976088,
+    "home_win_prob": 0.3065613116272695,
+    "draw_prob": 0.36881183441902915,
+    "away_win_prob": 0.3246268539537012,
     "predicted_result": "D",
     "predicted_result_display": "Draw",
-    "confidence": 0.356432361780638
+    "confidence": 0.36881183441902915
   },
   {
     "match_id": 560848,
@@ -3164,12 +3008,38 @@
     "matchday": 31,
     "home_team": "Bournemouth",
     "away_team": "Man City",
-    "home_win_prob": 0.2144906850541802,
-    "draw_prob": 0.2870903206039717,
-    "away_win_prob": 0.4984189943418481,
+    "home_win_prob": 0.24623345680874645,
+    "draw_prob": 0.3015221118869665,
+    "away_win_prob": 0.4522444313042873,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.4984189943418481
+    "confidence": 0.4522444313042873
+  },
+  {
+    "match_id": 560851,
+    "utc_date": "2027-04-10 14:00:00+00:00",
+    "matchday": 31,
+    "home_team": "Aston Villa",
+    "away_team": "Brighton Hove",
+    "home_win_prob": 0.4912329650703145,
+    "draw_prob": 0.20375505943032585,
+    "away_win_prob": 0.3050119754993595,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.4912329650703145
+  },
+  {
+    "match_id": 560850,
+    "utc_date": "2027-04-10 14:00:00+00:00",
+    "matchday": 31,
+    "home_team": "Tottenham",
+    "away_team": "Brentford",
+    "home_win_prob": 0.4146418908828713,
+    "draw_prob": 0.2950663436805152,
+    "away_win_prob": 0.29029176543661384,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.4146418908828713
   },
   {
     "match_id": 560847,
@@ -3177,38 +3047,12 @@
     "matchday": 31,
     "home_team": "Coventry City",
     "away_team": "Arsenal",
-    "home_win_prob": 0.2020294316450867,
-    "draw_prob": 0.2522337175601616,
-    "away_win_prob": 0.5457368507947516,
+    "home_win_prob": 0.18107669336231733,
+    "draw_prob": 0.2119968556590497,
+    "away_win_prob": 0.606926450978633,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.5457368507947516
-  },
-  {
-    "match_id": 560846,
-    "utc_date": "2027-04-10 14:00:00+00:00",
-    "matchday": 31,
-    "home_team": "Liverpool",
-    "away_team": "Newcastle",
-    "home_win_prob": 0.6100873082254344,
-    "draw_prob": 0.2048538110480172,
-    "away_win_prob": 0.1850588807265485,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.6100873082254344
-  },
-  {
-    "match_id": 560845,
-    "utc_date": "2027-04-10 14:00:00+00:00",
-    "matchday": 31,
-    "home_team": "Chelsea",
-    "away_team": "Fulham",
-    "home_win_prob": 0.3755827006370966,
-    "draw_prob": 0.3438366959121023,
-    "away_win_prob": 0.2805806034508015,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.3755827006370966
+    "confidence": 0.606926450978633
   },
   {
     "match_id": 560844,
@@ -3216,12 +3060,38 @@
     "matchday": 31,
     "home_team": "Man United",
     "away_team": "Hull City",
-    "home_win_prob": 0.4349391586620779,
-    "draw_prob": 0.239051004148454,
-    "away_win_prob": 0.3260098371894684,
+    "home_win_prob": 0.46566048337577004,
+    "draw_prob": 0.2441344409828733,
+    "away_win_prob": 0.29020507564135706,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4349391586620779
+    "confidence": 0.46566048337577004
+  },
+  {
+    "match_id": 560845,
+    "utc_date": "2027-04-10 14:00:00+00:00",
+    "matchday": 31,
+    "home_team": "Chelsea",
+    "away_team": "Fulham",
+    "home_win_prob": 0.41841857748895256,
+    "draw_prob": 0.26767887991155875,
+    "away_win_prob": 0.31390254259948863,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.41841857748895256
+  },
+  {
+    "match_id": 560846,
+    "utc_date": "2027-04-10 14:00:00+00:00",
+    "matchday": 31,
+    "home_team": "Liverpool",
+    "away_team": "Newcastle",
+    "home_win_prob": 0.5743646874109318,
+    "draw_prob": 0.2417401507883011,
+    "away_win_prob": 0.18389516180076748,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.5743646874109318
   },
   {
     "match_id": 560843,
@@ -3229,12 +3099,12 @@
     "matchday": 31,
     "home_team": "Leeds United",
     "away_team": "Nottingham",
-    "home_win_prob": 0.43233998716474,
-    "draw_prob": 0.2390660401239003,
-    "away_win_prob": 0.3285939727113598,
+    "home_win_prob": 0.43613184403338506,
+    "draw_prob": 0.26753497552314215,
+    "away_win_prob": 0.296333180443473,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.43233998716474
+    "confidence": 0.43613184403338506
   },
   {
     "match_id": 560842,
@@ -3242,12 +3112,12 @@
     "matchday": 31,
     "home_team": "Sunderland",
     "away_team": "Ipswich Town",
-    "home_win_prob": 0.4706455428471913,
-    "draw_prob": 0.1964211731086654,
-    "away_win_prob": 0.3329332840441434,
+    "home_win_prob": 0.42940257549718097,
+    "draw_prob": 0.19206944198945158,
+    "away_win_prob": 0.37852798251336744,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4706455428471913
+    "confidence": 0.42940257549718097
   },
   {
     "match_id": 560861,
@@ -3255,12 +3125,12 @@
     "matchday": 32,
     "home_team": "Everton",
     "away_team": "Bournemouth",
-    "home_win_prob": 0.3355037824602137,
-    "draw_prob": 0.398291718009844,
-    "away_win_prob": 0.2662044995299423,
+    "home_win_prob": 0.3197561381681966,
+    "draw_prob": 0.3799825139474096,
+    "away_win_prob": 0.3002613478843937,
     "predicted_result": "D",
     "predicted_result_display": "Draw",
-    "confidence": 0.398291718009844
+    "confidence": 0.3799825139474096
   },
   {
     "match_id": 560860,
@@ -3268,12 +3138,12 @@
     "matchday": 32,
     "home_team": "Newcastle",
     "away_team": "Tottenham",
-    "home_win_prob": 0.4324669833008716,
-    "draw_prob": 0.2859414869288079,
-    "away_win_prob": 0.2815915297703206,
+    "home_win_prob": 0.46536397817437347,
+    "draw_prob": 0.17566220810429306,
+    "away_win_prob": 0.35897381372133347,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4324669833008716
+    "confidence": 0.46536397817437347
   },
   {
     "match_id": 560859,
@@ -3281,12 +3151,12 @@
     "matchday": 32,
     "home_team": "Man City",
     "away_team": "Crystal Palace",
-    "home_win_prob": 0.6523302232126743,
-    "draw_prob": 0.1916343406522615,
-    "away_win_prob": 0.1560354361350642,
+    "home_win_prob": 0.6585141210876806,
+    "draw_prob": 0.19970594690584714,
+    "away_win_prob": 0.14177993200647218,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.6523302232126743
+    "confidence": 0.6585141210876806
   },
   {
     "match_id": 560858,
@@ -3294,12 +3164,12 @@
     "matchday": 32,
     "home_team": "Ipswich Town",
     "away_team": "Man United",
-    "home_win_prob": 0.1737772132178484,
-    "draw_prob": 0.2985158118811095,
-    "away_win_prob": 0.5277069749010421,
+    "home_win_prob": 0.19527618886116455,
+    "draw_prob": 0.35713820927095624,
+    "away_win_prob": 0.44758560186787927,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.5277069749010421
+    "confidence": 0.44758560186787927
   },
   {
     "match_id": 560857,
@@ -3307,12 +3177,12 @@
     "matchday": 32,
     "home_team": "Arsenal",
     "away_team": "Aston Villa",
-    "home_win_prob": 0.5417252473217531,
-    "draw_prob": 0.219590112261332,
-    "away_win_prob": 0.2386846404169151,
+    "home_win_prob": 0.5554954535568153,
+    "draw_prob": 0.2166909933504854,
+    "away_win_prob": 0.22781355309269927,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.5417252473217531
+    "confidence": 0.5554954535568153
   },
   {
     "match_id": 560856,
@@ -3320,12 +3190,12 @@
     "matchday": 32,
     "home_team": "Hull City",
     "away_team": "Coventry City",
-    "home_win_prob": 0.3661033299847148,
-    "draw_prob": 0.3113856672958455,
-    "away_win_prob": 0.3225110027194401,
+    "home_win_prob": 0.3802777386573836,
+    "draw_prob": 0.2782955116251373,
+    "away_win_prob": 0.3414267497174792,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3661033299847148
+    "confidence": 0.3802777386573836
   },
   {
     "match_id": 560855,
@@ -3333,12 +3203,12 @@
     "matchday": 32,
     "home_team": "Nottingham",
     "away_team": "Liverpool",
-    "home_win_prob": 0.336929766228022,
-    "draw_prob": 0.3015966517674013,
-    "away_win_prob": 0.3614735820045772,
+    "home_win_prob": 0.32373636552194784,
+    "draw_prob": 0.3202104023297707,
+    "away_win_prob": 0.3560532321482819,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.3614735820045772
+    "confidence": 0.3560532321482819
   },
   {
     "match_id": 560854,
@@ -3346,12 +3216,12 @@
     "matchday": 32,
     "home_team": "Brentford",
     "away_team": "Leeds United",
-    "home_win_prob": 0.4144450653486921,
-    "draw_prob": 0.3393605721912962,
-    "away_win_prob": 0.2461943624600119,
+    "home_win_prob": 0.41639334353214463,
+    "draw_prob": 0.33117082335722825,
+    "away_win_prob": 0.2524358331106273,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4144450653486921
+    "confidence": 0.41639334353214463
   },
   {
     "match_id": 560853,
@@ -3359,12 +3229,12 @@
     "matchday": 32,
     "home_team": "Fulham",
     "away_team": "Sunderland",
-    "home_win_prob": 0.4538608194843765,
-    "draw_prob": 0.2815554284762889,
-    "away_win_prob": 0.2645837520393347,
+    "home_win_prob": 0.5163783618514846,
+    "draw_prob": 0.2532614199989158,
+    "away_win_prob": 0.2303602181495997,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4538608194843765
+    "confidence": 0.5163783618514846
   },
   {
     "match_id": 560852,
@@ -3372,12 +3242,12 @@
     "matchday": 32,
     "home_team": "Brighton Hove",
     "away_team": "Chelsea",
-    "home_win_prob": 0.4113529594299462,
-    "draw_prob": 0.2759842811340891,
-    "away_win_prob": 0.3126627594359646,
+    "home_win_prob": 0.409801666709322,
+    "draw_prob": 0.2966597011260708,
+    "away_win_prob": 0.2935386321646072,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4113529594299462
+    "confidence": 0.409801666709322
   },
   {
     "match_id": 560871,
@@ -3385,12 +3255,12 @@
     "matchday": 33,
     "home_team": "Leeds United",
     "away_team": "Liverpool",
-    "home_win_prob": 0.3585172843436393,
-    "draw_prob": 0.2722146717788923,
-    "away_win_prob": 0.3692680438774688,
+    "home_win_prob": 0.3580236184991513,
+    "draw_prob": 0.2774413759483918,
+    "away_win_prob": 0.36453500555245755,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.3692680438774688
+    "confidence": 0.36453500555245755
   },
   {
     "match_id": 560870,
@@ -3398,12 +3268,12 @@
     "matchday": 33,
     "home_team": "Brentford",
     "away_team": "Fulham",
-    "home_win_prob": 0.3425245977270014,
-    "draw_prob": 0.3615599035672353,
-    "away_win_prob": 0.2959154987057633,
-    "predicted_result": "D",
-    "predicted_result_display": "Draw",
-    "confidence": 0.3615599035672353
+    "home_win_prob": 0.3675634828877392,
+    "draw_prob": 0.3196260905641962,
+    "away_win_prob": 0.31281042654806485,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.3675634828877392
   },
   {
     "match_id": 560869,
@@ -3411,12 +3281,12 @@
     "matchday": 33,
     "home_team": "Aston Villa",
     "away_team": "Coventry City",
-    "home_win_prob": 0.498650021957534,
-    "draw_prob": 0.2557599331541265,
-    "away_win_prob": 0.2455900448883397,
+    "home_win_prob": 0.53662450499934,
+    "draw_prob": 0.26326948475957385,
+    "away_win_prob": 0.2001060102410865,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.498650021957534
+    "confidence": 0.53662450499934
   },
   {
     "match_id": 560868,
@@ -3424,12 +3294,12 @@
     "matchday": 33,
     "home_team": "Newcastle",
     "away_team": "Ipswich Town",
-    "home_win_prob": 0.5477840226301766,
-    "draw_prob": 0.2664127902107119,
-    "away_win_prob": 0.1858031871591115,
+    "home_win_prob": 0.5455340362261978,
+    "draw_prob": 0.2439074725561332,
+    "away_win_prob": 0.21055849121766898,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.5477840226301766
+    "confidence": 0.5455340362261978
   },
   {
     "match_id": 560867,
@@ -3437,25 +3307,12 @@
     "matchday": 33,
     "home_team": "Nottingham",
     "away_team": "Sunderland",
-    "home_win_prob": 0.3937726795619704,
-    "draw_prob": 0.3274410251076367,
-    "away_win_prob": 0.2787862953303932,
+    "home_win_prob": 0.4777198740722306,
+    "draw_prob": 0.3026857209953795,
+    "away_win_prob": 0.2195944049323902,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3937726795619704
-  },
-  {
-    "match_id": 560866,
-    "utc_date": "2027-04-24 14:00:00+00:00",
-    "matchday": 33,
-    "home_team": "Everton",
-    "away_team": "Brighton Hove",
-    "home_win_prob": 0.3587949690129422,
-    "draw_prob": 0.3053749414281619,
-    "away_win_prob": 0.3358300895588961,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.3587949690129422
+    "confidence": 0.4777198740722306
   },
   {
     "match_id": 560865,
@@ -3463,12 +3320,12 @@
     "matchday": 33,
     "home_team": "Man United",
     "away_team": "Crystal Palace",
-    "home_win_prob": 0.4403121152767016,
-    "draw_prob": 0.2177826901293133,
-    "away_win_prob": 0.3419051945939849,
+    "home_win_prob": 0.4761845541760031,
+    "draw_prob": 0.19290020924406107,
+    "away_win_prob": 0.33091523657993577,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4403121152767016
+    "confidence": 0.4761845541760031
   },
   {
     "match_id": 560864,
@@ -3476,12 +3333,12 @@
     "matchday": 33,
     "home_team": "Tottenham",
     "away_team": "Hull City",
-    "home_win_prob": 0.3691998845735231,
-    "draw_prob": 0.3079661806764998,
-    "away_win_prob": 0.3228339347499775,
+    "home_win_prob": 0.4511954805533495,
+    "draw_prob": 0.3049853293848874,
+    "away_win_prob": 0.24381919006176328,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3691998845735231
+    "confidence": 0.4511954805533495
   },
   {
     "match_id": 560863,
@@ -3489,12 +3346,12 @@
     "matchday": 33,
     "home_team": "Bournemouth",
     "away_team": "Arsenal",
-    "home_win_prob": 0.2159339247985702,
-    "draw_prob": 0.2352588153089127,
-    "away_win_prob": 0.5488072598925173,
+    "home_win_prob": 0.24722597000576585,
+    "draw_prob": 0.24466182930261385,
+    "away_win_prob": 0.5081122006916204,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.5488072598925173
+    "confidence": 0.5081122006916204
   },
   {
     "match_id": 560862,
@@ -3502,129 +3359,25 @@
     "matchday": 33,
     "home_team": "Chelsea",
     "away_team": "Man City",
-    "home_win_prob": 0.3531089285610932,
-    "draw_prob": 0.2370750142458606,
-    "away_win_prob": 0.4098160571930463,
+    "home_win_prob": 0.3391652397112576,
+    "draw_prob": 0.2688254015906234,
+    "away_win_prob": 0.3920093586981194,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.4098160571930463
+    "confidence": 0.3920093586981194
   },
   {
-    "match_id": 560880,
-    "utc_date": "2027-05-01 14:00:00+00:00",
-    "matchday": 34,
-    "home_team": "Crystal Palace",
-    "away_team": "Aston Villa",
-    "home_win_prob": 0.3756128658653674,
-    "draw_prob": 0.3004392530669548,
-    "away_win_prob": 0.3239478810676779,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.3756128658653674
-  },
-  {
-    "match_id": 560881,
-    "utc_date": "2027-05-01 14:00:00+00:00",
-    "matchday": 34,
-    "home_team": "Ipswich Town",
-    "away_team": "Leeds United",
-    "home_win_prob": 0.3222225187571655,
-    "draw_prob": 0.2084381620405606,
-    "away_win_prob": 0.4693393192022735,
+    "match_id": 560866,
+    "utc_date": "2027-04-24 14:00:00+00:00",
+    "matchday": 33,
+    "home_team": "Everton",
+    "away_team": "Brighton Hove",
+    "home_win_prob": 0.32406059005744503,
+    "draw_prob": 0.32327333359824295,
+    "away_win_prob": 0.3526660763443123,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.4693393192022735
-  },
-  {
-    "match_id": 560878,
-    "utc_date": "2027-05-01 14:00:00+00:00",
-    "matchday": 34,
-    "home_team": "Liverpool",
-    "away_team": "Chelsea",
-    "home_win_prob": 0.508390047763912,
-    "draw_prob": 0.1906196080011147,
-    "away_win_prob": 0.3009903442349735,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.508390047763912
-  },
-  {
-    "match_id": 560877,
-    "utc_date": "2027-05-01 14:00:00+00:00",
-    "matchday": 34,
-    "home_team": "Fulham",
-    "away_team": "Everton",
-    "home_win_prob": 0.4217155845543043,
-    "draw_prob": 0.25419235593216,
-    "away_win_prob": 0.3240920595135358,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4217155845543043
-  },
-  {
-    "match_id": 560879,
-    "utc_date": "2027-05-01 14:00:00+00:00",
-    "matchday": 34,
-    "home_team": "Arsenal",
-    "away_team": "Tottenham",
-    "home_win_prob": 0.5928996425372318,
-    "draw_prob": 0.2675217497246048,
-    "away_win_prob": 0.1395786077381634,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.5928996425372318
-  },
-  {
-    "match_id": 560875,
-    "utc_date": "2027-05-01 14:00:00+00:00",
-    "matchday": 34,
-    "home_team": "Hull City",
-    "away_team": "Bournemouth",
-    "home_win_prob": 0.4598550277477411,
-    "draw_prob": 0.3098720081395076,
-    "away_win_prob": 0.2302729641127515,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4598550277477411
-  },
-  {
-    "match_id": 560874,
-    "utc_date": "2027-05-01 14:00:00+00:00",
-    "matchday": 34,
-    "home_team": "Coventry City",
-    "away_team": "Man United",
-    "home_win_prob": 0.3357847923490371,
-    "draw_prob": 0.2894530249310963,
-    "away_win_prob": 0.3747621827198667,
-    "predicted_result": "A",
-    "predicted_result_display": "Away Win",
-    "confidence": 0.3747621827198667
-  },
-  {
-    "match_id": 560873,
-    "utc_date": "2027-05-01 14:00:00+00:00",
-    "matchday": 34,
-    "home_team": "Brighton Hove",
-    "away_team": "Nottingham",
-    "home_win_prob": 0.4764187261700234,
-    "draw_prob": 0.2613448240016345,
-    "away_win_prob": 0.262236449828342,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4764187261700234
-  },
-  {
-    "match_id": 560872,
-    "utc_date": "2027-05-01 14:00:00+00:00",
-    "matchday": 34,
-    "home_team": "Sunderland",
-    "away_team": "Newcastle",
-    "home_win_prob": 0.422943762602412,
-    "draw_prob": 0.2309757637804479,
-    "away_win_prob": 0.3460804736171405,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.422943762602412
+    "confidence": 0.3526660763443123
   },
   {
     "match_id": 560876,
@@ -3632,12 +3385,129 @@
     "matchday": 34,
     "home_team": "Man City",
     "away_team": "Brentford",
-    "home_win_prob": 0.639254724622791,
-    "draw_prob": 0.2011694002495284,
-    "away_win_prob": 0.1595758751276806,
+    "home_win_prob": 0.639769241450974,
+    "draw_prob": 0.20850022920688394,
+    "away_win_prob": 0.15173052934214204,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.639254724622791
+    "confidence": 0.639769241450974
+  },
+  {
+    "match_id": 560872,
+    "utc_date": "2027-05-01 14:00:00+00:00",
+    "matchday": 34,
+    "home_team": "Sunderland",
+    "away_team": "Newcastle",
+    "home_win_prob": 0.4270248565378555,
+    "draw_prob": 0.205043761750567,
+    "away_win_prob": 0.367931381711578,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.4270248565378555
+  },
+  {
+    "match_id": 560873,
+    "utc_date": "2027-05-01 14:00:00+00:00",
+    "matchday": 34,
+    "home_team": "Brighton Hove",
+    "away_team": "Nottingham",
+    "home_win_prob": 0.4354574366190815,
+    "draw_prob": 0.31051004084327616,
+    "away_win_prob": 0.25403252253764225,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.4354574366190815
+  },
+  {
+    "match_id": 560874,
+    "utc_date": "2027-05-01 14:00:00+00:00",
+    "matchday": 34,
+    "home_team": "Coventry City",
+    "away_team": "Man United",
+    "home_win_prob": 0.34319406412665415,
+    "draw_prob": 0.2771207522666346,
+    "away_win_prob": 0.37968518360671133,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.37968518360671133
+  },
+  {
+    "match_id": 560875,
+    "utc_date": "2027-05-01 14:00:00+00:00",
+    "matchday": 34,
+    "home_team": "Hull City",
+    "away_team": "Bournemouth",
+    "home_win_prob": 0.3689950361777374,
+    "draw_prob": 0.29262692183290595,
+    "away_win_prob": 0.33837804198935684,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.3689950361777374
+  },
+  {
+    "match_id": 560877,
+    "utc_date": "2027-05-01 14:00:00+00:00",
+    "matchday": 34,
+    "home_team": "Fulham",
+    "away_team": "Everton",
+    "home_win_prob": 0.41349594533936906,
+    "draw_prob": 0.23659872270225965,
+    "away_win_prob": 0.34990533195837137,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.41349594533936906
+  },
+  {
+    "match_id": 560878,
+    "utc_date": "2027-05-01 14:00:00+00:00",
+    "matchday": 34,
+    "home_team": "Liverpool",
+    "away_team": "Chelsea",
+    "home_win_prob": 0.5292993792564619,
+    "draw_prob": 0.17984703777144784,
+    "away_win_prob": 0.2908535829720906,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.5292993792564619
+  },
+  {
+    "match_id": 560879,
+    "utc_date": "2027-05-01 14:00:00+00:00",
+    "matchday": 34,
+    "home_team": "Arsenal",
+    "away_team": "Tottenham",
+    "home_win_prob": 0.6325473596783265,
+    "draw_prob": 0.20022412776097215,
+    "away_win_prob": 0.1672285125607013,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.6325473596783265
+  },
+  {
+    "match_id": 560880,
+    "utc_date": "2027-05-01 14:00:00+00:00",
+    "matchday": 34,
+    "home_team": "Crystal Palace",
+    "away_team": "Aston Villa",
+    "home_win_prob": 0.37986852783779546,
+    "draw_prob": 0.2858544306475974,
+    "away_win_prob": 0.3342770415146077,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.37986852783779546
+  },
+  {
+    "match_id": 560881,
+    "utc_date": "2027-05-01 14:00:00+00:00",
+    "matchday": 34,
+    "home_team": "Ipswich Town",
+    "away_team": "Leeds United",
+    "home_win_prob": 0.31199817819472875,
+    "draw_prob": 0.22551952114034202,
+    "away_win_prob": 0.46248230066492924,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.46248230066492924
   },
   {
     "match_id": 560891,
@@ -3645,38 +3515,12 @@
     "matchday": 35,
     "home_team": "Bournemouth",
     "away_team": "Man United",
-    "home_win_prob": 0.3623380932858218,
-    "draw_prob": 0.3265780088850711,
-    "away_win_prob": 0.3110838978291073,
+    "home_win_prob": 0.3862755848670897,
+    "draw_prob": 0.3339924986129301,
+    "away_win_prob": 0.2797319165199806,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3623380932858218
-  },
-  {
-    "match_id": 560890,
-    "utc_date": "2027-05-08 14:00:00+00:00",
-    "matchday": 35,
-    "home_team": "Everton",
-    "away_team": "Hull City",
-    "home_win_prob": 0.3627930667251529,
-    "draw_prob": 0.3498949384413493,
-    "away_win_prob": 0.2873119948334984,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.3627930667251529
-  },
-  {
-    "match_id": 560889,
-    "utc_date": "2027-05-08 14:00:00+00:00",
-    "matchday": 35,
-    "home_team": "Tottenham",
-    "away_team": "Chelsea",
-    "home_win_prob": 0.3559586074198243,
-    "draw_prob": 0.3669372534529194,
-    "away_win_prob": 0.2771041391272561,
-    "predicted_result": "D",
-    "predicted_result_display": "Draw",
-    "confidence": 0.3669372534529194
+    "confidence": 0.3862755848670897
   },
   {
     "match_id": 560888,
@@ -3684,12 +3528,38 @@
     "matchday": 35,
     "home_team": "Brighton Hove",
     "away_team": "Sunderland",
-    "home_win_prob": 0.4543162987744967,
-    "draw_prob": 0.2809591351774948,
-    "away_win_prob": 0.2647245660480085,
+    "home_win_prob": 0.4692073540946458,
+    "draw_prob": 0.3109099583209865,
+    "away_win_prob": 0.21988268758436758,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4543162987744967
+    "confidence": 0.4692073540946458
+  },
+  {
+    "match_id": 560890,
+    "utc_date": "2027-05-08 14:00:00+00:00",
+    "matchday": 35,
+    "home_team": "Everton",
+    "away_team": "Hull City",
+    "home_win_prob": 0.42529404737770854,
+    "draw_prob": 0.30832891340924873,
+    "away_win_prob": 0.2663770392130431,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.42529404737770854
+  },
+  {
+    "match_id": 560889,
+    "utc_date": "2027-05-08 14:00:00+00:00",
+    "matchday": 35,
+    "home_team": "Tottenham",
+    "away_team": "Chelsea",
+    "home_win_prob": 0.3613532298062415,
+    "draw_prob": 0.3620005328424879,
+    "away_win_prob": 0.27664623735127064,
+    "predicted_result": "D",
+    "predicted_result_display": "Draw",
+    "confidence": 0.3620005328424879
   },
   {
     "match_id": 560887,
@@ -3697,38 +3567,12 @@
     "matchday": 35,
     "home_team": "Newcastle",
     "away_team": "Coventry City",
-    "home_win_prob": 0.4346610241278505,
-    "draw_prob": 0.2600193562928953,
-    "away_win_prob": 0.3053196195792543,
+    "home_win_prob": 0.43230441892142496,
+    "draw_prob": 0.24228484949270432,
+    "away_win_prob": 0.3254107315858709,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4346610241278505
-  },
-  {
-    "match_id": 560886,
-    "utc_date": "2027-05-08 14:00:00+00:00",
-    "matchday": 35,
-    "home_team": "Brentford",
-    "away_team": "Aston Villa",
-    "home_win_prob": 0.3920750619129233,
-    "draw_prob": 0.298876172488571,
-    "away_win_prob": 0.3090487655985059,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.3920750619129233
-  },
-  {
-    "match_id": 560885,
-    "utc_date": "2027-05-08 14:00:00+00:00",
-    "matchday": 35,
-    "home_team": "Nottingham",
-    "away_team": "Crystal Palace",
-    "home_win_prob": 0.3208902664519925,
-    "draw_prob": 0.3716496777517096,
-    "away_win_prob": 0.3074600557962982,
-    "predicted_result": "D",
-    "predicted_result_display": "Draw",
-    "confidence": 0.3716496777517096
+    "confidence": 0.43230441892142496
   },
   {
     "match_id": 560884,
@@ -3736,12 +3580,25 @@
     "matchday": 35,
     "home_team": "Fulham",
     "away_team": "Ipswich Town",
-    "home_win_prob": 0.4815786998942948,
-    "draw_prob": 0.266570127960676,
-    "away_win_prob": 0.2518511721450292,
+    "home_win_prob": 0.49086599942943193,
+    "draw_prob": 0.24385438021517206,
+    "away_win_prob": 0.26527962035539615,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4815786998942948
+    "confidence": 0.49086599942943193
+  },
+  {
+    "match_id": 560885,
+    "utc_date": "2027-05-08 14:00:00+00:00",
+    "matchday": 35,
+    "home_team": "Nottingham",
+    "away_team": "Crystal Palace",
+    "home_win_prob": 0.3273602309142529,
+    "draw_prob": 0.38115920305712486,
+    "away_win_prob": 0.29148056602862227,
+    "predicted_result": "D",
+    "predicted_result_display": "Draw",
+    "confidence": 0.38115920305712486
   },
   {
     "match_id": 560883,
@@ -3749,12 +3606,12 @@
     "matchday": 35,
     "home_team": "Leeds United",
     "away_team": "Arsenal",
-    "home_win_prob": 0.2412904947225808,
-    "draw_prob": 0.2291554399994138,
-    "away_win_prob": 0.5295540652780054,
+    "home_win_prob": 0.23872097212114565,
+    "draw_prob": 0.24732533082363165,
+    "away_win_prob": 0.5139536970552228,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.5295540652780054
+    "confidence": 0.5139536970552228
   },
   {
     "match_id": 560882,
@@ -3762,25 +3619,25 @@
     "matchday": 35,
     "home_team": "Man City",
     "away_team": "Liverpool",
-    "home_win_prob": 0.4651798108526659,
-    "draw_prob": 0.3076011506324741,
-    "away_win_prob": 0.2272190385148598,
+    "home_win_prob": 0.45883275628550907,
+    "draw_prob": 0.3214796731409748,
+    "away_win_prob": 0.21968757057351632,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4651798108526659
+    "confidence": 0.45883275628550907
   },
   {
-    "match_id": 560894,
-    "utc_date": "2027-05-15 14:00:00+00:00",
-    "matchday": 36,
-    "home_team": "Ipswich Town",
-    "away_team": "Man City",
-    "home_win_prob": 0.1091488124582472,
-    "draw_prob": 0.2059153411337956,
-    "away_win_prob": 0.6849358464079571,
-    "predicted_result": "A",
-    "predicted_result_display": "Away Win",
-    "confidence": 0.6849358464079571
+    "match_id": 560886,
+    "utc_date": "2027-05-08 14:00:00+00:00",
+    "matchday": 35,
+    "home_team": "Brentford",
+    "away_team": "Aston Villa",
+    "home_win_prob": 0.40566415781728105,
+    "draw_prob": 0.2813658759073789,
+    "away_win_prob": 0.3129699662753403,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.40566415781728105
   },
   {
     "match_id": 560895,
@@ -3788,38 +3645,25 @@
     "matchday": 36,
     "home_team": "Arsenal",
     "away_team": "Nottingham",
-    "home_win_prob": 0.6503158557033158,
-    "draw_prob": 0.1914847003963449,
-    "away_win_prob": 0.1581994439003391,
+    "home_win_prob": 0.6176117194650895,
+    "draw_prob": 0.22200288403596222,
+    "away_win_prob": 0.1603853964989485,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.6503158557033158
+    "confidence": 0.6176117194650895
   },
   {
-    "match_id": 560892,
+    "match_id": 560894,
     "utc_date": "2027-05-15 14:00:00+00:00",
     "matchday": 36,
-    "home_team": "Sunderland",
-    "away_team": "Bournemouth",
-    "home_win_prob": 0.4982634995163053,
-    "draw_prob": 0.2230880552506123,
-    "away_win_prob": 0.2786484452330828,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4982634995163053
-  },
-  {
-    "match_id": 560901,
-    "utc_date": "2027-05-15 14:00:00+00:00",
-    "matchday": 36,
-    "home_team": "Coventry City",
-    "away_team": "Tottenham",
-    "home_win_prob": 0.4321545899893825,
-    "draw_prob": 0.2912885218917338,
-    "away_win_prob": 0.2765568881188837,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4321545899893825
+    "home_team": "Ipswich Town",
+    "away_team": "Man City",
+    "home_win_prob": 0.1263931253774663,
+    "draw_prob": 0.22859058919620762,
+    "away_win_prob": 0.6450162854263265,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.6450162854263265
   },
   {
     "match_id": 560893,
@@ -3827,12 +3671,38 @@
     "matchday": 36,
     "home_team": "Liverpool",
     "away_team": "Brentford",
-    "home_win_prob": 0.5874278043321918,
-    "draw_prob": 0.1741991185970294,
-    "away_win_prob": 0.2383730770707789,
+    "home_win_prob": 0.5903538887933396,
+    "draw_prob": 0.18410352798843538,
+    "away_win_prob": 0.22554258321822535,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.5874278043321918
+    "confidence": 0.5903538887933396
+  },
+  {
+    "match_id": 560892,
+    "utc_date": "2027-05-15 14:00:00+00:00",
+    "matchday": 36,
+    "home_team": "Sunderland",
+    "away_team": "Bournemouth",
+    "home_win_prob": 0.333994094178824,
+    "draw_prob": 0.2090104780764138,
+    "away_win_prob": 0.45699542774476226,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.45699542774476226
+  },
+  {
+    "match_id": 560901,
+    "utc_date": "2027-05-15 14:00:00+00:00",
+    "matchday": 36,
+    "home_team": "Coventry City",
+    "away_team": "Tottenham",
+    "home_win_prob": 0.32020160350044596,
+    "draw_prob": 0.25522330022742884,
+    "away_win_prob": 0.4245750962721253,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.4245750962721253
   },
   {
     "match_id": 560899,
@@ -3840,12 +3710,12 @@
     "matchday": 36,
     "home_team": "Aston Villa",
     "away_team": "Newcastle",
-    "home_win_prob": 0.4693462873030148,
-    "draw_prob": 0.2193011667269329,
-    "away_win_prob": 0.3113525459700522,
+    "home_win_prob": 0.48970135287281225,
+    "draw_prob": 0.24898370055355523,
+    "away_win_prob": 0.2613149465736325,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4693462873030148
+    "confidence": 0.48970135287281225
   },
   {
     "match_id": 560898,
@@ -3853,12 +3723,12 @@
     "matchday": 36,
     "home_team": "Crystal Palace",
     "away_team": "Brighton Hove",
-    "home_win_prob": 0.3763199090695573,
-    "draw_prob": 0.2962647304061836,
-    "away_win_prob": 0.327415360524259,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.3763199090695573
+    "home_win_prob": 0.3266102303432579,
+    "draw_prob": 0.32268945450167075,
+    "away_win_prob": 0.3507003151550714,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.3507003151550714
   },
   {
     "match_id": 560897,
@@ -3866,12 +3736,12 @@
     "matchday": 36,
     "home_team": "Man United",
     "away_team": "Leeds United",
-    "home_win_prob": 0.5060041498861989,
-    "draw_prob": 0.2167658130654114,
-    "away_win_prob": 0.2772300370483896,
+    "home_win_prob": 0.4886069155882546,
+    "draw_prob": 0.2201523622721805,
+    "away_win_prob": 0.2912407221395649,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.5060041498861989
+    "confidence": 0.4886069155882546
   },
   {
     "match_id": 560896,
@@ -3879,12 +3749,12 @@
     "matchday": 36,
     "home_team": "Hull City",
     "away_team": "Fulham",
-    "home_win_prob": 0.4573336326363044,
-    "draw_prob": 0.3133663527580845,
-    "away_win_prob": 0.2293000146056112,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.4573336326363044
+    "home_win_prob": 0.3353511363899321,
+    "draw_prob": 0.29145205749489655,
+    "away_win_prob": 0.37319680611517164,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.37319680611517164
   },
   {
     "match_id": 560900,
@@ -3892,38 +3762,12 @@
     "matchday": 36,
     "home_team": "Chelsea",
     "away_team": "Everton",
-    "home_win_prob": 0.4537948269584183,
-    "draw_prob": 0.2410998360258411,
-    "away_win_prob": 0.3051053370157405,
+    "home_win_prob": 0.4367547828784824,
+    "draw_prob": 0.24634219835717996,
+    "away_win_prob": 0.3169030187643374,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4537948269584183
-  },
-  {
-    "match_id": 560911,
-    "utc_date": "2027-05-23 14:00:00+00:00",
-    "matchday": 37,
-    "home_team": "Man City",
-    "away_team": "Aston Villa",
-    "home_win_prob": 0.445556471036425,
-    "draw_prob": 0.2825830773158985,
-    "away_win_prob": 0.2718604516476764,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.445556471036425
-  },
-  {
-    "match_id": 560910,
-    "utc_date": "2027-05-23 14:00:00+00:00",
-    "matchday": 37,
-    "home_team": "Everton",
-    "away_team": "Arsenal",
-    "home_win_prob": 0.2215404468653827,
-    "draw_prob": 0.3336276834146023,
-    "away_win_prob": 0.4448318697200149,
-    "predicted_result": "A",
-    "predicted_result_display": "Away Win",
-    "confidence": 0.4448318697200149
+    "confidence": 0.4367547828784824
   },
   {
     "match_id": 560908,
@@ -3931,25 +3775,25 @@
     "matchday": 37,
     "home_team": "Bournemouth",
     "away_team": "Chelsea",
-    "home_win_prob": 0.2881178939102147,
-    "draw_prob": 0.3382736088393974,
-    "away_win_prob": 0.3736084972503879,
-    "predicted_result": "A",
-    "predicted_result_display": "Away Win",
-    "confidence": 0.3736084972503879
-  },
-  {
-    "match_id": 560907,
-    "utc_date": "2027-05-23 14:00:00+00:00",
-    "matchday": 37,
-    "home_team": "Nottingham",
-    "away_team": "Ipswich Town",
-    "home_win_prob": 0.456926491712544,
-    "draw_prob": 0.3168382286572802,
-    "away_win_prob": 0.226235279630176,
+    "home_win_prob": 0.3474042680715705,
+    "draw_prob": 0.3248058565320106,
+    "away_win_prob": 0.3277898753964192,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.456926491712544
+    "confidence": 0.3474042680715705
+  },
+  {
+    "match_id": 560910,
+    "utc_date": "2027-05-23 14:00:00+00:00",
+    "matchday": 37,
+    "home_team": "Everton",
+    "away_team": "Arsenal",
+    "home_win_prob": 0.21831943655401592,
+    "draw_prob": 0.3197614162328244,
+    "away_win_prob": 0.4619191472131601,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.4619191472131601
   },
   {
     "match_id": 560909,
@@ -3957,25 +3801,38 @@
     "matchday": 37,
     "home_team": "Fulham",
     "away_team": "Coventry City",
-    "home_win_prob": 0.4444801608306472,
-    "draw_prob": 0.2718290069716703,
-    "away_win_prob": 0.2836908321976829,
+    "home_win_prob": 0.4821881010005803,
+    "draw_prob": 0.26414799571350733,
+    "away_win_prob": 0.25366390328591293,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4444801608306472
+    "confidence": 0.4821881010005803
   },
   {
-    "match_id": 560905,
+    "match_id": 560911,
     "utc_date": "2027-05-23 14:00:00+00:00",
     "matchday": 37,
-    "home_team": "Leeds United",
-    "away_team": "Sunderland",
-    "home_win_prob": 0.4310246963190948,
-    "draw_prob": 0.2522837902426904,
-    "away_win_prob": 0.3166915134382148,
+    "home_team": "Man City",
+    "away_team": "Aston Villa",
+    "home_win_prob": 0.44636380686386934,
+    "draw_prob": 0.28992993724661836,
+    "away_win_prob": 0.2637062558895124,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4310246963190948
+    "confidence": 0.44636380686386934
+  },
+  {
+    "match_id": 560907,
+    "utc_date": "2027-05-23 14:00:00+00:00",
+    "matchday": 37,
+    "home_team": "Nottingham",
+    "away_team": "Ipswich Town",
+    "home_win_prob": 0.4406345306144093,
+    "draw_prob": 0.3099165405136257,
+    "away_win_prob": 0.24944892887196507,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.4406345306144093
   },
   {
     "match_id": 560904,
@@ -3983,12 +3840,25 @@
     "matchday": 37,
     "home_team": "Tottenham",
     "away_team": "Man United",
-    "home_win_prob": 0.3615915503509655,
-    "draw_prob": 0.3283266802488031,
-    "away_win_prob": 0.3100817694002319,
+    "home_win_prob": 0.4069370444300802,
+    "draw_prob": 0.30348585863475125,
+    "away_win_prob": 0.289577096935169,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3615915503509655
+    "confidence": 0.4069370444300802
+  },
+  {
+    "match_id": 560905,
+    "utc_date": "2027-05-23 14:00:00+00:00",
+    "matchday": 37,
+    "home_team": "Leeds United",
+    "away_team": "Sunderland",
+    "home_win_prob": 0.5355462703753194,
+    "draw_prob": 0.26986502057298006,
+    "away_win_prob": 0.19458870905170067,
+    "predicted_result": "H",
+    "predicted_result_display": "Home Win",
+    "confidence": 0.5355462703753194
   },
   {
     "match_id": 560903,
@@ -3996,12 +3866,12 @@
     "matchday": 37,
     "home_team": "Newcastle",
     "away_team": "Crystal Palace",
-    "home_win_prob": 0.422447168601029,
-    "draw_prob": 0.2288515677523644,
-    "away_win_prob": 0.3487012636466064,
-    "predicted_result": "H",
-    "predicted_result_display": "Home Win",
-    "confidence": 0.422447168601029
+    "home_win_prob": 0.39314475159990286,
+    "draw_prob": 0.20060927938228745,
+    "away_win_prob": 0.40624596901780985,
+    "predicted_result": "A",
+    "predicted_result_display": "Away Win",
+    "confidence": 0.40624596901780985
   },
   {
     "match_id": 560902,
@@ -4009,12 +3879,12 @@
     "matchday": 37,
     "home_team": "Brentford",
     "away_team": "Hull City",
-    "home_win_prob": 0.421211396191532,
-    "draw_prob": 0.331779294420713,
-    "away_win_prob": 0.2470093093877552,
+    "home_win_prob": 0.4586174493037576,
+    "draw_prob": 0.3038736543732793,
+    "away_win_prob": 0.23750889632296354,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.421211396191532
+    "confidence": 0.4586174493037576
   },
   {
     "match_id": 560906,
@@ -4022,12 +3892,12 @@
     "matchday": 37,
     "home_team": "Brighton Hove",
     "away_team": "Liverpool",
-    "home_win_prob": 0.419437290184627,
-    "draw_prob": 0.3016947627257021,
-    "away_win_prob": 0.2788679470896709,
+    "home_win_prob": 0.3953705911193519,
+    "draw_prob": 0.33414741219158356,
+    "away_win_prob": 0.2704819966890646,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.419437290184627
+    "confidence": 0.3953705911193519
   },
   {
     "match_id": 560920,
@@ -4035,12 +3905,12 @@
     "matchday": 38,
     "home_team": "Chelsea",
     "away_team": "Brentford",
-    "home_win_prob": 0.4321962027609405,
-    "draw_prob": 0.2321641533111962,
-    "away_win_prob": 0.3356396439278631,
+    "home_win_prob": 0.41141558662353916,
+    "draw_prob": 0.23765442975185866,
+    "away_win_prob": 0.35092998362460215,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4321962027609405
+    "confidence": 0.41141558662353916
   },
   {
     "match_id": 560912,
@@ -4048,12 +3918,12 @@
     "matchday": 38,
     "home_team": "Ipswich Town",
     "away_team": "Everton",
-    "home_win_prob": 0.1930625286695774,
-    "draw_prob": 0.2908808098136635,
-    "away_win_prob": 0.5160566615167591,
+    "home_win_prob": 0.18501402680367277,
+    "draw_prob": 0.35400498703008326,
+    "away_win_prob": 0.46098098616624406,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.5160566615167591
+    "confidence": 0.46098098616624406
   },
   {
     "match_id": 560913,
@@ -4061,12 +3931,12 @@
     "matchday": 38,
     "home_team": "Arsenal",
     "away_team": "Brighton Hove",
-    "home_win_prob": 0.6180382469687384,
-    "draw_prob": 0.1850322505245243,
-    "away_win_prob": 0.1969295025067374,
+    "home_win_prob": 0.5893787386966709,
+    "draw_prob": 0.20216200170349613,
+    "away_win_prob": 0.20845925959983305,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.6180382469687384
+    "confidence": 0.5893787386966709
   },
   {
     "match_id": 560914,
@@ -4074,12 +3944,12 @@
     "matchday": 38,
     "home_team": "Liverpool",
     "away_team": "Bournemouth",
-    "home_win_prob": 0.5583560948464816,
-    "draw_prob": 0.2401552506290548,
-    "away_win_prob": 0.2014886545244636,
+    "home_win_prob": 0.5561122046850655,
+    "draw_prob": 0.20621404686261077,
+    "away_win_prob": 0.23767374845232392,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.5583560948464816
+    "confidence": 0.5561122046850655
   },
   {
     "match_id": 560915,
@@ -4087,12 +3957,12 @@
     "matchday": 38,
     "home_team": "Coventry City",
     "away_team": "Nottingham",
-    "home_win_prob": 0.3378989194425472,
-    "draw_prob": 0.3128138873912305,
-    "away_win_prob": 0.3492871931662223,
+    "home_win_prob": 0.3459208366220256,
+    "draw_prob": 0.30525548567340566,
+    "away_win_prob": 0.3488236777045689,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.3492871931662223
+    "confidence": 0.3488236777045689
   },
   {
     "match_id": 560916,
@@ -4100,12 +3970,12 @@
     "matchday": 38,
     "home_team": "Aston Villa",
     "away_team": "Tottenham",
-    "home_win_prob": 0.4765256595879698,
-    "draw_prob": 0.253119698920559,
-    "away_win_prob": 0.2703546414914715,
+    "home_win_prob": 0.5367658865474322,
+    "draw_prob": 0.18959104387963913,
+    "away_win_prob": 0.2736430695729287,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4765256595879698
+    "confidence": 0.5367658865474322
   },
   {
     "match_id": 560917,
@@ -4113,12 +3983,12 @@
     "matchday": 38,
     "home_team": "Hull City",
     "away_team": "Newcastle",
-    "home_win_prob": 0.3643779676060699,
-    "draw_prob": 0.2870662316092522,
-    "away_win_prob": 0.348555800784678,
+    "home_win_prob": 0.37053971053467516,
+    "draw_prob": 0.3019364971258093,
+    "away_win_prob": 0.32752379233951573,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.3643779676060699
+    "confidence": 0.37053971053467516
   },
   {
     "match_id": 560918,
@@ -4126,12 +3996,12 @@
     "matchday": 38,
     "home_team": "Man United",
     "away_team": "Fulham",
-    "home_win_prob": 0.4464381795181804,
-    "draw_prob": 0.2668873211401347,
-    "away_win_prob": 0.286674499341685,
+    "home_win_prob": 0.5004726376144008,
+    "draw_prob": 0.1959842154928605,
+    "away_win_prob": 0.30354314689273876,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4464381795181804
+    "confidence": 0.5004726376144008
   },
   {
     "match_id": 560919,
@@ -4139,12 +4009,12 @@
     "matchday": 38,
     "home_team": "Sunderland",
     "away_team": "Man City",
-    "home_win_prob": 0.179185373902473,
-    "draw_prob": 0.2034950089390871,
-    "away_win_prob": 0.6173196171584399,
+    "home_win_prob": 0.16594784150146955,
+    "draw_prob": 0.20517687528415218,
+    "away_win_prob": 0.6288752832143785,
     "predicted_result": "A",
     "predicted_result_display": "Away Win",
-    "confidence": 0.6173196171584399
+    "confidence": 0.6288752832143785
   },
   {
     "match_id": 560921,
@@ -4152,11 +4022,11 @@
     "matchday": 38,
     "home_team": "Crystal Palace",
     "away_team": "Leeds United",
-    "home_win_prob": 0.4031480575861899,
-    "draw_prob": 0.2996234803887898,
-    "away_win_prob": 0.2972284620250204,
+    "home_win_prob": 0.3945841235498325,
+    "draw_prob": 0.3123437198053499,
+    "away_win_prob": 0.29307215664481756,
     "predicted_result": "H",
     "predicted_result_display": "Home Win",
-    "confidence": 0.4031480575861899
+    "confidence": 0.3945841235498325
   }
 ]
